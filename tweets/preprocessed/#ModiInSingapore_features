@@ -1,0 +1,428 @@
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'becomes:VBZ', '1st:CD', 'Indian:JJ', 'PM:NNP', '70:CD', 'years:NNS', 'visit:VB', 'INA:NNP', 'War:NNP', 'Memorial:NNP', 'Singapore:NNP']
+
+['PM:NNP', 'talks:NNS', 'foreign:JJ', 'policy:NN', 'addressing:VBG', 'Indian:JJ', 'diaspora:NN', 'Singapore:NNP']
+
+['40:CD', 'lakh:JJ', 'Indians:NNPS', 'gave:VBD', 'LPG:NNP', 'subsidy:NN', 'request:NN', 'says:VBZ', 'PM:NNP']
+
+['PM:NN', 'memorial:JJ', 'pays:NNS', 'homage:NN', 'Netaji:NNP', 'Subhas:NNP', 'Chandra:NNP', 'Bose:NNP']
+
+['India:NNP', 'Begun:VBN', 'movement:NN', 'Working:VBG', 'skill:NN', 'development:NN', 'Working:VBG', 'Singapore:NNP', 'Germany:NNP', 'USA:NNP', 'Development:NNP', 'Nation:NN']
+
+['want:VBP', 'renewable:JJ', 'energy:NN', 'wind:NN', 'energy:NN', 'nuclear:JJ', 'energy:NN', 'speaks:NNS', 'Indias:NNP', 'commitment:NN', 'towards:NNS', 'clean:JJ', 'environ:NN']
+
+['want:VBP', '2:CD', 'work:NN', 'towards:NNS', 'development:NN', 'Development:NNP', 'tat:NN', 'wipes:NNS', 'tears:NNS', 'd:JJ', 'eyes:NNS', 'poor:JJ', 'empowers:VBZ', 'youth:NN', '&amp;:JJ', 'women:NNS']
+
+['PMShould:VB', 'nation:NN', '125cr:CD', 'people:NNS', 'rely:RB', 'nations:NNS', 'defence:NN', 'equipment?Why:NN', "can't:NN", 'make:VBP', 'htt:VB']
+
+['India:NNP', 'follow:VB', 'fulfill:VB', 'Swami:NNP', "Vivekananda's:NNP", 'dreams:VBZ', 'PM:NNP']
+
+['PM:NNP', 'looking:VBG', 'generating:VBG', 'power:NN', 'waste:NN', 'generated:VBN', 'Indian:JJ', 'cities:NNS', 'Power:NNP', 'clean:JJ', 'cities:NNS', 'idea:NN']
+
+["here's:NN", 'learn:VB', 'Lee:NNP', 'Kuan:NNP', "Yew's:NNP", 'criticisms:VBD']
+
+['Reminds:NNS', 'Book:NNP', 'Lee:NNP', 'Kuan:NNP', 'Yew:NNP', 'Hope:NNP', '1st:CD', 'World:NNP', '2019:CD']
+
+['PM:NNP', 'politely:RB', 'refused:VBD', 'offer:NN', 'Orchid:NNP', 'named:VBN']
+
+['Still:RB', 'best:JJS', 'punchline:NN', 'last:JJ', 'night:NN', 'Indian:JJ', 'PM:NNP', 'Narendra:NNP', 'Modi:NNP']
+
+['1:CD', 'PSLE:NNP', '2:CD', 'Yishun:NNP', 'Bishan:NNP', '3:CD', '4:CD', '5:CD', '2015/11/25:CD', '1112:CD', 'SGT:NN']
+
+['TT:NNP', 'SINGAPORE:NNP', '1120:CD', '1PSLE:CD', '2Yishun:CD', 'Bishan:NNP', '3#VideoMTV2015:CD', '4#ModiInSingapore:CD', '5#GRAMMYs:CD', '6Turkey:CD', '7#6YearsOfOneTime:CD', '8#LionsXII:CD', '9Syria:CD']
+
+['listening:VBG', 'PM:NNP', "Modi's:NNP", 'address:NN', '2Indian:CD', 'Community:NNP', 'Singapore:NNP']
+
+['PM:NNP', "Modi's:NNP", 'address:NN', 'Indian:JJ', 'Diaspora:NNP', 'around:RB', '545pm:CD', 'IST:NNP']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'paying:VBG', 'homage:NN', 'INA:NNP', 'memorial:NN', 'Singapore:NNP', 'ANI:NNP']
+
+['Indian:JJ', 'Diaspora:NNP', 'event:NN', 'begins:VBZ', 'PM:NNP', 'Modi:NNP', 'address:VB', 'around:IN', '545:CD', 'pm:NNS', 'IST:NNP']
+
+['Perceptions:NNS', 'r:VBP', 'changing:VBG', '40%:CD', 'increase:NN', 'FDI:NNP', 'inflows:NNS', '12places:CD', 'Ease:NNP', 'BusinessRankings:NNP', 'https/:NN']
+
+['PM:NNP', 'Modi:NNP', 'speaking:VBG', 'IndiaSingapore:NNP', 'EconomicConvention:NNP']
+
+['number:NN', 'times:NNS', 'NaMo:NNP', 'mentioned:VBD', 'Vasudaiva:NNP', 'Kudumbam:NNP', 'addressing:VBG', 'diaspora:NN', 'shows:NNS', 'd:VBP', 'immense:JJ', 'imptnce:NN']
+
+['globe-trotting:JJ', 'Message:NNP', 'NaMo:NNP', 'wants:VBZ', 'spread:VB', 'clear:JJ', 'address:NN', 'Thats:NNP', 'Vasudaiva:NNP', 'Kudumba:NNP']
+
+['working:VBG', 'skill:NN', 'development:NN', 'Singapore:NNP', 'Germany:NNP', 'USA:NNP', 'movt:NN', 'started:VBN', 'PM:NNP']
+
+['Indian:JJ', 'must:MD', 'gain:VB', 'respect:NN', 'globally:RB']
+
+['PM:NNP', 'Modi:NNP', 'back:RB', 'India:NNP', 'highly:RB', 'successful:JJ', '2:CD', 'nation:NN', 'visit:NN']
+
+["doesn't:NN", 'excites:VBZ', 'much:RB', "I'm:NNP", 'sure:NN', 'miss:VBP']
+
+['derive:VB', 'tremendous:JJ', 'strength:NN', 'Somnath:NNP', 'Ultimate:NNP', 'symbol:NN', 'Hindu:NNP', 'resilience:NN']
+
+['1:CD', 'PSLE:NNP', '2:CD', 'Yishun:NNP', 'Bishan:NNP', '3:CD', '4:CD', '5:CD', '2015/11/25:CD', '1057:CD', 'SGT:NN']
+
+['TT:NNP', 'SINGAPORE:NNP', '1100:CD', '1PSLE:CD', '2Yishun:CD', 'Bishan:NNP', '3#VideoMTV2015:CD', '4#ModiInSingapore:CD', '5#GRAMMYs:CD', '6Turkey:CD', '7#6YearsOfOneTime:CD', '8#LionsXII:CD', '9Syria:CD']
+
+['PM:NNP', 'Modi:NNP', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'Singapore:NNP']
+
+['PM:NNP', 'pays:VBZ', 'homage:NN', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'Singapore:NNP']
+
+['PM:NNP', 'Modi:NNP', 'pays:VBZ', 'homage:NN', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'Singapore:NNP']
+
+['Everyone:NN', 'eagerly:RB', 'waiting:VBG']
+
+['PM:NNP', 'Modi:NNP', 'address:VB', 'Indian:JJ', 'Diaspora:NNP', 'Singapore:NNP', 'soon:RB', 'Already:RB', 'house:NN', 'full:JJ']
+
+['pics:NNS', 'ITE:NNP', 'lies:VBZ', 'parliamentary:JJ', 'constituency:NN', 'PM:NNP']
+
+['PM:NNP', 'pays:VBZ', 'homage:NN', 'INA:NNP', 'memorial:JJ', 'marker:NN']
+
+['PM:NNP', 'busy:JJ', 'bringing:VBG', 'investment:NN', 'working:VBG', 'hard:JJ', 'improve:VB', 'reputation:NN', 'country:NN', 'destroying:VBG', 'name:NN']
+
+['PM:NNP', 'PM:NNP', 'Singapore:NNP', 'signing:NN', 'ceremony:NN', 'Istana:NNP']
+
+['INA:NNP', 'memorial:JJ', 'marker:NN', 'Singapore:NNP', 'PM:NNP', 'arrive:VB', 'shortly:RB']
+
+['Pm:NNP', 'Modi:NNP', 'hv:NN', 'vegdinnerwt:VBD', 'counterpartLee:NN', 'Hsien:NNP', 'Loong&amp;:NNP', 'wife:NN', 'Indian:JJ', 'rest:NN', 'Little:NNP', 'India:NNP']
+
+['People:NNS', 'wheelchair:JJ', 'come:VBP', 'listen:VB', 'Love:NNP', '&amp;:NNP', 'respect:NN']
+
+['Picture:NN', 'Perfect:NNP', 'Singapore:NNP', 'PM:NNP', 'pose:NN', 'group:NN', 'pic:NN', 'ITE:NNP']
+
+['PM:NN', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'Singapore:NNP']
+
+['PM:NNP', 'pays:VBZ', 'homage:NN', 'INA:NNP', 'memorial:JJ', 'marker:NN']
+
+['PM:NNP', 'pays:NNS', 'tribute:VBP', 'INA:NNP', 'martyrs:NN', 'Singapore:NNP']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'first:JJ', 'Indian:JJ', 'PM:NNP', 'visit:VB', 'INA:NNP', 'memorial:JJ', 'marker:NN']
+
+['Students:NNS', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'welcome:VB', 'PM:NNP', 'Modi:NNP']
+
+['PM:NN', 'students:NNS', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN']
+
+['PM:NNP', 'Modi:NNP', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN', 'Singapore:NNP']
+
+['Govt:NNP', 'focused:VBN', 'improving:VBG', 'business:NN', 'environment:NN', 'Sunil:NNP', 'Mittal:NNP', 'economic:JJ', 'convention:NN']
+
+['INA:NNP', 'Memorial:NNP', 'wears:VBZ', 'festive:JJ', 'look:NN', 'welcome:VB']
+
+['PM:NNP', 'gifts:NNS', 'map:VBP', 'reproduction:NN', '1849:CD']
+
+['ITE:NNP', 'College:NNP', 'Central:NNP', 'earlier:RB']
+
+['Students:NNS', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'welcome:VB', 'PM:NNP']
+
+['PM:NN', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN']
+
+['Singapore-India:NNP', 'Signs:NNP', 'Joint:NNP', 'Declaration:NNP', 'Strategic:NNP', 'Partnership:NNP']
+
+['CEO:NNP', 'shares:NNS', 'DBS:NNP', 'latest:JJS', 'plans:NNS', 'India:NNP']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'students:NNS', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN', 'Singapore:NNP', 'h:NN']
+
+['Sunil:NNP', 'Bharti:NNP', 'Mittal:NNP', 'talks:NNS', 'business:NN', 'opportunities:NNS', 'India:NNP']
+
+['PM:NNP', 'Modi:NNP', 'released:VBD', 'commemorative:JJ', 'stamps:NNS']
+
+['INA:NNP', 'veterans:NNS', 'family:NN', 'members:NNS', 'children:NNS', 'waiting:VBG', 'Memorial:JJ', '4:CD']
+
+['PM:NNP', 'Modi:NNP', "Singapore's:NNP", 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'group:NN', 'snap:NN', 'ITE:NNP', 'central:JJ', 'campus:NN']
+
+['Keynote:NNP', 'panel:NN', 'mentions:NNS', 'work:VBP', 'improve:VB', 'sanitation:NN', 'India:NNP']
+
+['Waiting:VBG', 'friend:NN', 'get:VB', 'queue:NN', 'event:NN']
+
+['India:NNP', 'Singapore:NNP', 'launch:VBP', 'joint:JJ', 'postage:NN', 'stamp:NN', 'PM:NNP', "Modi's:NNP", 'visit:NN']
+
+['Trending:VBG', 'High:NNP', 'Singapore:NNP', 'Visit:NNP']
+
+['Stay:NNP', 'tuned:VBD', 'tweeting:VBG', 'Starting:VBG', 'around:IN', '8pm:CD', 'GMT+8:NNP']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'students:NNS', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN', 'Singapore:NNP']
+
+['Full:NNP', 'house:NN', 'India-Singapore:NNP', 'Economic:NNP', 'Convention:NNP', 'occasion:NN', 'PM:NNP', 'Modi:NNP', 'visit:NN']
+
+['Volunteers:NNS', 'pic:VBP', 'hour:NN', 'ago:IN']
+
+['PM:NNP', 'first:JJ', 'Indian:JJ', 'PM:NNP', 'visit:VB', 'INA:NNP', 'memorial:JJ', 'marker:NN']
+
+['final:JJ', 'rehearsal:NN', 'Indian:JJ', 'diaspora:NN', 'event:NN', 'full:JJ', 'swing:NN']
+
+['Crowd:NNP', 'pouring:NN', 'Total:NNP', 'seats:NNS', '16500:CD', 'Wow:NNP']
+
+['receives:NNS', 'ceremonial:JJ', 'welcome:JJ', 'Istana:NNP']
+
+['PM:NN', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN', 'Singapore:NNP']
+
+['MODI:NNP', 'one:CD', 'man:NN', 'rock:NN', 'band:NN', 'minus:VBZ', 'rock:NN', 'band:NN', 'bit:NN']
+
+['PM:NNP', 'Modi:NNP', 'ITE:NNP', 'campus:NN', 'Singapore:NNP']
+
+['PM:NNP', 'Modi:NNP', 'ceremonial:JJ', 'welcome:NN', 'Istana:NNP', 'Singapore:NNP']
+
+['Singapore:NNP', 'welcomes:NNS', 'PM:NNP', 'Modi:NNP']
+
+['lines:NNS', 'outside:IN', 'Singapore:NNP', 'Expo:NNP', 'crazy:JJ', 'visit:NN', 'excited:VBN', 'speech:NN']
+
+['PM:NN', 'ITE:NNP', 'campus:NN', 'Singapore:NNP']
+
+['PM:NNP', 'ji:NN', 'presents:NNS', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'reproduction:NN', 'map:NN', 'island:NN', 'dating:VBG', 'back:RB']
+
+["India's:NNP", 'story:NN', 'compelling:VBG', 'emerging:VBG', 'middle:JJ', 'class:NN', 'young:JJ', 'pop:NN', 'consumption:NN', 'boom:NN', 'propelling:VBG', 'growth:NN']
+
+['PM:NNP', 'visits:VBZ', 'Institute:NNP', 'Technical:NNP', 'Education:NNP']
+
+['Retd:NNP', 'Major:NNP', 'Ishwar:NNP', 'Lal:NNP', 'worked:VBD', 'Rash:NNP', 'Bihar:NNP', 'Bose:NNP', '&amp;:NNP', 'member:NN', 'INA:NNP']
+
+['&amp;:JJ', 'share:NN', 'South:NNP', 'Indian:JJ', 'meal:NN', 'banana:NN', 'leavers:NNS', 'restaurant:NN']
+
+['India-Singapore:NNP', 'sign:NN', 'key:NN', 'agreements;:JJ', 'Defence:NNP', 'Trade:NNP', 'high:VBP', 'agenda:NN']
+
+['PM:NN', 'students:NNS', 'Institute:NNP', 'Technical:NNP', 'Education(ITE):NNP', 'campus:NN', 'Singapore:NNP']
+
+['Commemorative:JJ', 'stamps:NNS', 'released:VBN', 'jointly:RB', 'Singapore:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP']
+
+['India:NNP', 'Singapore:NNP', 'sign:NN', 'key:JJ', 'bilateral:JJ', 'agreements:NNS']
+
+['Singapore:NNP', 'PM:NNP', 'reaffirms:VBZ', 'continuing:VBG', 'support:NN', 'India:NNP', 'permanent:JJ', 'member:NN', 'reformed:JJ', 'UN:NN']
+
+['India:NNP', 'Singapore:NNP', 'sign:NN', '10:CD', 'bilateral:JJ', 'documents:NNS', 'across:IN', 'several:JJ', 'sectors:NNS']
+
+['5S:CD', 'Cooperation:NNP', 'continue:VB', 'bedrock:NN', 'economic:JJ', 'cooperation:NN', 'India:NNP', 'Singapore:NNP']
+
+['focus:NN', 'Scaling:VBG', 'trade-invesrment:NN', 'speeding:VBG', 'air:NN', '&amp;:IN', 'maritime:JJ', 'connectivity:NN', 'smart:JJ', 'cities:NNS', 'skill:VBP', 'developme:VB']
+
+['PM:NNP', 'presents:VBZ', 'reproduction:NN', 'map:NN', 'dating:VBG', 'back:RB', '1849:CD', 'PM:VB']
+
+['Thanks:NNS', 'jiFor:VBP', 'visiting:VBG', 'site:NN', 'INA:NNP', 'Memorial:NNP', 'Nehru:NNP', 'evadedSalutations:NNS']
+
+['1st:CD', 'Indian:JJ', 'PM:NNP', 'visit:VB', 'historic:JJ', 'INA:NNP', 'Memorial:NNP']
+
+['PM:NNP', 'first:RB', 'official:JJ', 'visit:NN', 'Singapore:NNP', 'ITE:NNP', 'campus:NN', 'Focus:NNP', 'tech:JJ', 'education:NN']
+
+['PM:NNP', 'Modi:NNP', 'accompanied:VBN', 'Singaporean:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'whose:WP$', 'constituency:NN', 'ITE:NNP', 'located:VBN']
+
+['Singapore:NNP', 'ready:JJ', 'welcome:VB', 'PM:NNP', 'Modi:NNP', 'later:RB', 'today:NN']
+
+['Happening:VBG', 'plenary:JJ', 'session:NN', 'Fever:NNP', '20:CD', 'Tune:NNP', 'live:JJ']
+
+['PM:NNP', 'Modi:NNP', 'visits:VBZ', 'Institute:NNP', 'Technical:NNP', 'Education:NNP', 'Singapore:NNP']
+
+["We're:NNP", 'live:VBP', 'India:NNP', 'Sg:NNP', 'Econ:NNP', 'Convention:NNP', 'IE:NNP', 'CEO:NNP', 'Join:NNP', 'us:PRP']
+
+['Fantastic:JJ', 'panel:NN', 'economic:JJ', 'convention:NN', 'addressing:VBG', 'India:NNP', 'Fever:NNP', '20:CD']
+
+['build:VB', 'India:NNP']
+
+['live:VBP', '1wk:CD', 'ago:RB', 'India:NNP', 'announced:VBD', 'FDI:NNP', 'reforms:NNS', '15:CD', 'sectors:NNS', 'banking:VBG', 'construction:NN', 'civil:JJ', 'aviation:NN']
+
+['PM:NNP', 'brought:VBN', 'changes:NNS', 'infrastructure:NN', '&amp;:JJ', 'tax:NN', 'reforms:NNS', 'CEO#India:NNP']
+
+['busy:JJ', 'inviting:VBG', 'ppl:NN', 'opposite:NN']
+
+['says:VBZ', "Sg's:NNP", 'proud:NN', '2:CD', 'work:NN', 'w:NN', '2:CD', 'master:NN', 'plan:NN', '&amp;:NNP', 'dev:VBZ', 'new:JJ', 'capital:NN']
+
+['India:NNP', '2:CD', 'b:NN', 'among:IN', 'fastest-growing:JJ', 'economies:NNS', '2015:CD', "est'd:NN", '75%:CD', 'GDP:NNP', 'growth:NN']
+
+['CEO:NNP', 'speaks:VBZ', 'positive:JJ', 'reforms:NNS', 'business:NN', 'environment:NN', 'since:IN', 'PM:NNP', 'took:VBD', 'office:NN']
+
+['PM:NNP', 'visits:NNS', 'Institute:NNP', 'Technical:NNP', 'Education:NNP', 'Singapore:NNP']
+
+['India:NNP', '2:CD', 'b:NN', 'among:IN', 'fastest-growing:JJ', 'economies:NNS', '2015w:CD', "est'd:JJ", '75%:CD', 'GDP:NNP', 'growth:NN']
+
+['diverse:JJ', 'Indian:NNP', 'community:NN', 'helped:VBN', 'build:VB', 'Singapore:NNP', 'PM:NNP']
+
+['little:JJ', 'group:NN', 'volunteers:NNS', 'event:NN', 'today:NN', 'also:RB']
+
+['heard:NN', 'frm:NN', 'IE:NNP', "India's:NNP", 'attractive:JJ', '13b:CD', 'ppl:NN', 'w:NN', 'young:JJ', 'eng-speaking:JJ', 'pop:NN']
+
+['Singapore-India:NNP', 'joint:NN', 'stamp:NN', 'issue:NN', 'released:VBD']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'first:JJ', 'Indian:JJ', 'PM:NNP', 'visit:VB', 'INA:NNP', 'memorial:JJ', 'marker:NN', 'via:IN', 'ANI_news:NNP']
+
+['PM:NNP', 'meeting:VBG', 'Emeritus:NNP', 'Senior:NNP', 'Minister:NNP', 'Singapore:NNP', 'Mr:NNP', 'Goh:NNP', 'Chok:NNP', 'Tong:NNP', 'Istana:NNP', 'http:NN']
+
+['PM:NN', 'ITE:NNP', 'Watch:NNP', 'LIVE:NNP']
+
+['PM:NNP', 'meeting:VBG', 'Emeritus:NNP', 'Senior:NNP', 'Minister:NNP', 'Singapore:NNP', 'Mr:NNP', 'Goh:NNP', 'Chok:NNP', 'Tong:NNP', 'Istana:NNP']
+
+['part:NN', 'conversation:NN', 'Join:NNP', 'us:PRP']
+
+['meets:NNS', 'President:NNP', 'Singapore:NNP', 'Tony:NNP', 'Tan:NNP', 'Keng:NNP', 'Yam:NNP']
+
+['PM:NNP', 'Modi:NNP', 'deliver:VB', 'Singapore:NNP', 'Lecture:NNP', 'shortly:RB']
+
+['PM:NNP', 'Modi:NNP', 'begins:VBZ', 'Singapore:NNP', 'Lecture:NNP']
+
+['PM:NNP', 'Modi:NNP', '37th:CD', 'Singapore:NNP', 'Lecture:NN', 'Shangri-La-Hotel:NNP']
+
+['PM:NNP', 'Modi:NNP', 'Addressed:VBD', '37th:CD', 'Singapore:NNP', 'Lecture:NN']
+
+['PM:NNP', 'visiting:VBG', 'Institute:NNP', 'Technical:NNP', 'Education:NNP', 'Singapore:NNP']
+
+['Prime:NNP', 'Minister:NNP', 'Singapore:NNP', 'Mr:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'arrives:VBZ', 'Istana:NNP', 'ceremonial:JJ', 'reception:NN', 'held:VBD', 'PM:NNP', 'Modi:NNP']
+
+['Singapore:NNP', 'major:JJ', 'partner:NN', 'almost:RB', 'every:DT', 'area:NN', "India's:NNP", 'transformation:NN', 'PM:NNP', 'Modi:NNP']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'PM:NNP', 'Singapore:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'signing:NN', 'ceremony:NN', 'Istana:NNP']
+
+['Ppl:NNS', '100s:CD', 'volunteer:NN']
+
+['Top:JJ', 'discussions:NNS', 'Hash:NNP', 'tags:NNS', 'Visit:NNS']
+
+['Tweet:NN', 'event:NN', 'watch:VB', 'go:VB', 'social:JJ', 'media:NNS', 'wall:NN']
+
+['PM:NNP', 'Shri:NNP', 'calls:VBZ', 'President:NNP', 'Tony:NNP', 'Tan:NNP', 'Keng:NNP', 'Yam:NNP', 'Singapore:NNP']
+
+['Thanks:NNS', 'coming:VBG', "We're:NNP", 'looking:VBG', 'forward:RB', 'hearing:VBG', 'speak:VB']
+
+['PM:NNP', 'meets:NNS', 'PM:NNP', 'Istana:NNP']
+
+['known:VBN', 'seamless:NN', 'system:NN', 'Lessons:NNP', 'learn:VB']
+
+['importance:NN', 'political:JJ', 'pluralism:NN', 'Maldives:NNP', 'part:NN', 'regular:JJ', 'dialogue:NN', 'India:NNP', '&amp;:NNP', 'Maldives:NNS']
+
+['Looking:VBG', 'forward:RB', 'seeing:VBG', 'speak:NN']
+
+['PM:NNP', 'PM:NNP', 'Singapore:NNP', 'unveiling:VBG', 'India:NNP', 'Singapore:NNP', 'Stamps:NNP']
+
+['IE:NNP', 'CEO:NNP', 'takes:VBZ', 'interview:NN', 'w/:NN', "S'pore:NNP", 'India:NNP', 'Econ:NNP', 'Conv:NNP']
+
+['Urban:NNP', 'development:NN', 'discussedtransport:JJ', '&amp;:JJ', 'infrastructure:NN', 'specifically:RB', 'Anil:NNP', 'WadhwaSecy:NNP', 'eastMEA:NN', 'India-Singapore:NN']
+
+['disucssion:NN', 'issuing:VBG', 'rupuee:JJ', 'bonds:NNS', 'Singapore:NNP', 'Defence:NNP', 'also:RB', 'discussedAnil:JJ', 'WadhwaSecy:NNP', 'east:NN']
+
+['Amravati:NNP', 'focused:VBN', 'upon:IN', 'Singapore:NNP', 'Anil:NNP', 'WadhwaSecy:NNP', 'eastMEA:NN']
+
+['Singapore:NNP', 'companies:NNS', 'expressed:VBN', 'interest:NN', 'upgradation:NN', 'Jaipur:NNP', 'Ahmedabad:NNP', 'airportsAnil:VBP', 'WadhwaSecy:NNP', 'eastMEA:NN']
+
+['PM:NNP', 'Shri:NNP', 'meeting:VBG', 'Emeritus:NNP', 'Senior:NNP', 'Minister:NNP', 'Singapore:NNP', 'Mr:NNP', 'Goh:NNP', 'Chok:NNP', 'Tong:NNP']
+
+['Urban:NNP', 'development:NN', 'discussedtransport:JJ', '&amp;:JJ', 'infrastructure:NN', 'specifically:RB', 'Anil:NNP', 'WadhwaSecy:NNP', 'eastMEA:NN', 'India-Singapore:NNP', 'talks:NNS']
+
+['PM:NNP', '&amp;:NNP', 'PM:NNP', 'Singapore:NNP', 'witnessing:VBG', 'agreement:NN', 'signing:NN', 'ceremony:NN']
+
+['u:JJ', 'read:VBP', 'Modi:NNP', 'speeches:NNS', 'carefully:RB', 'u:VBP', 'get:VB', 'know:VB', 'countries:NNS', 'inspiration:NN', 'Modi:NNP', 'except:IN', 'India:NNP', '&amp;:NNP', 'citize:NN']
+
+['Couple:NN', 'hours:NNS', 'event:NN', 'starts:VBZ']
+
+['PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'invites:VBZ', 'PM:NNP', 'tea:VBN', 'Little:NNP', 'India:NNP', 'Singapore:NNP']
+
+['PM:NNP', 'India:NNP', 'PM:NNP', 'launch:NN', 'joint:NN', 'stamp:NNS', 'issue:NN']
+
+['India:NNP', 'PM:NNP', 'meets:VBZ', 'ESM:NNP', 'Goh:NNP', 'Chok:NNP', 'Tong:NNP', 'Istana:NNP']
+
+['course:NN', 'last:JJ', '18mnths:CD', 'Indian:JJ', 'government:NN', 'engaged:VBN', 'South:NNP', 'East:NNP', 'Asian:JJ', 'region:NN', 'world:NN']
+
+['major:JJ', 'partner:NN', 'transformation:NN', 'PM:NNP']
+
+['India:NNP', 'much:RB', 'part:NN', 'Singapores:NNP', 'history:NN', 'PM:NNP', 'Lee:NNP']
+
+['Agenda:NNP', 'Expanding:NNP', 'Partnership:NNP', '2:CD', 'Grow:NNP', 'Trade:NNP', '&amp;:NNP', 'Investment:NNP', 'PM:NNP', 'Speaks:NNP', 'Ind-Sing:NNP', 'story:NN', 'grown:VBN']
+
+['PM:NNP', 'wil:JJ', 'engage:NN', 'constructively:RB', 'across:IN', 'complexity:NN', 'relationship:NN', '2:CD', 'self-assured:JJ', '&amp;:JJ', 'confident:JJ', 'nations:NNS']
+
+['begins:VBZ', 'Covering:VBG', 'economic:JJ', 'convention:NN']
+
+['Lots:NNS', 'excitement:NN', 'address:NN', 'NRI:NNP', 'community:NN', 'tonight:NN']
+
+['Singapore:NNP', 'PM:NNP', 'welcomes:VBZ', 'Modi:NNP', 'Istana:NNP', 'Modi:NNP', 'holds:VBZ', 'bilateral:JJ', 'talks:NNS']
+
+['PM:NNP', 'Modi:NNP', 'Full:NNP', 'Speech:NNP', '37th:CD', 'Singapore:NNP', 'Lecture:NN', 'Shangri-La-Hotel:NNP']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'ends:VBZ', 'Malaysia:NNP', 'Visit:NNP', 'Leaves:NNP', 'Singapore:NNP', 'Man:NN']
+
+['PM:NNP', 'gift:NN', 'Prime:NNP', 'Minister:NNP', 'Mr:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP']
+
+['Simplicity:NN', 'keynote:NN', 'true:JJ', 'Elegance:NN']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'praises:VBZ', 'energy:NN', 'sense:NN', 'purpose:NN', 'enterprise:NN', 'Singapore:NNP', 'air:NN']
+
+['place:NN', 'like:IN', 'Singapore:NNP', 'symbol:NN', 'aspiration:NN', 'people:NNS', 'source:NN', 'inspiration:NN', 'nations:NNS']
+
+['large:JJ', 'bandwidth:NN', 'coopn10:JJ', 'bilateral:JJ', 'docs:NN', 'signed:VBD', 'btw:NN', 'cutting:NN', 'across:IN', 'sectors:NNS', 'MEA:NNP', 'https/:NN']
+
+['Joint:JJ', 'India-Singapore:NNP', 'postage:NN', 'stamp:NN', 'launched:VBN']
+
+['See:VB', 'top:JJ', 'discussions:NNS', 'Trending:VBG', 'fast:NN']
+
+['Asiatic:JJ', 'Lion:NNP', 'found:VBN', 'Gujarat:NNP', "Asia's:NNP", 'economic:JJ', 'lion:NN', 'Singapore:NNP', 'PM:NNP', 'Modi:NNP']
+
+['PM:NNP', 'meets:NNS', 'Tony:NNP', 'Keng:NNP', 'Yam:NNP', 'President:NNP', 'VIDEO:NNP']
+
+['PM:NNP', 'Singapore:NNP', 'Signing:NNP', 'Agreements:NNP', 'VIDEO:NNP']
+
+['Watch:NNP', 'share:NN', 'Indian:JJ', 'meal:NN']
+
+['PM:NNP', 'meets:NNS', 'Singapore:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'VIDEO:NNP']
+
+['Raring:VBG', 'go:VB', 'India:NNP', 'Sg:NNP', 'Economic:NNP', 'Convention:NNP', 'See:NNP', 'u:JJ', '&lt;2hrs:NN']
+
+['sign:NN', 'strategic:JJ', 'partnership:NN', '9:CD', 'deals:NNS']
+
+['RT:NNP', 'spati2012:NN', 'PM:NNP', 'Modi:NNP', 'released:VBD', 'commemorative:JJ', 'stamps:NNS']
+
+['Everyone:NN', 'super:NN', 'excited:VBD', 'welcome:VB', 'great:JJ', 'atmosphere:NN']
+
+['two:CD', 'PMs:NNP', 'signing:NN', 'Joint:NNP', 'Declaration:NNP', 'Strategic:NNP', 'Partnership:NNP', 'India:NNP', 'Singapore:NNP', 'http:NN']
+
+['Modi:NNP', 'dines:NNS', 'Lee:NNP', 'Indian:NNP', 'restaurant:NN', 'Singapore:NNP', 'Prime:NNP', 'Minister:NNP', 'Narendra:NNP', 'Modi:NNP', 'today:NN']
+
+['Joint:JJ', 'India-Singapore:NNP', 'postage:NN', 'stamp:NN', 'launched:VBN', 'PM:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP']
+
+['DPM:NNP', 'Tharman:NNP', 'welcomes:VBZ', 'Indian:JJ', 'PM:NNP', 'Modi:NNP', 'Singapore:NNP', 'Lecture:NNP', 'Modi:NNP', '2-day:JJ', 'state:NN', 'visit:NN', 'Singapore:NNP']
+
+['India:NNP', 'Singapore:NNP', 'sign:NN', '10:CD', 'MoUs:NNP']
+
+['demands:NNS', 'accountability:NN', 'provide:VBP', 'funds:NNS', '&amp;:JJ', 'arms:NNS', 'terrorists:NNS', "UNSCwe'd:NNP", 'b:NN']
+
+['PM:NNP', 'Modi:NNP', 'way:NN', 'Singapore:NNP']
+
+['India:NNP', 'signs:NNS', '10:CD', 'bilateral:JJ', 'agreements:NNS', 'including:VBG', 'joint:JJ', 'declaration:NN']
+
+['Find:NNP', 'best:JJS', 'Dream:NNP', 'Tour:CD']
+
+['PM:NNP', 'Narendra:NNP', 'Modi:NNP', 'delivers:NNS', 'banquet:VBD', 'address:NN', 'lunch:NN', 'hosted:VBN', 'Singapore:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP']
+
+['gifts:NNS', 'PM:NNP', 'leehsienloong:VBD', 'reproduction:NN', 'map:NN', 'island:NN', 'Singapore:NNP', 'dating:VBG', 'back:RB', '1849:CD']
+
+['India-Singapore:JJ', 'postage:NN', 'stamps:NNS', 'unveiled:VBD', 'jointly:RB', 'PM:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP']
+
+['PM:NNP', 'holds:VBZ', 'official:JJ', 'talks:NNS', 'Singapore:NNP', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'Istana:NNP']
+
+['PM:NNP', 'meets:NNS', "Singapore's:NNP", 'Emeritus:NNP', 'Senior:NNP', 'Minister:NNP', 'Goh:NNP', 'Chok:NNP', 'Tong:NNP', 'Istana:NNP']
+
+['(2/2):JJ', 'Urban:NNP', 'planning:NN', 'cyber:NN', 'security:NN', 'combating:VBG', 'illicit:JJ', 'trafficking:NN', 'narcotic:JJ', 'drugs:NNS']
+
+['dines:NNS', 'Indian:JJ', 'restaurant:NN']
+
+['India-Singapore:JJ', 'postage:NN', 'stamps:NNS', 'unveiled:VBD', 'jointly:RB', 'Singapore:NNP', 'PM:NNP', '&amp;:NNP', 'PM:NNP', 'htt:NN']
+
+['gifts:NNS', 'PM:VBD', 'reproduction:NN', 'map:NN', 'island:NN', 'Singapore:NNP', 'dating:VBG', 'back:RB', '1849:CD']
+
+['gifts:NNS', 'PM:NNP', 'leehsienloong:VBD', 'reproduction:NN', 'map:NN', 'island:NN', 'Singapore:NNP', 'dating:VBG', 'back:RB']
+
+['size:NN', 'nation:NN', 'barrier:NN', 'scale:NN', 'achievements:NNS', 'PM:NNP', 'Narendra:NNP', 'Damodardas:NNP', 'Modi:NNP']
+
+['India-Singapore:JJ', 'postage:NN', 'stamps:NNS', 'unveiled:VBD', 'jointly:RB', 'Singapore:NNP', 'PM:NNP', '&amp;:NNP', 'PM:NNP']
+
+['PM:NNP', 'Modi:NNP', 'Delivers:NNP', '37th:CD', 'Singapore:NNP', 'Lecture:NN']
+
+['LIVE:NNP', 'ceremonial:JJ', 'reception:NN']
+
+['PM:NNP', 'Modi:NNP', 'Asian:JJ', 'century:NN', "Asia's:NNP", 're-emergence:NN', 'greatest:JJS', 'phenomenon:NN', 'era:NN']
+
+['Ask:NNP', 'entrepreneur:NN', 'thier:NN', 'business:NN', 'going:VBG', 'u:RB', 'get:VB', '1:CD', 'answer:NN', 'downfall:NN', 'starts:NNS']
+
+['get:VB', 'chance:NN', 'see:VB', 'Honourable:JJ']
+
+['Know:NNP', 'hourly:JJ', 'TOP:NNP', 'trends:NNS', 'Visit:NNP']
+
+['Sir:NNP', 'plz:NN', 'borrow:NN', 'concept:NN', 'Singapore:NNP', 'boost:VB', 'universal:JJ', 'health:NN', 'coverage:NN', 'India:NNP']
+
+['PM:NNP', 'Modi:NNP', '&amp;:NNP', 'PM:NNP', 'release:NN', 'detailed:VBD', 'Jt:NNP', 'statement:NN', 'Strategic:NNP', 'Partnership:NNP']
+
+['PM:NNP', 'ji:NN', 'presents:NNS', 'PM:NNP', 'Lee:NNP', 'Hsien:NNP', 'Loong:NNP', 'reproduction:NN', 'map:NN', 'island:NN', 'dating:VBG', 'back:RB', '1849:CD']
+
+['PM:NNP', 'accorded:VBN', 'ceremonial:JJ', 'welcome:NN', 'Istana:NNP', 'Singapore:NNP']
+
+['PM:NNP', 'meets:NNS', 'Singapore:NNP', 'President:NNP', 'Tony:NNP', 'Tan:NNP', 'Keng:NNP', 'Yam:NNP', 'Istana:NNP']
+

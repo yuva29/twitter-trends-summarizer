@@ -1,0 +1,8 @@
+["He:PRP", "added::VBZ", "The:DT", "hashtag:NN", "fun:JJ", "way:NN", "show:VB", "Muslims:NNP", "coming:VBG", "together:RB", "set:VB", "record:NN", "straight:NN", "also:RB", "show:VB", "light:NN", "hearted:VBD", "fun:NN", "way:NN", "laugh:VB", "ridiculous:JJ", "claims.:NNS", "The:DT", "message:NN", "clear:JJ", "-::", "try:VBP", "sensationalise:VB", "stigmatise:VB", "community:NN", "people:NNS", "power:NN", "rise:VB", "set:VB", "record:NN", "straight.:NN"]
+
+["According:VBG", "reports,:VB", "polling:NN", "firm:NN", "Survation,:NNP", "conducted:VBD", "poll:NN", "behalf:NN", "\"The:NNP", "Sun\":NNP", "contacted:VBD", "1,500:CD", "people:NNS", "database:NN", "\"Muslim:JJ", "sounding:VBG", "names\":NN", "asked:VBD", "identified:VBD", "continuing:VBG", "poll:NN", "-::", "pollsters:NNS", "criticize:VBP", "method:NN", "lacking:VBG", "sufficient:JJ", "socioeconomic:JJ", "demographic:JJ", "details:NNS", "order:NN", "represent:VB", "true:JJ", "sampling:NN", "British:JJ", "Muslim:NNP", "population.:NN"]
+
+["The:DT", "methodology:NN", "used:VBN", "The:DT", "Sun's:NNP", "polling:NN", "company:NN", "also:RB", "may:MD", "failed:VBN", "properly:VB", "identify:VB", "Muslims,:NNP", "pollster:NN", "targeted:VBN", "people:NNS", "supposedly:RB", "easily:RB", "identifiable:JJ", "Muslim:NNP", "surnames.:NN"]
+
+["Twitter:NN", "field:NN", "day:NN", "right:RB", "trending:VBG", "hashtag:JJ", "response:NN", "British:JJ", "tabloid:NN", "made:VBD", "seemingly:RB", "grossly:RB", "exaggerated:JJ", "claim:NN", "percentage:NN", "Islamic:NNP", "citizens:NNS", "Sympathy:NNP", "jihadis.:NN"]
+

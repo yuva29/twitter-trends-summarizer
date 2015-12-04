@@ -1,0 +1,10 @@
+["TravelLeisure::NNP", "Go:NNP", "somewhere:RB", "else.:VBZ", "The:DT", "travel:NN", "magazine:NN", "posted:VBD", "link:NN", "article:NN", "alternative:JJ", "places:NNS", "go:VB", "Black:NNP", "Friday.:NNP"]
+
+["Now,:NNP", "many:JJ", "retailers:NNS", "open:VBP", "Thanksgiving:NNP", "Day:NNP", "stay:VB", "open:JJ", "night:NN", "Black:NNP", "Friday.:NNP"]
+
+["Still,:NNP", "since:IN", "I:PRP", "can't:VBP", "talk:VB", "spending:VBG", "money:NN", "many:JJ", "probably:RB", "saving:VBG", "using:VBG", "pay:VB", "debt,:NN", "I:PRP", "thought:VBD", "might:MD", "like:VB", "see:VB", "clever:JJ", "tweets:NNS", "Black:NNP", "Friday:NNP", "responses:VBZ", "trending:VBG", "hashtag::NN", "#BlackFridayIn3Words.:NN"]
+
+["Best:JJS", "Irish:JJ", "Christmas:NNP", "Markets:NNP", "Christmas:NNP", "FM:NNP", "returns:VBZ", "Coca-Cola:NNP", "Irish:NNP", "truck:NN", "tour:NN", "dates:NNS", "Christmas:NNP", "2015:CD", "important:JJ", "post:NN", "dates:NNS", "Brown:NNP", "Thomas:NNP", "Christmas:NNP", "windows:VBZ", "What's:NNP", "happening:VBG", "Dublin:NNP", "Christmas:NNP", "Ireland:NNP", "gets:VBZ", "special:JJ", "gift:NN", "Christmas:NNP", "When:WRB", "Black:NNP", "Friday:NNP", "2015?:CD", "Need:NNP", "Christmas:NNP", "job?:NN", "What's:NNP", "store:NN", "Cork's:NNP", "Fota?:NNP", "Christmas:NNP", "lights:NNS", "Dublin:NNP", "dates:NNS", "Top:NNP", "toys:NN", "2015:CD", "What:WP", "think:VB", "tweets?:NNS", "Let:VBP", "us:PRP", "know:VB", "comments:NNS", "section:NN", "below.:NN"]
+
+["The:DT", "holidays:NNS", "traditionally:RB", "kick:VBP", "Thanksgiving,:NNP", "followed:VBN", "Christmas,:NNP", "New:NNP", "Year's.:NNP"]
+

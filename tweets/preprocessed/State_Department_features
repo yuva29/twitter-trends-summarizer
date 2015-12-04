@@ -1,0 +1,502 @@
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'warning:VBG', 'Americans:NNPS', 'extremists:NNS', 'continue:VBP', 'plan:VB', 'attacks:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'Americans:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'look:VB', 'comical:JJ', 'inept:JJ', 'daylol:NN']
+
+['Damn:NNP', 'collaborating:VBG', 'State:NNP', 'Department:NNP', 'attack:VB', 'Republican:NNP', 'bias?:VBD']
+
+['US-backed:JJ', 'forces:NNS', 'right:VBN', 'self-defense:JJ', 'others:NNS', 'State:NNP', 'Department:NNP']
+
+['Local:JJ', 'travelers:NNS', 'asked:VBD', 'remain:VB', 'vigilant:JJ', 'wake:NN', 'State:NNP', "Department's:NNP", 'worldwide:VBP', 'travel:NN', 'alert:NN']
+
+['ZINGed:VBP', 'tweet:NN', 'told:VBN', 'tweet:VB', 'state:NN', 'department:NN', 'embarrassed:JJ', 'now?:NNS']
+
+['(IBD):JJ', 'State:NNP', 'Dept:NNP', 'Protecting:VBG', 'Hillary:NNP', "Clinton's:NNP", 'Presidential:NNP', 'Bid:NNP']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN']
+
+['State:NNP', 'Department:NNP', 'Iran:NNP', 'Deal:NNP', '`Legally:RB', 'Binding`:NNP', 'Iran:NNP', 'Didn`t:NNP', 'Sign:NNP']
+
+['Guest:NNP', 'Worker:NNP', 'Visa:NNP', 'holders:NNS', 'working:VBG', 'Government:NNP', 'jobs?:NN']
+
+['US:NNP', 'government:NN', 'still:RB', "doesn't:RB", 'know:VB', 'protect:VB', 'basic:JJ', 'phishing:NN']
+
+['US:NNP', 'government:NN', 'still:RB', "doesn't:RB", 'know:VB', 'protect:VB', 'basic:JJ', 'phishing:VBG', 'attacks:NNS']
+
+['Flight:NNP', '&gt;:VBD', 'PlaneThe:NNP', 'State:NNP', 'Department:NNP', 'Travel:NNP', 'Alert:NNP', "Doesn't:NNP", 'Mean:NNP', 'Stay:VB', 'Home:NNP', '&gt;&gt;:NN']
+
+['RT_com:NNP', 'US-backed:JJ', 'forces:NNS', 'right:VBN', 'self-defense:JJ', 'others:NNS', 'State:NNP', 'Department:NNP']
+
+['State:NNP', 'Department:NNP', 'Iran:NNP', 'Deal:NNP', "'Legally:RB", "Binding':NNP", 'Iran:NNP', "Didn't:NNP", 'Sign:NNP', '(Sent:VBD', 'CNR):NNP']
+
+['case:NN', 'missed:VBD', "Obama's:NNP", 'State:NNP', 'Department:NNP', 'warns:NNS', 'Americans:NNPS', 'travel:VB', 'jihadists:NNS', 'festering:VBG']
+
+['State:NNP', 'Department:NNP', 'terror:NN', 'warning:VBG', 'casts:NNS', 'shadow:NN', 'Thanksgiving:NNP', 'travel:NN']
+
+['State:NNP', 'Department:NNP', 'Issues:NNP', 'Travel:NNP', 'Advisory:NNP', 'Entire:NNP', 'Planet:NNP']
+
+['NATO:NNP', 'allies:NNS', 'right:NN', 'defend:VB', 'others:NNS', 'State:NNP', 'Department:NNP', '(Sent:NN', 'CNR):NNP']
+
+['safe:JJ', 'go:VB', 'world:NN', 'moment:NN', 'according:VBG', 'US:NNP']
+
+['State:NNP', 'Department:NNP', 'Iran:NNP', 'Deal:NNP', 'Legally:NNP', 'Binding:NNP', 'Iran:NNP', 'Didnt:NNP', 'Sign:NNP']
+
+['Retweeted:VBN', 'Department:NNP', 'State:NNP', '(@StateDept):NNP', 'US-Ireland:NNP', 'Research:NNP', 'Development:NNP', '(R&amp;D):NNP', 'Partnership:NNP', 'launched:VBD']
+
+['ObamackbarLOOKAT:IN', 'DUMB:NNP', 'ASS:NNP', 'STATE:NNP', 'DEPARTMENT:NNP', 'UNIC&amp;:NNP', 'GOAT:NNP', 'FUCKING:NNP', 'POLITICIAN:NNP', 'PUPPET:NNP']
+
+['St:NNP', 'Charles:NNP', 'County:NNP', 'second:JJ', 'Police:NNP', 'Department:NNP', 'state:NN', 'MIssouri:NNP', 'carry:VB', 'Narcan:NNP']
+
+['NYT:NNP', 'Iranian:JJ', 'Hackers:NNP', 'Attack:NNP', 'via:IN', 'Social:NNP', 'Media:NNP', 'Accounts:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'warning:VBG', 'amid:IN', 'increased:JJ', 'threat:NN']
+
+['Another:DT', 'Democratic:JJ', 'city:NN', 'hall:NN', 'Democratic:JJ', 'state:NN', 'covered:VBD', 'police:NNS', "department's:VBP", 'brutality:NN']
+
+['Iranian:JJ', 'Hackers:NNP', 'Attack:NNP', 'State:NNP', 'Dept:NNP', 'via:IN', 'Social:NNP', 'Media:NNP', 'Accounts:NNS']
+
+['Contained?:NNP', 'State:NNP', 'Department:NNP', 'alerts:VBZ', 'US:NNP', 'citizens:NNS', 'possible:JJ', 'risks:NNS', 'travel:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'terror:NN', 'warning:VBG', 'casts:NNS', 'shadow:NN', 'Thanksgiving:NNP']
+
+['State:NNP', 'Department:NNP', 'Issues:NNP', 'Global:NNP', 'Travel:NNP', 'Warning:NNP', 'Please:NNP', 'Refrain:NNP', 'Traveling:VBG', 'Anywhere:RB', 'Vicinity&gt;&gt;&gt;&gt;:NNP']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'respons:NNS']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'cites:VBZ', 'terror:NN', 'threats:NNS']
+
+['Advisory:NN', 'US:NNP', 'State:NNP', 'Department:NNP', 'avoid:NN', 'planet:NN', 'Earth:NN', 'possible:JJ']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'ale:NN']
+
+['DETAILS:NNP', 'Terror:NNP', 'groups:NNS', 'planning:VBG', 'attacks:NNS', 'different:JJ', 'regions:NNS', 'using:VBG', 'wide:JJ', 'variety:NN', 'tactics:NNS']
+
+['state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'response:NN', 'increased:VBN', 'terrorist:NN', 'threats:NNS']
+
+['businessinsider:VB', 'State:NNP', 'Department:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NN', "'increased:JJ", 'terrorist:JJ', "threats':NN"]
+
+['Alert:JJ', 'references:NNS', 'past:IN', 'threats:NNS', 'made:VBN', "'large:CD", 'sporting:VBG', 'events:NNS', 'theatres:VBZ', 'open:JJ', 'markets:NNS', 'aviation:VBP', "services':NN"]
+
+['Travel:NNP', 'Alert:NNP', 'expires:VBZ', 'February:NNP', '24:CD', '2016:CD']
+
+['State:NNP', 'Department:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NN', "'increased:JJ", 'terrorist:JJ', "threats':NN"]
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'response:NN', 'increased:VBN', 'terrori:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN"]
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'GLOBAL:NNP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'light:NN', 'terror:NN', 'attacks:NNS', 'Says:VBZ', 'exercise:VB', 'vigilance:NN']
+
+['State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'due:JJ', 'increased:JJ', 'threats:NNS', 'terrorism:NN']
+
+['UPDATE:NN', 'State:NNP', 'Dept:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'terrorist:VB', 'threats:NNS', 'urges:JJ', 'vigilance:NN', 'around:IN', 'holiday:JJ', 'events:NNS']
+
+['issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'increase:NN', 'terrorist:JJ', 'threats:NNS']
+
+['*Breaking:VBG', 'News*:NNP', 'US:NNP', 'Department:NNP', 'State:NNP', 'Issues:NNP', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citizens:NNS', 'effective:JJ', 'February:NNP']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'amid:IN', 'ISIS:NNP', 'fears:NNS']
+
+['BREAKING:IN', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increase:NN', 'terrorist:JJ', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'travel:NN', 'alert:NN', 'covers:VBZ', 'whole:JJ', 'world:NN', 'one:CD', 'option:NN', 'left:VBD']
+
+['[BBC]:JJ', 'US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'r:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', "'Worldwide:POS", 'Travel:NNP', "Alert':NNP", 'due:JJ', "'increased:JJ", 'terrorist:JJ', "threats':NN"]
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', "'possible:JJ", "risks':NN", 'travel:NN', 'due:JJ', "'increased:VBN", 'ter:NN']
+
+['State:NNP', 'Department:NNP', 'Everything:NNP', 'terrible:JJ']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 're:NN']
+
+['BREAKING:IN', 'US:NNP', 'Department:NNP', 'State:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NN']
+
+['State:NNP', 'department:NN', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NNS', 'due:JJ']
+
+['Breaking:VBG', 'news:NN', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'terrorist:NN', 'threats:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:IN', 'citing:VBG', 'increased:JJ', 'terrorist:NN', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['Live:NNP', 'chat:VBZ', 'global:JJ', 'travel:NN', 'alert:NN', 'issued:VBN', 'State:NNP', 'Department:NNP', 'anything:NN', 'differently?:NN']
+
+['BREAKING:IN', 'US:NNP', 'State:NNP', 'Department:NNP', 'Issues:NNP', 'WORLDWIDE:NNP', 'Travel:NNP', 'Alert:NNP', 'Citing:NNP', 'Terror:NNP', 'Threats:NNP']
+
+['RT_com:NNP', 'DETAILS:NNP', 'Terror:NNP', 'groups:NNS', 'planning:VBG', 'attacks:NNS', 'different:JJ', 'regions:NNS', 'using:VBG', 'wide:JJ', 'variety:NN', 'tactics:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issued:VBN', 'global:JJ', 'travel:NN', 'alert:NN']
+
+['RT_com:NNP', 'BREAKING:NNP', 'US:NNP', 'State:NNP', 'Dept:NNP', 'issues:NNS', 'travel:VBP', 'warning:VBG', 'Americans:NNPS', 'terror:NN', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', "Don't:NNP", 'go:VB', 'anywhere:RB', "don't:JJ", 'worry:NN', 'got:VBD']
+
+['Shorter:NNP', 'State:NNP', 'Department:NNP', 'Jim:NNP', 'Comey:NNP', 'really:RB', 'really:RB', 'really:RB', 'would:MD', 'like:VB', 'back:JJ', 'door:NN', 'iPhone:NN', "we're:NN", 'going:VBG', 'help:VB', 'hi:VB']
+
+['US:NNP', 'State:NNP', 'Dept:NNP', 'issues:NNS', 'travel:VBP', 'warning:VBG', 'Americans:NNPS', 'terror:NN', 'threats:NNS']
+
+['(#Jorgee_x3):JJ', 'US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN']
+
+['BREAKING:IN', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:NN', 'travel:NN', 'alertwarning:VBG', 'Americans:NNPS', "'Possible:JJ", 'risks:NNS', 'travel:NN', 'due:JJ', 'inc:VB']
+
+['LOL:NNP', 'Go:NNP', 'God:NNP', 'US:NNP', 'State:NNP', 'Department:NNP']
+
+['State:NNP', 'Department:NNP', 'issued:VBD', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['state:NN', 'department:NN', 'tells:VBZ', 'everyone:NN', 'stay:VB', 'home:NN', 'watch:NN', 'netflix:NN']
+
+["Don't:NNP", 'quite:RB', 'get:VBP', 'use:NN', 'State:NNP', 'Department/FCO:NNP', 'travel:NN', 'advice:NN', 'Use:NNP', 'common:JJ', 'sense:NN', 'plan:VBN', 'bs:JJ', 'watch:NN', 'news:NN', "don't:NN", 'go:VB', 'war:NN', 'zones:NNS', 'Simple:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'via:IN']
+
+['State:NNP', 'Department:NNP', 'Americans:NNPS', 'way:NN', 'safe:JJ', 'literally:RB', 'exist:VB', 'physical:JJ', 'realm:NN']
+
+['BREAKING:IN', 'US:NNP', 'State:NNP', 'Dept:NNP', 'issues:NNS', 'travel:VBP', 'warning:VBG', 'Americans:NNPS', 'terror:NN', 'threats:NNS']
+
+['Watch:VB', 'could:MD', 'anywhere:RB', '--State:NNP', 'Department:NNP', 'Never:NNP', 'take:VBP', 'counsel:NN', 'fears:NNS', '--Stonewall:VBP', 'Jackson:NNP']
+
+['State:NNP', 'department:NN', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['Breaking:VBG', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'terrorist:NN', 'threats:NNS']
+
+['issues:NNS', 'travel:VBP', 'warning:VBG', 'Americans:NNPS', 'terror:NN', 'threats:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citizens:NNS', 'Increased:VBD', 'threats:NNS', 'cited:VBD']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['Worldwide:NNP', 'travel:NN', 'alert:NN', 'issued:VBN', 'State:NNP', 'Department:NNP', 'due:JJ', 'increase:VB', 'terrorist:JJ', 'threats:NNS']
+
+['need:VBP', 'State:NNP', 'Department:NNP', 'tell:VB', 'careful:JJ', 'traveling:VBG', "you're:PDT", 'moron:NN']
+
+['NEW:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:JJ', 'caution:NN', 'travel:JJ', 'WORLDWIDEplease:NNP', 'tell:VB', 'us:PRP', 'ISIS:NNP', 'contained??:JJ']
+
+['Retweeted:VBN', 'WPLG:NNP', 'Local:NNP', '10:CD', 'News:NNP', '(@WPLGLocal10):NNP', 'State:NNP', 'Department:NNP', 'alerts:VBZ', 'US:NNP', 'citizens:NNS', 'possible:JJ', 'risks:NNS']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'threats:NNS', 'via:IN']
+
+['State:NNP', 'Department:NNP', 'alerts:VBZ', 'US:NNP', 'citizens:NNS', 'possible:JJ', 'risks:NNS', 'travel:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'increased:VBN', 'threats:NNS']
+
+['ridwanonline:VB', 'US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN']
+
+['Worldwide:NNP', 'travel:NN', 'alert:VBD', 'US:NNP', 'State:NNP', 'Department:NNP', 'cites:NNS', 'increased:VBD', 'risk:NN', 'terrorist:JJ', 'threats:NNS']
+
+['Link:NNP', 'posted:VBN', 'State:NNP', 'Department:NNP']
+
+['vicenews:NNS', 'RT:NNP', 'samueloakford:NN', 'State:NNP', 'Department:NNP', 'issues:NNS', 'GLOBAL:NNP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'light:NN', 'terror:NN', 'attacks:NNS', 'Says:VBZ', 'exercise:VB', 'vig:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'Worldwide:NNP']
+
+['Clinton:NNP', "campaign's:NN", "Abedin's:NNP", 'history:NN', 'State:NNP', 'Department:NNP', 'poses:VBZ', 'liability:NN', 'Clinton:NNP', 'White:NNP', 'House:NNP', 'bid:NN', 'Fox:NNP', 'News:NNP', 'https:NN']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'terrorist:VB', 'threats:NNS']
+
+['issues:NNS', 'rare:VBP', 'travel:NN', 'alert:NN', 'increased:JJ', 'terrorist:JJ', 'threats:NNS', "here's:VBP", 'need:VBP', 'know:VB']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizen:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'StateDept:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increase:NN', 'terrorist:JJ', 'threats:NNS']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'fo:NN']
+
+['Breaking:VBG', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['State:NNP', 'Department:NNP', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP', 'sort:NN', 'like:IN', 'CYA:NNP', 'told:VBD', 'ya:PRP', 'so?:VB']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'State:NNP', 'Department:NNP', 'Monday:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NNS', 'due:JJ']
+
+['lived:VBN', '8:CD', 'years:NNS', 'advisory:NN', 'NEVER:NNP', 'trust:VB', 'State:NNP', 'Department:NNP', 'anything:NN']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'terrorist:JJ', 'threats:NNS', '[via:VBP', '(D-5):JJ']
+
+['issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'amid:IN', 'increased:VBN', 'terror:NN', 'threat:NN']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN']
+
+['WORLDWIDE:NNP', 'TRAVEL:NNP', 'ALERT:NNP', 'State:NNP', 'Department:NNP', 'alerts:VBZ', 'US:NNP', 'citizens:NNS', 'possible:JJ', 'risks:NNS', 'travel:NN', 'due:JJ', 'increased:VBN', 'terroris:NN']
+
+['Big:JJ', 'surprise:NN', 'US:NNP', 'State:NNP', 'Dept:NNP', 'issues:NNS', 'travel:VBP', 'warning:VBG', 'Americans:NNPS', 'terror:NN', 'threats:NNS', 'Spend:VBP', 'home:NN']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['State:NNP', 'Department:NNP', 'Issues:NNP', 'Rare:NNP', 'Travel:NNP', 'Alert:NNP', "'Increased:VBD", 'Terrorist:NNP', "Threats':NNP"]
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'al:NN']
+
+['BREAKING:IN', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'light:NN', 'terror:NN', 'attacks:NNS', 'Exercise:NNP', 'vigilance:NN']
+
+['State:NNP', 'Department:NNP', 'needs:VBZ', 'deploy:VB', 'hash:NN', 'tags:NNS', 'make:VB', 'us:PRP', 'safer:VB']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'tr:NN']
+
+['issues:NNS', 'rare:VBP', 'travel:NN', 'alert:NN', 'possible:JJ', 'risks:NNS', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['BBC:NNP', 'News:NNP', 'UK:NNP', 'US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizen:NN']
+
+['United:NNP', 'States:NNPS', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'United:NNP', 'States:NNPS', 'Department:NNP', 'State:NNP', 'issued:VBD', 'worldwi:NN']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'ci:NN']
+
+['State:NNP', 'Department:NNP', 'Issues:NNP', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP', 'Increased:VBD', 'Terrorist:NNP', 'Threats:NNP']
+
+['DTN:NNP', 'Italy:NNP', 'US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'threats:NNS', '&gt;&gt;:VBP']
+
+['DPS:NNP', 'Two:CD', 'states:NNS', '10:CD', 'wanted:JJ', 'list:NN', 'arrested:VBD', 'Texas:NNP', 'Department:NNP', 'Public:NNP', 'Safety:NNP', 'said:VBD', 'Monday:NNP', 'two:CD', 'f:NNS']
+
+['State:NNP', 'Department:NNP', 'ISIS:NNP', 'bad:JJ', 'travel:VBP', 'may:MD', 'run:VB', 'ISIS:NNP', 'afraid:VBN', "don't:JJ", 'stop:VB', 'Send:VBP', 'complaints:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'basically:RB', 'stay:VB', 'home:RB', 'late:JJ', 'February:NNP', '2016:CD', 'please:NN', 'thank:NN']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NNS', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS', 'Travelers:NNS', 'urged:VBN', 'exercise:VB', 'vigilance:NN']
+
+['Clinton:NNP', "campaign's:NN", "Abedin's:NNP", 'history:NN', 'State:NNP', 'Department:NNP', 'poses:VBZ', 'liability:NN', 'Clinton:NNP', 'White:NNP', 'House:NNP', 'bid:NN', 'Fox:NNP', 'News:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN"]
+
+['BBC:NNP', 'World:NNP', 'News:NNP', 'US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'cit:NN']
+
+['DEVELOPING:VBG', 'State:NNP', 'Department:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NN', '(via:NNP', 'come:VB']
+
+['State:NNP', 'Department:NNP', 'Issues:NNP', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'terrorist:VB', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'threats:NNS', 'Reuters:NNS']
+
+['RT:NNP', 'BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['Serious:JJ', 'question:NN', 'state:NN', 'department:NN', 'way:NN', 'liable:JJ', 'American:JJ', 'dies:NNS', 'overseas?:VBP']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'Expects:NNP', 'likelihood:NN', 'terror:NN', 'attacks:NNS', 'continue:VB', 'Latest:NNP']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'avoid:VB', 'large:JJ', 'crowds:NN', 'crowed:VBN', 'places:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'terrorist:NN', 'threats:NNS']
+
+['State:NNP', 'Dept:NNP', 'issues:NNS', 'Travel:NNP', 'Alert:NNP', 'due:JJ', 'recent:JJ', 'terrorist:JJ', 'attacks:NNS', "It's:NNP", 'set:VBD', 'expire:VB', 'Feb:NNP', '24:CD', '2016:CD']
+
+['BREAKING:IN', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN"]
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'v:NN']
+
+['SAFE:NNP', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN"]
+
+['Four:CD', 'Seasons:NNPS', 'losses:NNS', 'widen:VBP', 'due:RB', 'higher:JJR', 'costs:NNS', 'time:NN', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['State:NNP', 'Department:NNP']
+
+['XHNews:NNS', 'Breaking:VBG', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'cit:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['IBTimes:NNS', 'JabberMate:VBP']
+
+['Pay:NNP', 'attention:NN']
+
+['United:NNP', "States':NNP", 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS', 'want:VB', 'us:PRP', 'living:VBG', 'rocks?:NN']
+
+['US:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:IN', 'state:NN', 'department:NN', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['RT:NNP', 'DETAILS:NNP', 'Terror:NNP', 'groups:NNS', 'planning:VBG', 'attacks:NNS', 'different:JJ', 'regions:NNS', 'using:VBG', 'wide:JJ', 'variety:NN', 'tactics:NNS']
+
+['RT:NNP', 'BREAKING:NNP', 'US:NNP', 'State:NNP', 'Dept:NNP', 'issues:NNS', 'travel:VBP', 'warning:VBG', 'Americans:NNPS', 'terror:NN', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'Expects:NNP', 'likelihood:NN', 'terror:NN', 'attacks:NNS', 'continue:VB', 'Latest:NNP', '6p:CD', '&amp;:NN']
+
+['State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens;:NN', 'cites:NNS', 'increased:VBD', 'terror:NN', 'threats:NNS', '(Sent:VBP', 'WSVN):NNP']
+
+['Heat:NNP', 'Magazine:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', 'threats:NNS', 'details:NNS', 'follow:VB']
+
+['Trendy:NNP', 'State:NNP', 'Department:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NN', "'increas:NNS"]
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN"]
+
+['Advised:VBN', 'US:NNP', 'State:NNP', 'Department:NNP', 'Worldwide:NNP', 'Travel:NNP', 'Warning:NNP', 'Terrorism:NNP', 'Threat:NNP']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'advice:NN', 'avoid:VB', 'arguing:VBG', 'relatives:NNS', 'Thanksgiving:VBG']
+
+['issues:NNS', 'travel:VBP', 'warning:VBG', 'threats:NNS']
+
+["Don't:NNP", 'let:VB', '~&gt;:VBP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['Would:MD', 'love:VB', 'know:VB', 'US:NNP', 'State:NNP', 'department:NN', 'knows:VBZ', 'Feb:NNP', '24:CD', '2016:CD', 'retiring?:VBN']
+
+['State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NNS', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:JJ', 'citing:VBG', 'increased:JJ', 'terrorist:NN', 'threats:NNS']
+
+['Updated:VBN', 'State:NNP', 'Department:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'terror:NN', 'threat:NN']
+
+['STATE:NNP', 'DEPARTMENT:NNP', "we're:NN", 'officially:RB', 'thx:NN']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', "'increased:VBD", "threats':NN"]
+
+['Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['Refugees:NNS', 'required:VBD', 'voluntarily:RB', "'check:VB", "in':NN", 'State:NNP', 'Department:NNP', 'entering:VBG', 'US:PRP']
+
+["Editor's:NNP", 'note:NN', 'worldwide:NN', 'travel:NN', 'alert:NN', 'issued:VBN', 'Monday:NNP', 'US:NNP', 'State:NNP', 'Department:NNP', "'Authorities:POS", 'believe:VBP', 'likelihood:NN', 'terror:NN', 'att:NN']
+
+["Editor's:NN", 'issued:VBN', 'US:NNP']
+
+['Reuters:NNS', 'BREAKING:VBP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['Every:DT', 'day:NN', 'get:VB', 'State:NNP', 'Department:NNP', 'press:NN', 'briefing:VBG', 'transcript:NN', 'control-f:JJ', 'Yemen:NNP', 'dice:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:NN', 'travel:NN', 'alert:NN', 'February?:NNP', 'safe:JJ', 'stay:VB', 'home?:NN']
+
+['State:NN', 'Dept:NNP', 'presser:NN', 'response:NN', 'Paris:NNP', 'attack:NN', 'live:JJ', 'stream:NN']
+
+['State:NNP', 'Department:NNP', 'Merry:NNP', 'Christmas:NNP', 'RT:NNP', 'State:NNP', 'Department:NNP', 'Everything:NNP', 'terrible:JJ']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increase:NN', 'terrorist:JJ', 'threats:NNS']
+
+['*looks:NNS', 'State:NNP', "Department's:NNP", 'travel:NN', 'warning*:NN', '//:NNP', 'cancels:VBZ', 'vacation:NN', 'Raqqa:VB']
+
+['Thanks:NNS', 'useful:JJ', 'specific:JJ', 'information:NN', 'United:NNP', 'States:NNPS', 'Department:NNP', 'State:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN"]
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issue:NN', 'worldwide:IN', 'travel:NN', 'alerts:NNS', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'terrorist:NN', 'threats:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', "'possible:JJ", "risks':NN", 'travel:NN', 'due:JJ', "'increased:JJ", 'terrorist:JJ', "threats':NN"]
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD']
+
+['BreakingNews:NNS', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'StateDept:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'via:IN', 'htt:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['FM:NNP', 'takes:VBZ', 'part:NN', 'US:NNP', 'Department:NNP', 'State:NNP', 'meeting:NN', 'countering:VBG', 'Daesh:NNP']
+
+['State:NNP', 'Department:NNP', 'issuing:VBG', 'worldwide:NN', 'travel:NN', 'alert:NN', 'American:JJ', 'citizens:NNS', 'increased:JJ', 'threat:NN', 'terrorism:NN']
+
+['State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS']
+
+['State:NNP', 'Department:NNP', 'safe:JJ', 'go:VBP', 'nowhere:RB']
+
+['State:NNP', 'Department:NNP', 'alerts:VBZ', 'US:NNP', 'citizens:NNS', 'possible:JJ', 'risks:NNS', 'travel:NN', 'due:JJ', 'increased:JJ', 'terrorist:JJ', 'threats:NNS']
+
+["Editor's:NNP", 'note:NN', 'worldwide:NN', 'travel:NN', 'alert:NN', 'issued:VBN', 'Monday:NNP', 'US:NNP', 'State:NNP', 'Department:NNP', "'Authorities:POS", 'believe:VBP']
+
+['Annual:JJ', 'holiday:NN', 'travel:VBP', 'CYA:NNP', 'State:NNP', 'Department:NNP']
+
+['US:NNP', 'hails:VBZ', 'release:NN', 'document:NN', 'outlining:VBG', 'modernization:NN', 'Irans:NNP', 'Arak:NNP', 'reactor:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'worldwide:NN', 'travel:NN', 'alert:NN']
+
+['Violation:NN', 'Constitution:NNP', 'track:VB', 'nomads:NNS', 'given:VBN', 'taxpayer:NN', 'aid:NN']
+
+['State:NNP', 'Department:NNP', 'ISIS:NNP', 'bad:JJ', 'travel:VBP', 'may:MD', 'run:VB', 'ISIS:NNP', 'afraid:VBN', "don't:JJ", 'stop:VB', 'Send:VBP', 'complaints:NNS']
+
+['Obama:NNP', 'says:VBZ', 'relent:VB', 'fight:NN', 'Islamic:NNP', 'state:NN', 'urges:NNS', 'Russia:NNP', 'help?:VB']
+
+['BREAKING:NNP', 'Travel:NNP', 'alert:IN', 'issued:VBN', 'US:NNP', 'State:NNP', 'Department:NNP']
+
+['Shorter:NNP', 'State:NNP', 'Department:NNP', 'Jim:NNP', 'Comey:NNP', 'really:RB', 'really:RB', 'really:RB', 'would:MD', 'like:VB', 'back:JJ', 'door:NN', 'iPhone:NN', "we're:NN", 'going:VBG', 'help:VB']
+
+['know:VBP', 'nothing:NN', 'assume:VB', 'everyone:NN', 'trying:VBG', 'kill:VB', 'State:NNP', 'Department:NNP', 'basically:RB']
+
+['People:NNS', 'probably:RB', 'reading:VBG', 'going:VBG', 'WTF:NNP', "Da'esh:NNP", 'Hipster:NNP', 'State:NNP', 'Department:NNP']
+
+['Boring:VBG', 'conversation:NN', 'anyway:RB', 'exactly:RB', 'sentiment:NN', 'State:NNP', 'Department:NNP', 'evokes:NNS']
+
+['State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens;:NN', 'cites:NNS', 'increased:VBD', 'terror:NN', 'threats:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issued:VBD', 'World:NNP', 'Wide:NNP', 'Travel:NNP', 'Alert:NNP', 'Increased:VBD', 'terror:NN', 'threats:NNS', 'ISIS:NNP', 'Al-Qaeda:NNP', 'Boko:NNP', 'Haram:NNP']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'due:JJ', 'terror:VB', 'threat:NN']
+
+['BREAKING:NNP', 'State:NNP', 'Department:NNP', 'releases:VBZ', 'updated:VBN', 'CYA:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'increased:JJ', 'terror:NN', 'threats:NNS', 'Per:IN']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:RB', 'holiday:NN', 'warning:VBG', 'news:NN', '456:CD']
+
+['Breaking:VBG', 'US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:JJ', 'terrorist:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'global:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'increased:VBD', 'threats:NNS']
+
+['Worldwide:NNP', 'travel:NN', 'alert:NN', 'issued:VBN', 'US:NNP', 'State:NNP', 'department:NN', 'Probably:NNP', 'cause:NN', 'CIA/Boogie:NNP', 'Man:NNP', 'week:NN']
+
+['State:NNP', 'department:NN', 'says:VBZ', 'threat:NN', 'real:JJ', 'Obama:NNP', 'says:VBZ', 'killers:NNS', 'website-twilight:JJ', 'zone:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'via:IN', '/r/worldnews:NNS']
+
+['State:NNP', 'Department:NNP', 'released:VBD', 'travel:NN', 'terror:NN', 'alert:NN', 'contained:VBN']
+
+['State:NNP', 'Department:NNP', 'advisory:NN', 'include:VBP', 'California?:NNP']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'international:JJ', 'travel:NN', 'alert:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'citing:VBG', "'increased:VBN", 'terrorist:JJ', "threats':NN", 'via:IN', 'https:NN']
+
+['US:IN', 'citing:VBG', "'#Increased:VBN"]
+
+['BREAKING:IN', 'US:NNP', 'STATE:NNP', 'DEPARTMENT:NNP', 'ISSUES:NNP', 'WORLDWIDE:NNP', 'TRAVEL:NNP', 'ALERT:NNP']
+
+['issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'cites:VBZ', 'terror:NN', 'threats:NNS']
+
+['State:NNP', 'Department:NNP', 'issues:NNS', 'world-wide:JJ', 'alert:NN', 'Americans:NNS']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'issued:VBN', 'worldwide:JJ', 'travel:NN', 'alert:IN', 'citing:VBG', "'increased:VBN", 'terror:NN', "threats':NN"]
+
+['World:NNP', 'Wide:NNP', 'Travel:NNP', 'Alert:NNP', 'Issued:NNP']
+
+['US:PRP', 'passport:VBP', 'holders:NNS', 'check:VB']
+
+['guess:VBP', 'say:VB', 'State:NNP', 'Department:NNP', 'giving:VBG', 'fear:NN', 'letting:NN', 'win:NN']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'Issues:NNP', 'Worldwide:NNP', 'Travel:NNP', 'Alert:NNP']
+
+['Oh:UH', 'perfect:JJ', 'State:NNP', 'Department:NNP', 'issues:NNS', 'worldwide:VBP', 'travel:NN', 'alert:NN']
+
+['State:NNP', 'Department:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'today:NN', 'American:JJ', 'travelers:NNS']
+
+['Travel:NNP', 'alert:NN', 'issued:VBN', 'State:NNP', 'Department:NNP', 'lasts:VBZ', '90:CD', 'days:NNS', 'Concern:NNP', 'possibility:NN', 'terror:NN', 'attacks:NNS', 'overseas:RB']
+
+['US:NNP', 'State:NNP', 'Department:NNP', 'Americans:NNPS', "Don't:NNP", 'go:VB', 'anywhere:RB']
+
+['State:NNP', 'Department:NNP', 'issued:VBD', 'worldwide:JJ', 'travel:NN', 'alert:NN', 'US:NNP', 'citizens:NNS', 'citing:VBG', 'inc:JJ', 'terrorist:JJ', 'threats:NNS', 'Urging:VBG', 'vigilance:NN', 'pub:NN']
+
+['State:NNP', 'Dept:NNP', 'issues:NNS', "'worldwide:POS", 'travel:NN', "alert':NN", 'US:NNP', 'citizens:NNS', 'Pete:NNP', 'Kasperowicz:NNP', 'State:NNP', 'Department:NNP', 'Monday:NNP']
+

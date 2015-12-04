@@ -1,0 +1,9 @@
+["Momentary:JJ", "freak-outs:NNS", "service:NN", "disruptions:NNS", "nothing:NN", "new,:NNS", "Slack's:NNP", "outage:NN", "significant:JJ", "pithy:JJ", "reactions:NNS", "inspired.:VBD"]
+
+["At:IN", "4:40:CD", "p.m.,:NNS", "Slack:NNP", "posted:VBD", "Twitter:NNP", "Still:RB", "looking:VBG", "connectivity:NN", "issues:NNS", "working:VBG", "hard:RB", "get:VB", "back:RB", "work.:VB"]
+
+["This:DT", "followed:VBN", "deluge:NN", "responses:NNS", "team's:NN", "customer:NN", "service:NN", "representatives:NNS", "Twitter:NNP", "-::", "complete:JJ", "prayer:JJ", "hand:NN", "tool:NN", "emojis:SYM", "-::", "illustrate:VB", "IT:NNP", "team:NN", "hands:NNS", "deck:NN", "repairing:VBG", "troubled:JJ", "web:NN", "host.:NN"]
+
+["Even:RB", "Slack:NNP", "Status:NNP", "page:NN", "down,:JJ", "returns:NNS", "nothing:NN", "This:DT", "webpage:NN", "available,:JJ", "ERR:NNP", "CONNECTION:NNP", "TIMED:NNP", "OUT.:NNP"]
+
+["Many:JJ", "users:NNS", "attempting:VBG", "use:VB", "Slack:NNP", "Monday:NNP", "afternoon:NN", "shown:VBN", "following:VBG", "message::NN", "The:DT", "Slack:NNP", "service:NN", "appears:VBZ", "unavailable.:JJ", "Please:NNP", "check:VB", "status.slack.com.:JJ", "We'll:NNP", "automatically:RB", "try:VB", "connect:VB", "momentarily.:JJ", "Slack's:NNP", "status:NN", "website:NN", "also:RB", "appeared:VBD", "down.:JJ"]

@@ -1,0 +1,9 @@
+["HBO's:NNP", "medieval:NN", "saga:JJ", "Game:NNP", "Thrones:NNP", "known:VBN", "serving:VBG", "graphic:JJ", "deaths:NNS", "lead:JJ", "characters,:NN", "fan:NN", "favourite:RB", "Jon:NNP", "Snow:NNP", "killed:VBN", "off,:RB", "avid:JJ", "followers:NNS", "speculated:VBD", "every:DT", "theory:NN", "sighting:NN", "would:MD", "bring:VB", "back:RP", "heroic:NN", "soldier.:NN"]
+
+["Featuring:VBG", "wounded,:NN", "bloody:NN", "Snow,:NNP", "poster:NN", "quickly:RB", "made:VBD", "rounds:NNS", "Internet:NNP", "Monday,:NNP", "leading:VBG", "many:JJ", "hopeful:JJ", "conclusion:NN", "Kit:NNP", "Harrington's:NNP", "character:NN", "survived:VBD", "murder:NN", "season:NN", "five:CD", "finale.:NN"]
+
+["Here's:NNP", "series:NN", "suggesting:VBG", "saw:VBD", "-::", "Jon:NNP", "Snow:NNP", "bleeding:VBG", "snow:JJ", "-::", "merely:RB", "feint,:NN", "trick,:NN", "\"Game\":NN", "game.:NN"]
+
+["A:DT", "second:JJ", "noted::NN", "Jon:NNP", "Snow:NNP", "really:RB", "can't:VBZ", "dead,:VBN", "much:JJ", "learn.:VB", "After:IN", "all,:JJ", "Jon:NNP", "Snow:NNP", "knows:VBZ", "nothing.:NN"]
+
+["Since:IN", "fateful:JJ", "scene,:NN", "plenty:JJ", "rumours:NNS", "suggest:VB", "that,:NN", "somehow,:NN", "defeat:VB", "death.:NN"]

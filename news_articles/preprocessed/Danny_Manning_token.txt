@@ -1,0 +1,7 @@
+["Photo:NNP", "Gallery:NNP", "Kansas:NNP", "basketball:NN", "v.:NN", "Chaminade:NNP", "Images:NNP", "Monday:NNP", "night's:JJ", "game:NN", "Jayhawks:NNP", "Silverswords:NNP", "first-round:JJ", "game:NN", "Maui:NNP", "Invitational.:NNP"]
+
+["Manning:VBG", "tangible:JJ", "evidence:NN", "he's:VBD", "Wake:NNP", "Forest:NNP", "working.:JJ", "Wake:NNP", "fans:NNS", "pumped.:VBN", "In:IN", "many:JJ", "ways,:NN", "biggest:JJS", "win:JJ", "Wake:NNP", "Forest:NNP", "since:IN", "2010:CD", "NCAA:NNP", "Tournament:NNP", "victory:NN", "Texas.:NNP", "I:PRP", "won't:VBP", "jump:NN", "conclusions:NNS", "season:NN", "go,:VB", "I\"m:NNP", "excited:VBD", "Wake:NNP", "accomplished:VBN", "without:IN", "Codi:NNP", "Cornelius:NNP"]
+
+["The:DT", "whole:JJ", "thing:NN", "made:VBN", "little:JJ", "easier,:NN", "least:JJS", "Manning:VBG", "family,:NN", "fact:NN", "Kansas,:NNP", "Manning's:NNP", "son:NN", "Evan:NNP", "uniform,:JJ", "Wake:NNP", "Forest:NNP", "opposite:JJ", "sides:NNS", "tournament:NN", "bracket:NN", "likely:RB", "would:MD", "meet:VB", "advance:VB", "Wednesday's:NNP", "championship:NN", "game.:NN"]
+
+["Wake:NNP", "Forest:NNP", "scored:VBD", "first:JJ", "two:CD", "points:NNS", "second:JJ", "half:NN", "take:VB", "52-45:JJ", "lead,:NN", "Indiana:NNP", "responded:VBD", "9-0:JJ", "go:VB", "54-52:CD", "under-16:JJ", "timeout.:NN"]

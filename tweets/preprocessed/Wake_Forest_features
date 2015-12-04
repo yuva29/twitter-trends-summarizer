@@ -1,0 +1,806 @@
+['Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13:CD', 'Indiana:NNP', 'Bryant:NNP', "Crawford's:NNP", 'layup:VBD', 'w/:$', '5:CD', 'seconds:NNS', 'left:VBD', 'hands:VBZ', 'Hoosiers:NNS', '1st:CD', 'loss:NN', 'year:NN']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', 'Bryant:NNP', "Crawford's:NNP", 'layup:VBD', 'w/:$', '32:CD', 'left:VBD', 'WF:NNP', 'ends:NNS', 'game:NN', '19-6:JJ', 'run:NN']
+
+['clutch:NN', 'finish:NN', 'Wake:NNP', "Forest's:NNP", 'Crawford:NNP', 'gives:VBZ', 'Danny:NNP', 'Manning:VBG', 'upset:JJ', 'W:NNP', 'favored:JJ', 'Indiana:NNP', '2015-16:JJ', 'theme:NN', 'hoops:NNS']
+
+['19:CD', 'Vanderbilt:NNP', 'cruises:NNS', 'past:JJ', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP']
+
+['Watch:NNP', 'Online:NNP', 'Indiana:NNP', 'Hoosiers:NNP', 'Vs:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['(19):NN', 'Vanderbilt:NNP', '86:CD', 'Wake:NNP', 'Forest:NNP', '64:CD', '(FINAL):NN']
+
+['playing:VBG', 'Wake:NNP', 'Forest:NNP', 'tomorrow:NN', 'afternoon:NN', '2:CD', 'PM:NNP', 'Preview:NNP', 'live:JJ', 'stats:NNS', 'links:VBP']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderbilt:NNP', '86-64:CD', 'wi:NN']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'le:NN']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vande:NNS']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderb:NN']
+
+['Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderbilt:NNP', '86-64:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'Maui:NNP', 'Invitational:NNP']
+
+['Vandy:NNP', 'beats:VBZ', 'Wake:NNP', 'Forest:NNP', '86-64:CD', 'behind:IN', '16pts:CD', '11reb:CD', 'Damian:JJ', 'Jones:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'won:VBD', 'last:JJ', 'years:NNS', 'national:JJ', 'title:NN']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '1:CD']
+
+['(#LosDelSonido):JJ', '19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderbilt:NNP', '8:CD', '(#IvanBerroa):NNS']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'J:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'University:NNP']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderbi:NNS']
+
+['(#Yeremiito21):JJ', '19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:NN']
+
+['(#Sterlin_Starz):JJ', '19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP']
+
+['Baristas:NNS', '(Wake:VBP', 'Forest):NNP', 'Experienced:NNP', 'baristas:NNS', 'needed:VBD', 'Looking:VBG', 'experienced:JJ', 'energetic:JJ', 'barist:NN']
+
+['Sales:NNS', '(Wake:VBP', 'Forest):NNP', 'Wake:NNP', 'Forest:NNP', '--::', 'Great:JJ', 'location:NN', 'Fastest:NNP', 'growing:VBG', 'area:NN', 'North:NNP', 'Carolina:NNP', 'Ki:NNP']
+
+['Vanderbilt:NNP', 'dances:NNS', 'past:JJ', 'Wake:NNP', 'Forest:NNP', 'ease:NN', 'heads:NNS', 'Finals:NNS']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderbilt:NNP', '86-64:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'M:NNP']
+
+['(#TeambrianMundial):JJ', '19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'Baldwin:NNP', 'Jones:NNP', 'lead:VBP', '19:CD', 'Vanderbilt:NNS']
+
+["that's:VB", 'final:JJ', 'Maui:NNP', 'VANDERBILT:NNP', '86:CD', 'WAKE:NNP', 'FOREST:NNP', '64:CD', 'VU:NNP', 'takes:VBZ', 'winner:NN', 'UCLA/Kansas:NNP', 'game:NN', 'tomorrow:NN', 'c:NN']
+
+['19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP', 'ASSOCIATED:NNP', 'PRESS:NNP', 'via:IN', 'NYT:NNP']
+
+['News:NNP', '19:CD', 'Vanderbilt:NNP', 'Cruises:NNP', 'Past:NNP', 'Wake:NNP', 'Forest:NNP', '86-64:NN', 'Maui:NNP']
+
+['beats:NNS', 'Wake:VBP', 'Forest:NNP', 'makes:VBZ', 'Maui:NNP', 'Invitational:NNP', 'final:JJ']
+
+['FINAL:NNP', '19:CD', 'Vandy:NNP', '86:CD', 'Wake:NNP', 'Forest:NNP', '64:CD', '(in:NNP', 'Maui):NNP', 'Damian:NNP', 'Jones:NNP', '17:CD', 'pts:NNS', '10:CD', 'reb:NN', 'Wade:NNP', 'Baldwin:NNP', '17:CD', 'pts:NNS', 'Jeff:NNP', 'Roberson:NNP', '12:CD']
+
+['Watch:VB', 'highlights:NNS', 'wake:NN', 'forest:NN']
+
+['Official:NNP', 'Site:NNP', 'Wake:NNP', 'Forest:NNP', 'Demon:NNP', 'Deacon:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'Bryant:NNP', 'Crawford:NNP', 'scored:VBD', '15:CD', '&amp;:JJ', '5:CD', 'vs:NN', 'Vandy:NNP', 'BIG:NNP', 'frosh:NN', 'season:NN', '16:CD', 'ppg:NN', '4:CD', 'apg:NN', '4:CD', 'rpg:NN', 'alum:NN']
+
+['good:JJ', 'great:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'execution:NN', 'stretch:NN']
+
+['Future:JJ', 'opponent:NN', 'Wake:NNP', 'Forest:NNP', 'got:VBD', 'really:RB', 'nice:JJ', 'win:NN', 'top-15:JJ', 'Indiana:NNP', 'team:NN']
+
+['Hell:NNP', 'even:RB', 'beat:VBP', 'Wake:JJ', 'Forest:NNP']
+
+['Wake:NNP', 'forest:NN', 'picked:VBN', 'last:JJ', 'ACC:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'expected:VBN', 'finish:VB', 'bottom:JJ', 'third:NN', 'ACC:NNP', "it's:VBZ", 'going:VBG', 'one:CD', 'heck:NN', 'league:NN', 'Demon:NNP', 'Dea:NNP']
+
+['let:VBP', 'freshman:NN', 'wake:NN', 'forest:JJS', 'beat:NN', 'us:PRP', 'lmao:VBP', "I'm:NNP", 'pissed:VBD']
+
+['Congrats:NNS', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'upsetting:VBG', 'Indiana:NNP', 'tonight:NN', 'Hopefully:NNP', 'see:VBP', 'finals:NNS']
+
+['HUGE:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'team:NN', '13:CD', 'Indiana:NNP', 'Congrats:NNP', 'coach:VBP']
+
+['Wake:VB', 'forest:JJS', 'upset:VB', 'Indiana:NNP', 'ACC:NNP', 'gonna:NN', 'tough:JJ', 'year:NN', 'bottom:JJ', 'teams:NNS', 'getting:VBG', 'big:JJ', 'wins:NNS']
+
+['IU:NNP', 'losing:VBG', 'Wake:VB', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', '+13:NN']
+
+['go:VB', 'Wake:NNP', 'Forest:NNP', 'tops:VBZ', '13:CD', 'Indiana:NNP', '82-78:CD', 'Maui:NNP', 'Invitational:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'rallies:VBZ', 'late:JJ', 'beats:NNS', 'Indiana:NNP', '82-78:CD', 'VU:NNP', 'play:VB', 'Danny:NNP', "Manning's:NNP", 'squad:NN', 'tomorrow:NN']
+
+['UkSportsZone-ACC:NNP', 'trash:JJ', 'Meanwhile-:NNP', 'Miami:NNP', 'destroys:VBZ', 'ranked:VBN', 'Utah:NNP', 'Ranked:NNP', 'Butler:NNP', 'Wake:NNP', 'Forest:NNP', 'knocks:VBZ', 'ranked:JJ', 'Indiana:NNP']
+
+['WOW:NNP', 'Wake:NNP', 'Forest:NNP', 'upset:NN', 'Indiana:NNP', 'Big:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'dominate:VB', 'IU:NNP', 'paint:NN', 'imagine:VB', 'Purdue:NNP', 'sayin:VB']
+
+['Barring:VBG', 'miracle:NN', 'Wake:NNP', 'Forest:NNP', 'going:VBG', 'beat:VB', 'Indiana:NNP', 'Sets:NNP', 'possible:JJ', 'Manning-Kansas:JJ', 'matchup:NN', 'final:JJ']
+
+['WAKE:NNP', 'FOREST:NNP']
+
+['ridiculous:JJ', "don't:VBP", 'give:VB', '9:CD', 'pt:JJ', 'lead:NN', 'Wake:VB', 'Forest:NNP', 'God:NNP', "I'm:NNP", 'beyond:IN', 'frustrated:VBN', 'typical:JJ']
+
+['great:JJ', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'would:MD', 'pretty:RB', 'cool:JJ', 'KU:NNP', 'met:VBD', 'tourney:NN']
+
+['746):CD', 'Wake:NNP', 'Forest/Indiana:NNP', '168:CD', 'Result:NNP', 'WINNER:NNP', 'Risk:NNP', '$5500:NNP', 'win:VB', '$5000:NN']
+
+['liked:VBD', 'video:NN']
+
+['Wow:NNP', 'wake:VBP', 'forest:JJS', '19-6:JJ', 'run:NN', 'finish:VB', 'game:NN', 'Congrats:NNP', 'ku:VB', 'great:JJ', 'danny:JJ', 'manning:VBG', 'nice:JJ', 'win:NN']
+
+['Wake:NNP', 'Forest:NNP', 'team:NN', 'knocked:VBD', 'Indiana:NNP', 'RAW:JJ']
+
+['upset:JJ', 'Wake:NNP', 'forest:JJS', 'looking:VBG', 'forward:RB', 'watch:VB', 'Indiana:NNP', 'vs:FW', 'Vandy:NNP', 'tomorrow:NN', 'guess:NN', 'Indiana:NNP', 'D:NNP', 'needs:VBZ', 'work:NN']
+
+['Hoosiers:NNS', 'fall:VBP', 'Wake:VB', 'Forest:NNP', 'Louisville:NNP', 'still:RB', "isn't:VBZ", 'ranked:JJ', 'haha:NN', "I'm:NNP", 'going:VBG', 'brat:NN', 'get:VBP', 'due:JJ', 'respec:NN']
+
+['wake:NN', 'forest:JJS', 'beat:NN', 'Indiana:NNP']
+
+['Great:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'squad:NN', 'Guy:NNP', 'coach:VB', 'reason:NN', 'Tulsa:NNP', 'good:JJ', 'well:RB']
+
+['first:JJ', 'loss:NN', 'year:NN', 'Wake:NNP', 'Forest:NNP', 'Sorry:NNP', 'IU:NNP', 'real:JJ', 'team:NN', 'year:NN']
+
+['S/o:NNP', 'wake:VBP', 'forest:JJS', 'proving:VBG', 'whole:JJ', "'ranked:VBD", "13th':CD", 'thing:NN', 'crap:NN']
+
+['Congrats:NNS', 'Wake:NNP', 'Forest:NNP', 'win:NN', 'Indiana:NNP', 'Maui:NNP', 'Quarterfinals:NNP', 'hopefully:RB', 'play:VBP', 'Final:NNP']
+
+['FINAL:NNP', 'SCORE:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'Indiana:NNP', 'play:VB', 'St:NNP', 'Johns:NNP', 'Tuesday:NNP', '2:CD', 'pm:NN', 'ET:NNP', 'ESPN2:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'Beat:NNP', 'Indiana:NNP', 'lol:NN']
+
+['God:NNP', 'fuck:NN', 'lose:VB', 'wake:VB', 'forest:JJS']
+
+['IU:NNP', 'goes:VBZ', 'Wake:VB', 'Forest:NNP']
+
+['Indiana:NNP', 'lost:VBD', 'Wake:VB', 'Forest:NNP']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', '13:CD', 'Indiana:NNP', '78:CD', 'Hoosiers:NNP', 'get:VBP', 'St:NNP', "John's:NNP", 'tomorrow:NN']
+
+['Maui:NNP', 'almost:RB', 'always:RB', 'produces:VBZ', 'wow:JJ', 'outcome:NN', 'Wake:NNP', 'Forest:NNP', 'beats:VBZ', 'Indiana:NNP', 'Indiana:NNP', 'message:NN', 'board:NN', 'servers:NNS', 'currently:RB']
+
+['Wake:NNP', 'forest:JJS']
+
+['WaitWake:NNP', 'Forest:NNP', 'won:VBD', 'game??:NN']
+
+['Wake:NNP', 'Forest:NNP', 'basketball:NN', 'freaking:JJ', 'nice:JJ']
+
+['love:VBP', 'State:NNP', 'live:VBP', 'however:RB', 'bleed:VBD', 'Blue:NNP', "it's:VB", 'Official:NNP', 'IU:NNP', 'lost:VBD', 'Unranked:NNP', 'Wake:NNP', 'Forest:NNP', 'WOW:NNP']
+
+['Indiana:NNP', 'led:VBD', 'Wake:NNP', 'Forest:NNP', '77-72:NN', '254:CD', 'outscored:VBN', 'stretch:NN', '10-1:JJ', 'play:VB', 'St:NNP', "John's:NNP", 'losers:NNS', 'bracket:VBP']
+
+['Bad:NNP', 'coaching:VBG', 'decisionsCrean:NN', 'called:VBD', 'timeout:NN', 'allowed:VBD', 'wake:NN', 'forest:NN', 'set:VB', 'winning:VBG', 'score:NN', 'Why?????:NNP']
+
+['Wake:NNP', 'forest:JJS', "didn't:NN", 'top:JJ', 'two:CD', 'players:NNS', 'either:CC', 'amazing:VBG', 'excitement:NN', 'season:NN', 'gone:VBN', 'Thanks:NNP', 'tom:JJ', 'crean:NN']
+
+['Wake:NNP', 'Forest:NNP', 'getting:VBG', 'big:JJ', 'win:NN', 'Indiana:NNP', 'great:JJ', 'see:VB', 'Devin:NNP', 'Thomas:NNP', 'big:JJ', 'things:NNS', 'senior:JJ', 'year:NN', 'finishing:VBG', '21:CD', 'pts:NNS', '8:CD', 'rebs:NNS']
+
+["Let's:NNP", 'go:VBP', 'Deacs:NNP']
+
+['Good:JJ', 'Wake:NNP', 'Forest:NNP', "That's:NNP", 'team:NN', 'damage:NN', 'season:NN']
+
+['Iu:NN', 'lost:VBD', 'wake:VB', 'forest:JJS', 'acc:NN', '&gt;:NN', 'big:JJ', 'ten:NN']
+
+['Hoosiers:NNS', 'lose:VBP', 'first:JJ', 'game:NN', 'season:NN', '82-78:JJ', 'loss:NN', 'Wake:VB', 'Forest:NNP', 'IU:NNP', 'face:VB', 'St:NNP', "John's:NNP", 'tomorrow:NN', '2:CD', 'pm:NN']
+
+['Unranked:VBN', 'Wake:NNP', 'Forest:NNP', 'beat:VBD', 'Indiana:NNP', 'game-winning:JJ', 'shot:NN', 'who?:VBG', 'kid:NN', 'Silver:NNP', 'Spring:NNP', 'course:NN', 'Hype:NNP']
+
+['FINAL:NNP', '13:CD', 'Indiana:NNP', 'falls:VBZ', '82-78:JJ', 'Wake:VB', 'Forest:NNP', "Hoosiers':NNP", 'Maui:NNP', 'opener:NN']
+
+['Wake:NNP', 'Forest:NNP', 'beats:VBZ', 'Indiana:NNP', '82-78:JJ']
+
+['Wake:NNP', 'Forest:NNP', '(picked:VBD', 'finish:VB', '11th:CD', 'ACC):NNP', 'takes:VBZ', 'Indiana:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'takes:VBZ', 'Indiana:NNP', '82-78:JJ', 'Maui:NNP', 'Invitational:NNP', 'Quarterfinal:NNP']
+
+['*Has:JJ', 'chance:NN', 'show:VB', 'strengths:NNS', 'great:JJ', 'tournament*:NN', '*Lays:NNS', 'egg:VBP', 'vs:JJ', 'Wake:NNP', 'Forest*:NNP', '*Hoosier:NNP', 'Nation:NNP', 'cries*:NN']
+
+['indiana:NN', 'loses:VBZ', 'Wake:VB', 'Forest:NNP']
+
+['Absolutely:RB', 'massive:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'two:CD', 'starters:NNS', 'Halfway:NNP', 'across:IN', 'world:NN', 'top:JJ', 'team:NN', 'Kudos:NNP']
+
+['82-78:JJ', 'Wake:NNP', 'Forest:NNP', 'wins:NNS']
+
+['Wow:NNP', 'Indiana:NNP', 'going:VBG', 'lose:VB', 'Wake:VB', 'Forest:NNP', 'first:JJ', 'game:NN', 'Maui:NNP', 'Speechless:NNP']
+
+["Crawford's:NNP", 'late:JJ', 'drive:NN', 'Wake:NNP', 'Forest:NNP', 'looked:VBD', 'lot:NN', 'like:IN', "Paige's:NNP", 'shot:NN', 'Louisville:NNP', 'last:JJ', 'season:NN', 'opposite:JJ', 'side:NN']
+
+['lost:VBN', 'Wake:VB', 'Forest:NNP']
+
+['Wake:VB', 'forest:JJS', 'upset:NN', 'LSU:NNP', '10:CD', 'early:JJ']
+
+['Wake:NNP', 'Forest:NNP', 'knocks:VBZ', 'Indiana:NNP', 'set:VB', 'battle:NN', 'black:JJ', 'gold:NN', 'tomorrow:NN']
+
+['Wake:NNP', 'Forest:NNP', 'Bryant:NNP', 'Crawford:NNP', 'hits:VBZ', 'game:NN', 'winner:NN', 'Maui:NNP', 'alum:NN', 'w/:NN', 'BIG:NNP', 'TIM:NN']
+
+['Wake:NNP', 'Forest:NNP', 'beat:NN', 'Indiana:NNP', "should've:NN", 'came:VBD', 'Syracuse:NNP', 'Thomas:NNP', 'Bryant:NNP']
+
+['Indiana:NNP', 'lost:VBD', 'Wake:NNP', 'Forest:NNP', 'team:NN', "didn't:VBZ", 'best:JJS', 'player:NN', 'offense:NN', 'gave:VBD', '82:CD', 'points:NNS', 'Tom:NNP', 'Crean:NNP', 'stays:VBZ', 'good:JJ']
+
+['Sophie:NNP', 'Cunningham:NNP', 'Sets:NNP', 'Scoring:NNP', 'Record:NNP', '42:CD', 'Points:NNS', '94-81:CD', 'Win:NNP', 'Wake:NNP', 'Forest:NNP']
+
+["Indiana's:NNP", 'first:JJ', 'loss:NN', 'comes:VBZ', 'Wake:VB', 'Forest:NNP', 'also:RB', '3-1:JJ', 'loss:NN', 'Richmond:VB']
+
+['Really:RB', 'IUWake:NNP', 'Forest?:NNP', 'disappointment:NN']
+
+['WAKE:NNP', 'FOREST:NNP', 'YES:NNP', 'WIN:NNP']
+
+['team:NN', 'could:MD', 'end:VB', 'better:JJR', 'projected:VBN', 'Wake:NNP', 'Forest:NNP', 'picked:VBN', '11th:CD', 'ACC:NNP']
+
+['WAKE:NNP', 'FOREST:NNP', 'UPSETS:NNP', 'INDIANA:NNP', '82-78:JJ', 'WOW:NNP', 'Lahaina:NNP', 'Civic:NNP', 'Center:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'pulled:VBD', 'got:VBD', 'win:NN', 'Indiana:NNP', '82-78:JJ']
+
+['Wake:NNP', 'Forest:NNP', "ain't:VBD", 'bad:JJ', 'team:NN', 'year:NN']
+
+['Wake:NNP', 'Forest:NNP', 'beats:VBZ', 'Hoosiers:NNPS', 'Maui:NNP', 'see:VB', 'happening:VBG', 'Kinda:NNP', 'wow:NN']
+
+['goes:VBZ', 'Hoosiers:NNP', 'Bad:NNP', 'look:NN', 'Indiana:NNP', 'allowing:VBG', '19-6:JJ', 'run:NN', 'Wake:VB', 'Forest:NNP', 'end:VB', 'game:NN', 'getting:VBG', 'FG:NNP', 'attempt:NN', 'tie:VB']
+
+["Didn't:NNP", 'expect:VB', 'win:VB', 'tourney:NN', 'lose:VB', 'Wake:VB', 'Forest:NNP', 'Fucking:NNP', 'prayers:NNS']
+
+['Wake:NNP', 'Forest:NNP', 'beat:NN', 'Indiana:NNP', 'Lol:NNP']
+
+['Wake:JJ', 'Forest:NNP', 'ended:VBD', 'game:NN', '19-6:JJ', 'run:NN', 'hardest:JJS', 'part:NN', 'close:NN', 'IU:NNP', 'failed:VBD', 'miserably:RB']
+
+['boy:NN', 'John:NNP', 'game:NN', 'ending:VBG', 'free:JJ', 'throws:NNS', 'Wake:NNP', 'Forest:NNP']
+
+['Nicely:RB', 'done:VBN', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'layup:NN', 'line:NN', 'broke:VBD', 'last:JJ', 'minutes:NNS']
+
+['Smh:NNP', 'IU:NNP', 'really:RB', 'lose:VB', 'wake:VB', 'forest:JJS']
+
+['Unranked:VBN', 'Wake:NNP', 'Forest:NNP', 'pulls:VBZ', 'upset:JJ', '82-78:NN', 'Indiana:NNP', 'good:JJ', 'look:NN']
+
+['Wake:NNP', 'Forest:NNP', 'Bryant:NNP', 'Crawford:NNP', 'hits:VBZ', 'game:NN', 'winner:NN', 'Maui:NNP', 'alum:NN', 'w/:NN', 'BIG:NNP', 'TIME:NNP', 'FROSH:NNP', 'YR:NNP']
+
+['Damn:NNP', 'Wake:NNP', 'Forest:NNP', 'wins:NNS']
+
+['Wake:NNP', 'Forest:NNP', 'defeat:NN', 'Creanettes:VBZ', '82:CD', '78:CD', 'IU:NNP', 'nets:NNS', 'U:NNP']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', '78:CD', 'Hoosiers:NNS', 'led:VBN', '9:CD', '737:CD', 'go:VB']
+
+['beach:NN', 'vacation:NN', 'Indiana:NNP', 'loses:VBZ', '8278:CD', 'Wake:VB', 'Forest:NNP', 'first:JJ', 'game:NN', 'Maui:NNP', 'Invitational:NNP']
+
+['lol:NN', 'IU:NNP', 'losing:VBG', 'Wake:VB', 'Forest:NNP']
+
+['Haha:NNP', 'Indiana:NNP', 'nothing:NN', 'going:VBG', 'Ended:VBD', 'game:NN', 'Wake:NNP', '19-6:JJ', 'run:NN', 'Vandy:NNP', 'vs:NN', 'Wake:NNP', 'Forest:NNP', 'tomorrow:NN']
+
+['Lol:NNP', 'nah:NN', 'lost:VBD', 'Wake:VB', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'goes:VBZ', '18-6:JJ', 'run:NN', 'win:VB', '82-78:JJ', 'Fantastic:NNP', 'win:NN']
+
+['Shocker:NN', 'Maui:NNP', 'Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', 'first:JJ', 'round:NN', 'Devin:NNP', 'Thomas:NNP', 'leads:VBZ', 'way:NN', '21:CD', 'pts:NNS', '8:CD', 'boards:NNS']
+
+['gets:VBZ', 'upset:VBN', 'Wake:NNP', 'Forest:NNP', 'Defense:NNP', 'wins:VBZ', 'ball:VBP', 'games:NNS', 'exactly:RB', 'IU:NNP', "didn't:NN"]
+
+['Another:DT', 'year:NN', 'IU:NNP', 'able:JJ', 'finish:VB', '19-6:JJ', 'run:NN', 'Wake:NNP', 'Forest:NNP']
+
+['WTG:NNP', 'Wake:NNP', 'Forest:NNP', 'WFU:NNP', '82-IU:CD', '78:CD']
+
+['wake:NN', 'forest:JJS', 'beats:NNS', 'iu:VBP']
+
+['Wake:NNP', 'Forest:NNP', 'finishes:NNS', '19-6:JJ', 'run:NN', 'stun:VB', '13:CD', 'Indiana:NNP', '82-78:JJ', 'Maui:NNP', 'Wow-ie:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'played:VBD', 'absolutely:RB', 'horrible:JJ', 'second:JJ', 'half:NN', 'yet:RB', 'upset:VBP', 'Indiana:NNP', "couldn't:VBP", 'glad:JJ']
+
+['Bryant:NNP', 'Crawford:NNP', 'coming:VBG', 'big:JJ', '2:CD', 'big:JJ', 'baskets:NNS', 'put:VB', 'Wake:NNP', 'Forest:NNP', 'ahead:RB', 'Indiana:NNP', 'Devon:NNP', 'Thomas:NNP', 'also:RB', 'big:JJ']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13th:CD', 'ranked:VBD', 'Hoosiers:NNS', 'quarterfinals:NNS', 'Maui:NNP', 'Invitational:NNP', '82-78:NN']
+
+['Final:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', '14:CD', 'Indiana:NNP', '78:CD', 'Indiana:NNP', 'falls:NNS', '3-1:CD', 'consolation:NN', 'bracket:NN', 'Maui:NNP']
+
+['Wake:NNP', 'Forest:NNP']
+
+['let:VBP', 'wake:VB', 'forest:JJS', 'WAKE:NNP', 'MOTHER:NNP', 'FUCKING:NNP', 'FOREST:NNP', 'beat:VBD', 'us:PRP']
+
+['Wake:VB', 'Forest:JJS', 'huge:JJ', 'upset:NN', '13:CD', 'ranked:JJ', 'Indiana:NNP']
+
+['Basketball:NN', 'fans:NNS', 'thank:VB', 'Wake:NNP', "Forest's:NNP", 'Bryant:NNP', 'Crawford:NNP', 'making:VBG', 'sure:JJ', 'game:NN', "didn't:NN", 'go:VB', 'overtime:RB', 'watch:VB', 'L:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'IU:NNP', '82-78:CD']
+
+['Wake:NNP', 'Forest:NNP', 'stuns:VBZ', 'Indiana:NNP', 'Maui:NNP', 'game:NN', 'winner:NN', '3:CD', 'seconds:NNS', 'go:VB']
+
+['Please:NNP', 'tell:VB', 'Crean:JJ', "didn't:NN", 'call:NN', 'pass:NN', 'Terrible:JJ', 'performance:NN', 'weak:JJ', 'Wake:NNP', 'Forest:NNP', 'team:NN']
+
+['Wake:NNP', 'forest:JJS', 'good:NN', 'Indiana:NNP', 'shitty:VBP']
+
+["Don't:NNP", 'get:VB', 'wrong:JJ', 'pick:NN', '&amp;:NNP', 'roll:NN', 'offense:NN', 'tricky:JJ', 'Thankfully:RB', 'Wake:NNP', 'Forest:NNP', 'team:NN', "we'll:NN", 'play:NN', 'year:NN', 'runs:VBZ']
+
+['Wake:NNP', 'Forest:NNP', 'closes:VBZ', '15-3:JJ', 'run:NN', 'hands:VBZ', 'Indiana:NNP', 'first:JJ', 'loss:NN', 'year:NN', '82-78:JJ']
+
+['First:RB', 'signature:NN', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'coach:NN', 'Wake:NNP', 'Forest:NNP', 'Great:NNP', 'game:NN', 'beat:VBP', '13:CD', 'Indiana:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13:CD', 'Indiana:NNP', '82-78:JJ']
+
+['HUGE:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'Go:NNP', 'Danny:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'got:VBD', 'lil:JJ', 'squad:NN', 'tho:NN']
+
+['Great:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP']
+
+['Great:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'IU:NNP']
+
+['Indiana:NNP', 'basketball:NN', 'let:VBN', 'week:NN', 'Butler:NNP', 'got:VBD', 'beat:JJ', 'last:JJ', 'night:NN', 'IU:NNP', 'got:VBD', 'beat:JJ', 'Wake:NNP', 'ForestWake:NNP', 'Forest?:NNP']
+
+['Oh:UH', 'Tom:NNP', 'Crean:NNP', 'try:VB', 'one:CD', 'loss:NN', 'Wake:NNP', 'Forest:NNP', 'awful:JJ', 'likewise:RB', 'team:NN', 'tonight:NN']
+
+['Frosh:NNP', 'Bryant:NNP', 'Crawford:NNP', 'driving:VBG', 'layup:JJ', 'w/32:NN', 'sec:NN', 'left:VBD', 'breaks:JJ', 'tie--:JJ', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'final:JJ']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', '82-78:CD', 'Maui:NNP', 'Invitational:NNP']
+
+['IU:NNP', 'plays:VBZ', 'defense:NN', 'u:RB', 'lose:VB', 'Wake:VB', 'Forest:NNP']
+
+['happiest:JJS', "I've:NNP", 'watching:VBG', 'Wake:NNP', 'Forest:NNP', 'long:JJ', 'time:NN', "We're:NNP", 'coming:VBG', 'back:RB']
+
+["That's:NNP", "wouldn't:VBP", '*that*:NNP', 'shocked:JJ', 'Harry:NNP', 'Giles:NNP', 'stunned:VBD', 'everyone:NN', 'went:VBD', 'Wake:VB', 'Forest:NNP', 'Danny:NNP', 'Manning:NNP', 'best:JJS']
+
+['Bryant:NNP', 'Crawford:NNP', 'big:JJ', 'time:NN', 'bucket:NN', 'Wake:NNP', 'Forest:NNP', 'gonna:JJ', 'solid:JJ', 'team:NN', 'year:NN']
+
+['Happy:JJ', "'IU:''", 'loses:VBZ', 'Wake:VB', "Forest':NNP", 'Day:NNP']
+
+['BIGGGGGG:NNP', 'win:NN', 'Deacs:NNP', 'Danny:NNP', 'Manning:NNP', 'RAH:NNP', 'RAH:NNP', 'WAKE:NNP', 'FOREST:NNP', 'RAH:NNP']
+
+['(@:JJ', 'YMCA:NNP', 'Wake:NNP', 'Forest:NNP', 'NC):NNP']
+
+['IU:NNP', 'lolz:VBZ', 'Lolz:NNP', 'Lolz:NNP', "I'm:NNP", 'dead:JJ', 'wake:NN', 'forest:NN']
+
+['Great:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP']
+
+['HUGE:NNP', 'WIN:NNP', 'WAKE:NNP', 'FOREST:NNP', 'Lots:NNP', 'excited:VBN', 'year:NN']
+
+['Thats:VBZ', 'bad:JJ', 'loss:NN', 'Wake:NNP', 'Forest??:NNP', 'Cmon:NNP', 'IU:NNP', 'yall:NN', 'better:JJR']
+
+['WAKE:NNP', 'FOREST:NNP', 'BEAT:NNP', 'INDIANA:NNP', 'WAKE:NNP', 'FUCKING:NNP', 'NATION:NNP']
+
+['Indiana:NNP', 'led:VBD', 'Wake:NNP', 'Forest:NNP', '77-72:NN', '254:CD', 'outscored:VBN', 'stretch:NN', '10-1:JJ', 'play:VB', 'St:NNP', "John's:NNP", 'losers:NNS', 'bracket:VBP', 'tmrw:NN', '2pm:CD']
+
+['Epic:NNP', 'choke:VBD', 'job:NN', 'Tan:NNP', "Tommy's:NNP", 'boys:NNS', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD']
+
+['Maui:NNP', 'wowie:WP', 'Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', '82-78:CD']
+
+['YES:UH', 'WAKE:NNP', 'FOREST:NNP']
+
+['Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'take:VB', 'Indiana:NNP', '82-78:JJ', 'gets:VBZ', 'watch:VB', 'Jayhawks:NNP', 'hours:NNS']
+
+['Big:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'Projected:VBD', 'last:JJ', 'team:NN', 'ACC:NNP', 'beat:VBD', 'ranked:JJ', 'team:NN', 'country:NN', 'Indiana:NNP']
+
+['DANNY:NNP', 'MANNING:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP']
+
+['Great:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13th:CD', 'ranked:JJ', 'Indiana:NNP', '82-78:JJ', 'Earns:NNP', 'Maui:NNP', 'Wowie:NNP', 'Bill:NNP', 'Walton:NNP']
+
+['Awesome:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'tonight:NN', 'Indiana:NNP']
+
+['Lets:NNS', 'hear:VBP', 'wake:NN', 'forest:JJS', 'basketball:NN', 'ya:NN']
+
+['Hoosiers:NNPS', 'lose:VBP', 'Wake:VB', 'Forest:NNP', 'Maui:NNP', 'Invitational:NNP']
+
+['Lose:VB', 'Wake:VB', 'Forest:NNP', 'kidding:VBG']
+
+['Wake:NNP', 'Forest:NNP', 'really:RB', 'beat:NN', 'Indiana:NNP']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'Wake:NNP', 'Forest:NNP', 'ends:VBZ', '19-6:JJ', 'run:NN', 'must:MD', 'go:VB', 'dchoke:NN', 'late:RB', 'game:NN', 'start:NN']
+
+['Hoosiers:NNS', 'fall:VBP', 'Wake:VB', 'Forest:NNP', 'Louisville:NNP', 'still:RB', "isn't:VBZ", 'ranked:JJ', 'haha:NN', "I'm:NNP", 'going:VBG', 'brat:NN', 'get:VBP', 'due:JJ', 'respect:NN']
+
+['tweet:NN', 'Wake:NNP', 'Forest:NNP', 'spot:VBN']
+
+['Future:JJ', 'LSU:NNP', 'opponent:NN', 'Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13:CD', 'Indiana:NNP', '82-78:CD', 'Maui:NNP', 'Invitational:NNP']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13:CD', 'Indiana:NNP', '82-78:JJ', 'Demon:NNP', 'Deacons:NNP', 'close:VBD', 'game:NN', '19-6:JJ', 'run:NN', 'final:JJ', '734:CD']
+
+['Wake:VB', 'Forest:JJS', 'W:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'strong:JJ', 'comeback:NN', 'upset:VB', 'Indiana:NNP', 'Hoosiers:NNP']
+
+['Ridiculous:JJ', 'collapse:NN', 'Hoosiers:NNS', 'Maui:NNP', 'Wake:NNP', 'Forest:NNP', 'Huge:NNP', 'break:NN', 'won:VBD', 'WF:NNP', 'last:JJ', 'week:NN']
+
+['never:RB', 'mind:NN', 'lost:VBD', 'Wake:VB', 'Forest:NNP', 'lol:NN']
+
+['Tom:NNP', 'Creen:NNP', 'siiiiickkkk:VBN', 'first:JJ', 'u:JJ', "don't:NN", 'get:VB', 'commit:NN', 'Bruce:NNP', 'lose:VBP', 'wake:VB', 'forest:JJS', 'lol:NN']
+
+['5*:CD', 'NCAAB-:JJ', 'WAKE:NNP', 'FOREST:NNP', '+125:NNP', 'OUTRIGHT:NNP', '6-1:JJ', 'NCAAB:NNP', 'run:VB', '2-0:JJ', 'today:NN', '&amp;:NNP', '+40:NNP', 'units:NNS', 'last:JJ', '4:CD', 'days:NNS']
+
+['Wake:NNP', 'Forest:NNP', '+55:NN', '20/21:CD', 'winner:NN']
+
+['IU:NNP', 'Wake:NNP', 'forest:JJS', 'lost:VBD', 'WAKE:NNP', 'FOREST:NNP']
+
+['Purdue:NNP', 'beats:NNS', 'Florida:NNP', '15:CD', 'IU:NNP', 'loses:VBZ', 'Wake:VB', 'Forest?:NNP']
+
+['Meanwhile:RB', 'Wake:NNP', 'Forest:NNP', 'beat:VBD', 'Indiana:NNP', 'Maui:NNP']
+
+['Wake:NNP', 'forest:JJS', 'beat:NN', 'Indiana:NNP', 'Lets:NNP', 'go:VBP', 'Deacons:NNS']
+
+['First:RB', 'two:CD', 'Wake:NNP', 'Forest:NNP', 'wins:VBZ', 'Indiana:NNP', 'week:NN']
+
+['Happy:JJ', 'see:VB', 'Wake:NNP', 'Forest:NNP', 'win:NN', 'sure:JJ']
+
+['go:VB', 'Hoosiers:NNP', 'unranked:VB', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'expected:VBN', 'finish:VB', 'bottom:JJ', 'third:NN', 'ACC:NNP', "it's:VBZ", 'going:VBG', 'one:CD', 'heck:NN', 'league:NN', 'Demon:NNP', 'Deacons:NNP', 'upset:VBD', 'IU:NNP']
+
+['Wake:VB', 'forest:JJS', 'upset:NN', 'Indiana:NNP']
+
+['CBB:NNP', "That's:NNP", 'big:JJ', 'time:NN', 'upset:VBN', 'Maui:NNP', 'Wake:NNP', 'Forest:NNP', 'beats:NNS', 'Indiana:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'plays:VBZ', 'Vanderbilt:NNP', 'next:JJ', "I'm:NNP", 'pretty:JJ', 'sure:JJ', 'two:CD', 'actually:RB', 'school:NN', 'research:NN']
+
+['Tom:NNP', 'Crean:NNP', 'special:JJ', 'Indiana:NNP', 'loses:VBZ', 'Wake:VB', 'Forest:NNP', 'Maui:NNP']
+
+['Maui:NNP', 'wowee:NN', 'happened:VBD', 'Congrats:NNP', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', '82-78:NN', 'basketball:NN', 'game:NN']
+
+['Fuck:NNP', 'yes:NNS', 'Wake:NNP', 'fucking:VBG', 'Forest:NNP', 'baby:NN']
+
+['Indiana:NNP', 'fallen:VBN', 'Wake:VB', 'Forest:NNP', '82-78:NN']
+
+['Wake:NNP', 'Forest:NNP', 'Indiana:NNP', '82-78:JJ']
+
+["You're:NN", 'telling:VBG', "can't:VBP", 'beat:JJ', 'Wake:NNP', 'Forest?:NNP', 'Come:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', 'Maui:NNP', 'Great:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP']
+
+['UE:NNP', 'could:MD', 'beat:VB', 'wake:VB', 'forest:JJS']
+
+['wake:VB', 'forest:JJS', 'upset:VBN', 'Indiana:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'number:NN', '13:CD', 'Indiana:NNP', 'Maui:NNP', 'Invitational:NNP']
+
+['Indiana:NNP', 'lost:VBD', 'Wake:VB', 'Forest:NNP']
+
+['Good:JJ', 'Wake:NNP', 'Forest:NNP']
+
+["It's:NNP", '713:CD', 'Monday:NNP', 'night:NN', 'IU:NNP', 'lost:VBD', 'basketball:NN', 'game:NN', 'Wake:VB', 'Forest:NNP']
+
+['Gotta:NNP', 'keep:VB', 'eye:NN', 'wake:NN', 'forest:NN']
+
+['Man:NN', 'Indiana:NNP', 'happened?:VBD', 'Wake:NNP', 'Forest:NNP', 'upset:NN']
+
+['Wake:NNP', 'Forest?:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'looking:VBG', 'like:IN', '7-win:JJ', 'ACC:NNP', 'team:NN', 'better:JJR']
+
+['WAKE:NNP', 'FOREST:NNP', 'Pulls:NNP', 'upset:NN', 'Indiana:NNP', 'without:IN', 'two:CD', 'starters:NNS']
+
+['Wake:NNP', 'forest:JJS', 'jus:NN', "hoe'd:NN", 'tf:NN', 'Indiana:NNP']
+
+["Indiana's:NNP", 'first:JJ', 'loss:NN', 'season:NN', '82-78:JJ', 'loss:NN', 'Wake:VB', 'Forest:NNP', 'Maui:NNP', "They'll:NNP", 'play:NN', '2:CD', 'pm:NN', 'tomorrow:NN', 'St:NNP', "John's:NNP"]
+
+['Wake:NNP', 'Forest:NNP', 'tho:NN']
+
+['Wake:NNP', 'Forest:NNP', '82:CD', 'State:NNP', 'Disinterest:NNP', 'mean:VBP', 'Indiana:NNP', '78:CD', 'FINAL:NNP', 'first:JJ', 'upset:NN']
+
+['Wake:NNP', 'Forest:NNP', 'defeats:NNS', 'Indiana:NNP', 'Maui:NNP', 'Big:NNP', 'upset:NN']
+
+['WAKE:NNP', 'FUCKING:NNP', 'FOREST??:NNP']
+
+['HUGE:NNP', 'upset:NN', 'Wake:NNP', 'Forest:NNP', 'beating:VBG', 'Indiana:NNP', 'first:JJ', 'round:NN', 'Maui:NNP', 'Invitational:NNP', 'good:JJ', 'start:NN']
+
+['Wake:NNP', 'Forest:NNP', "Let's:NNP", 'ride:NN']
+
+['Bryan:NNP', 'Crawford:NNP', 'really:RB', 'saved:VBD', 'wake:NN', 'forest:NN']
+
+['Wake:NNP', 'Forest:NNP', 'won:VBD', 'fun:NN', 'one:CD']
+
+['Thank:NNP', 'Wake:VBP', 'Forest:JJS', 'fixing:VBG', 'whole:JJ', 'Iu:NNP', 'ranked:VBN', 'ahead:RB', 'Purdue:NNP', 'thing:NN']
+
+['game:NN', 'Good:NNP', 'job:NN', 'Wake:NNP', 'Forest:NNP']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'Demon:NNP', 'Deacons:NNP', 'walk:VBP', 'away:RB', 'upset:JJ', 'victory:NN', 'Indiana:NNP', 'Hoosiers:NNP', 'Maui:NNP']
+
+['WAKE:NNP', 'FOREST:NNP', 'BEAT:NNP', 'INDIANA:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'Really?:NNP', 'exactly:RB', 'need:VBP', 'fired:VBN']
+
+['Wake:NNP', 'Forest:NNP', 'holds:VBZ', '82-78:JJ', 'upset:NN', '13:CD', 'Indiana:NNP', "Deacs':NNP", 'first:JJ', 'appearance:NN']
+
+['Well:RB', 'alright:RB', 'Wake:NNP', 'Forest:NNP', 'see:VBP', 'Crawford:NNP']
+
+['wow:NNS', 'Wake:VBP', 'Forest:NNP', 'beat:NN', 'Indiana:NNP']
+
+['Wake:VB', 'Forest:JJS', 'upset:NN', '13:CD', 'Indiana:NNS']
+
+['Way:NN', 'go:VB', 'Wake:NNP', 'Forest:NNP']
+
+['Indiana:NNP', 'lost:VBD', 'Wake:VB', 'Forest:NNP', 'Maui:NNP']
+
+['Wake:VB', 'Forest:JJS', 'win:NN']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', '78:CD', 'Hoosiers:NNS', 'led:VBN', '9:CD', '737:CD', 'go:VB', 'Next:JJ', 'vs:NN', 'St:NNP', "John's:NNP", 'tomorrow:NN']
+
+['Yaaassss:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['Indiana:NNP', 'upset:VBN', 'Wake:NNP', 'Forest:NNP']
+
+['Good:JJ', 'stuff:NN', 'IU:NNP', 'tonight:VBD', 'fall:VBP', 'Wake:VB', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'finishes:NNS', '19-6:JJ', 'run:NN', 'knock:VB', 'Indiana:NNP', 'Maui:NNP']
+
+['IU:NNP', 'concerned:VBN', "it's:NN", 'battle:NN', 'Wake:NNP', 'Forest:NNP', 'team:NN', 'expired:VBN', 'web:NN', 'site?:NN']
+
+["That's:NNP", 'impressive:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP']
+
+['shitting:VBG', 'Wake:NNP', 'forest:JJS', 'really?:NN', 'much:JJ', 'strong:JJ', 'Maui:NNP', 'showing:NN']
+
+['Indiana:NNP', 'got:VBD', 'beat:JJ', 'byWake:NN', 'Forest:NNP', 'get:VBP', 'badmouthing:VBG', 'Duke:NNP', 'UNC:NNP']
+
+['Upset:NNP', 'complete:NN', 'goes:VBZ', 'Wake:VB', 'Forest:NNP', 'Good:NNP', 'game:NN']
+
+['Wake:VB', 'forest:JJS', 'upset:JJ', 'okay:NN']
+
+['wake:VB', 'forest???:NN']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', 'Hawaii:NNP', 'Maui:NNP', 'Wow-i-:NNP', 'Bill:NNP', 'Walton:NNP']
+
+['Wake:NNP', 'forest:JJS', '&amp;:NN', 'Indiana:NNP', 'game:NN', 'good:JJ']
+
+['Wake:VB', 'forest:JJS', 'upset:NN']
+
+['Bryant:NNP', 'Crawford:NNP', 'coming:VBG', 'big:JJ', '2:CD', 'big:JJ', 'baskets:NNS', 'put:VB', 'Wake:NNP', 'Forest:NNP', 'ahead:RB', 'Indiana:NNP', 'Devon:NNP', 'Thomas:NNP', 'also:RB', 'big:JJ', '82-78:CD', 'upset:NN']
+
+['Wake:NNP', 'Forest?:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'sharpie:NN']
+
+['Danny:NNP', 'Manning:NNP', 'getting:VBG', 'done:VBN', 'Wake:NNP', 'Forest:NNP', 'Love:NNP']
+
+['Wake:NNP', 'forest:JJS', 'baby:NN']
+
+['Enjoy:NN', 'consolation:NN', 'bracket:NN', 'Indiana:NNP', '19-6:JJ', 'run:NN', 'end:VB', 'game:NN', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'lol:NN']
+
+['Wake:NNP', 'Forest:NNP', 'basketball:NN', 'legit:NN', 'year:NN', 'seethey:VBP', 'upset:VBN', 'Indiana:NNP']
+
+['surprise:NN', 'Danny:NNP', "Manning's:NNP", 'Wake:NNP', 'Forest:NNP', 'team:NN', 'got:VBD', 'big:JJ', 'upset:NN', 'team:NN', 'growing:VBG']
+
+['Wake:NNP', 'forest:JJS', 'upset:NN']
+
+['Wow:NNP', 'Wake:NNP', 'Forest:NNP', 'knocked:VBD', 'Indiana:NNP']
+
+['Yea:NNP', "that's:VBZ", 'bad:JJ', 'Wake:NNP', 'forest:NN', 'picked:VBD', 'finish:VB', 'last:JJ', 'ACC:NNP']
+
+['Damn:NNP', 'Wake:NNP', 'Forest:NNP', 'though:IN']
+
+['Great:NNP', 'win:VBP', 'Wake:NNP', 'Forest:NNP']
+
+['Dores:NNS', 'play:VB', 'Wake:NNP', 'Forest:NNP', 'tomorrow:NN', 'night:NN']
+
+['Wake:VB', 'Forest:JJS', 'upset:NN', '(13)Indiana:NN']
+
+['Love:VB', 'seeing:VBG', 'Wake:NNP', 'Forest:NNP', 'little:JJ', 'basketball:NN', 'swag:NN', "It's:NNP", 'still:RB', 'early:RB', 'least:JJS', 'look:VBP', 'competitive:JJ', 'year:NN']
+
+['Good:JJ', 'shit:NNS', 'Wake:VBP', 'Forest:JJS']
+
+['Final:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'Hoosiers:NNPS', 'consolation:NN', 'bracket:NN', 'Maui:NNP', 'Yogi:NNP', "Ferrell's:NNP", '3-point:JJ', 'streak:NN', 'also:RB']
+
+['Final:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD']
+
+['Wake:VB', 'forest:JJS', 'upset:NN']
+
+['FINAL:NNP', 'Indiana:NNP', '78:CD', 'Wake:NNP', 'Forest:NNP', '82:CD']
+
+['Look:NN', 'Wake:NNP', 'Forest:NNP', "y'all:NN", 'Taking:VBG', 'Indiana:NNP', 'despite:IN', 'short:JJ', 'handed:VBN', 'Huge:NNP', 'win:NN', 'Danny:NNP', 'Manning:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'scored:VBN', '52:CD', 'points:NNS', 'paint:NN', 'versus:NN', 'IU:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'takes:VBZ', 'Indiana:NNP']
+
+['Indiana:NNP', 'lose:VB', 'Wake:VB', 'Forest?:NNP']
+
+['Wake:NNP', 'forest:JJS', 'beats:NNS', 'number:NN', '13:CD', 'IU:NNP']
+
+['Close:VB', 'wake:NN', 'forest:NN']
+
+['Basketball:NN', 'fans:NNS', 'thank:VB', 'Wake:NNP', "Forest's:NNP", 'Bryant:NNP', 'Crawford:NNP', 'making:VBG', 'sure:JJ', 'game:NN', "didn't:NN", 'go:VB', 'overtime:RB', 'watch:VB', 'LSU:NNP', '&amp;:NNP', 'Ben:NNP', 'Simmons:NNP']
+
+['coach:NN', 'Indiana:NNP', 'stupid:JJ', "y'all:RB", 'deserve:VBP', 'get:VB', 'upset:VBN', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'defeats:VBZ', 'Indiana:NNP', '82-78:JJ']
+
+['Wake:NNP', 'Forest:NNP', 'getting:VBG', 'huge:JJ', 'win:NN', 'Indiana:NNP']
+
+['IU:NNP', 'v:FW', 'Wake:NNP', 'Forest:NNP', 'game:NN', 'doozy:NN']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'Wake:NNP', 'Forest:NNP', 'ends:VBZ', '19-6:JJ', 'run:NN']
+
+['Indiana:NNP', 'basketball:NN', 'Wake:NNP', 'ForestWAKE:NNP', 'FORESTBAD:NNP', 'LOL:NNP']
+
+['Xavier&gt;Wake:VB', 'Forest:JJS']
+
+['LSU:NNP', 'gets:VBZ', 'boost:NN', 'tip-off:NN', 'Wake:NNP', 'Forest:NNP', 'beating:VBG', '13:CD', 'Indiana:NNP', 'Helps:NNP', "ol':NN", 'RPI:NNP', 'Deacs:NNP', 'come:VBP', 'PMAC:NNP', 'next:JJ', 'month:NN']
+
+['Wake:VB', 'Forest:JJS', 'UPSET:NNP']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', '13:CD', 'Indiana:NNP', '78:CD']
+
+['Nice:NNP', 'job:NN', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'comeback:NN', 'nice:JJ']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'IU:NNP', '82-78:JJ', 'Hoosiers:NNP', 'face:NN', 'St:NNP', "John's:NNP", 'Tuesday:NNP', '2:CD', 'WHME-FM:JJ']
+
+['update:JJ', 'wake:NN', 'forest:JJS', 'won:NN']
+
+['FINAL:NNP', '13:CD', 'go:VBP', 'Wake:VB', 'Forest:NNP', '82-78:CD', 'Bill:NNP', 'Walton:NNP', 'called:VBD', 'Maui:NNP', 'wowie:VBD']
+
+['wake:NN', 'forest:JJS', '&amp;:NN', 'Indiana:NNP', 'game:NN', 'good:JJ', 'asf:NN']
+
+['Wake:VB', 'Forest:NNP', 'Vanderbilt:NNP', 'Maui:NNP', 'Final:NNP', 'W:NNP', 'O:NNP', 'W:NNP']
+
+['Lmao:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'takes:VBZ', '13:CD', 'Indiana:NNP', '82-78:CD', 'top:JJ', 'half:NN', 'Maui:NNP', 'Invitational:NNP', 'bracket:NN', 'Congrats:NNP', 'Danny:NNP', 'Manning:NNP', 'big:JJ', 'win:NN']
+
+['Love:NNP', 'u:JJ', 'Wake:NNP', 'Forest:NNP']
+
+['Final:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', 'Indiana:NNP', '78:CD', 'Hoosiers:NNP', 'play:VB', 'St:NNP', 'Johns:NNP', 'tomorrow:NN']
+
+['Gonna:NNP', 'long:JJ', 'year:NN', "can't:VBP", 'beat:JJ', 'Wake:NNP', 'Forest:NNP']
+
+['LETS:NNP', 'GO:NNP', 'WAKE:NNP', 'FOREST:NNP']
+
+['Remember:NNP', 'Wake:NNP', 'Forest:NNP', 'win:NN', 'finish:VBP', '7:CD', 'wins:NNS', 'ACC:NNP']
+
+['Wake:VB', 'forest:JJS', 'upset:NN', 'love:VBP', 'Maui:NNP', 'man:NN']
+
+['Wake:NNP', 'forest:JJS', 'really:RB', 'beat:JJ', 'Indiana:NNP']
+
+['Indiana:NNP', 'Tom:NNP', 'Crean:NNP', 'fall:NN', 'Wake:VB', 'Forest:NNP', 'first:JJ', 'round:NN', 'Maui:NNP', 'Invitational:NNP', '82-78:NN']
+
+['Wake:VB', 'Forest:JJS', 'upset:NN']
+
+['Good:JJ', 'job:NN', 'Wake:NNP', 'Forest:NNP']
+
+['Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'huge:JJ', 'win:NN', 'Indiana:NNP', 'prompting:VBG', 'Bill:NNP', 'Walton:NNP', 'drop:VB', 'Maui:NNP', 'Wowee:NNP', "that's:JJ", 'fun:NN']
+
+['Nice:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'Basketball:NN']
+
+['championship:NN', 'contending:VBG', 'IU:NNP', 'team:NN', 'losing:VBG', 'Wake:VB', 'Forest:NNP', '(who:NNP', 'finished:VBD', '12th:CD', 'ACC:NNP', 'last:JJ', 'season)?:NN']
+
+['Wake:NNP', 'Forest:NNP', 'upsets:NNS', 'Indiana:NNP', 'Maui:NNP']
+
+['Indiana:NNP', 'FALLS:NNP', 'Wake:VB', 'Forest:NNP', 'Demon:NNP', 'Deacons:NNP', '(led:VBN', "Turgeon's:NNP", 'pal:JJ', 'Danny:NNP', 'Manning):NNP', '82-78:JJ']
+
+['IU:NNP', 'lost:VBD', 'Wake:VB', 'Forest:NNP']
+
+["That's:VB", 'fantastic:JJ', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'ACC:NNP']
+
+['Big:JJ', 'time:NN', 'win:NN', 'wake:NN', 'forest:NN']
+
+['Wake:NNP', 'Forest:NNP', 'bout:NN', 'upset:VB', 'Hoosiers:NNS']
+
+['Wake:NNP', 'Forest:NNP', 'knocks:VBZ', 'Number:NNP', '13:CD', 'ranked:VBD', 'Indiana:NNP', 'Maui:NNP', 'LSU:NNP', 'hosts:VBZ', 'Demon:NNP', 'Deacons:NNP', 'December:NNP', '29:CD']
+
+['Non:NNP', 'ranked:VBD', 'Wake:NNP', 'Forest:NNP', 'upset:VBD', 'Indiana:NNP']
+
+['IU:NN', 'lost:VBD', 'Wake:VB', 'Forest:NNP']
+
+['Thats:VB', 'heckuva:NN', 'win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'Indiana:NNP']
+
+['Hell:NNP', 'yea:PRP', 'wake:VBP', 'forest:JJS']
+
+['Collins:NNS', 'hits:NNS', 'Wake:NNP', 'Forest:NNP', 'upsets:VBZ', '13:CD', 'Indiana:NNP', '82-78:JJ']
+
+['Indiana:NNP', 'UPSET:NNP', 'Wake:NNP', 'Forest:NNP', '82-78:NN']
+
+['Wake:NNP', 'Forest:NNP', 'Indiana:NNP', 'many:JJ', 'upsets:NNS', 'already:RB', 'season:NN']
+
+['Lol:NNP', 'wake:NN', 'forest:NN']
+
+['WAKE:NNP', 'FREAKING:NNP', 'FOREST:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'take:VB', '13:CD', 'ranked:JJ', 'Indiana:NNP']
+
+['IU:NNP', 'really:RB', 'lose:VB', 'wake:VB', 'forest:JJS']
+
+['Upset:VBN', 'baby:NNS', 'Wake:NNP', 'Forest:NNP', 'team:NN', 'year:NN', 'Tons:NNP', 'playmakers:NNS', 'gonna:VBP', 'make:VB', 'team:NN', 'Tourney:NNP', 'team:NN']
+
+['GET:NNP', 'BEAT:NNP', 'WAKE:NNP', 'FOREST:NNP']
+
+['WAKE:NNP', 'FOREST???:NNP', 'like:VBP', 'team:NN']
+
+['Wake:NNP', 'Forest:NNP', 'tops:VBZ', 'Indiana:NNP', 'Still:RB', 'upset:NN', 'opinion:NN', 'Hoosiers:NNS', 'poop:JJ']
+
+['soon:RB', 'get:VBP', 'home:VBN', '&amp;:NN', 'cut:VBD', 'TV:NN', 'buddy:NN', 'Wake:NNP', 'Forest:NNP', 'hits:VBZ', 'buzzer:NN', 'beater:NN', 'lol:NN']
+
+['FINAL:NNP', 'Wake:NNP', 'Forest:NNP', '82:CD', '13:CD', 'Indiana:NNP', '78:CD', 'Hoosiers:NNP', 'fall:NN', '(3-1):JJ', 'play:VB', 'St:NNP', "John's:NNP", 'tomorrow:NN']
+
+['LOOK:NN', 'WAKE:NNP', 'FOREST:NNP']
+
+["It'd:NNP", 'cool:JJ', 'KU:NNP', 'matchup:VB', 'Danny:NNP', "Manning's:NNP", 'Wake:NNP', 'Forest:NNP', 'team:NN', 'Maui:NNP', 'final:JJ']
+
+['wake:NN', 'forest/Indiana:NN', 'game:NN']
+
+['Wake:NNP', 'forest:JJS', 'beat:NN', 'Indiana:NNP']
+
+['Love:VB', 'Wake:NNP', 'Forest:NNP', 'love:VBP', 'IU:NNP', 'lolz:VBD']
+
+['Wake:VB', 'Forest:JJS', 'beat:VB', 'Indiana:NNP']
+
+['Hahahahaha:NNP', 'love:VBP', 'Wake:VBP', 'Forest:NNP', 'guy:NN', 'eating:JJ', 'gesture:NN', 'laughing:NN']
+
+['Wake:NNP', 'Forest:NNP', 'intercepts:VBZ', 'ball:NN', 'get:VBP', 'fouled:VBN', '07:CD', 'left:NNS']
+
+['Indiana:NNP', '2:CD', 'Wake:VB', 'Forest:NNP', '3:CD', 'seconds:NNS', 'left:VBD']
+
+['win:NN', 'Danny:NNP', 'Manning:NNP', 'Wake:NNP', 'Forest:NNP', 'getting:VBG', 'upset:JJ', 'know:VBP', 'must:MD', 'happy:JJ']
+
+['HUGE:NNP', 'win:NN', 'Wake:NNP', 'Forest:NNP', 'Danny:NNP', 'Manning:NNP', 'certainly:RB', 'right:JJ', 'direction:NN']
+
+['bad:JJ', 'inbounds:NNS', 'play:VBP', 'Wake:NNP', 'Forest:NNP', 'steals:NNS', 'gets:VBZ', 'fouled:VBN']
+
+['Ok:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'Basketball:NN']
+
+['Damn:NNP', 'Indiana:NNP', 'wake:VB', 'forest:JJS', 'game:NN', 'hype:NN']
+
+['Vandy:NNP', 'vs:NNS', 'wake:VBP', 'forest:JJS']
+
+['Wake:NNP', 'Forest:NNP', 'throws:VBZ', 'Hoosiers:NNP', 'losers:NNS', 'bracket:VBP', 'Maui:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'ballin:NN', 'Maui:NNP']
+
+['LETS:NNP', 'GOOO:NNP', 'WAKE:NNP', 'FOREST:NNP']
+
+["Hartman's:NNP", 'pass:NN', 'opposing:VBG', 'free-throw:JJ', 'line:NN', 'picked:VBN', 'Wake:NNP', 'Forest:NNP', 'Foul:NNP', '07:CD', 'play:VB']
+
+['Wake:NNP', 'Forest:NNP', 'defeat:VB', 'Indiana:NNP', 'Bill:NNP', 'Walton:NNP', 'Maui:NNP', 'Wowee:NNP']
+
+['lose:VB', 'Wake:NNP', 'Forest:NNP', 'Basketball:NNP', 'team?:NN', 'Cmon:NNP', 'man:NN']
+
+['Wake:NNP', 'Forest:NNP']
+
+['Damn:NNP', 'Wake:NNP', 'Forest:NNP']
+
+['Wake:NNP', 'forest:JJS', 'upset:VBN', 'Indiana:NNP']
+
+['Wow:NNP', 'Wake:NNP', 'Forest:NNP', 'monster:NN', 'upset:NN', 'Indiana:NNP', 'NOBODY:NNP', 'saw:VBD', 'coming:VBG']
+
+['Great:NNP', 'play:NN', 'call:NN', 'Wake:NNP', 'Forest:NNP', 'coaching:NN', 'staff:NN']
+
+['Wake:VB', 'forest:JJS', 'actually:RB', 'won:VBN', 'something:NN']
+
+['Indiana:NNP', 'got:VBN', 'play:VB', 'defense:NN', 'losing:VBG', 'Wake:VB', 'Forest:NNP', 'terrible:JJ', 'early:JJ', 'cant:JJ', 'play:NN', 'small:JJ', 'refuse:NN', 'guard:VB']
+
+['Wake:NNP', 'Forest:NNP', 'WOW:NNP']
+
+['Indiana:NNP', 'turns:VBZ', 'ball:NN', 'Wake:NNP', 'Forest:NNP', 'win:VB']
+
+['WAKE:NNP', 'FUCKING:NNP', 'FOREST:NNP']
+
+['wake:NN', 'forest:NN', 'gonna:JJ', 'upset:JJ', 'Indiana:NNP']
+
+['YAAAA:NNP', 'WAKE:NNP', 'FOREST:NNP']
+
+['Wake:NNP', 'Forest:NNP', 'took:VBD', 'Indiana:NNP']
+
+['Wake:NNP', 'forest???:NN', 'like:IN']
+
+['Ayyyee:NNP', 'wake:NN', 'forest:NN']
+
+['Helluva:NNP', 'game:NN', 'Maui:NNP', 'Wake:NNP', 'Forest:NNP', 'led:VBD', 'Indiana:NNP', '5:CD', 'halftime:NN', 'Hoosiers:NNP', 'battled:VBD', 'back:RP', 'top:JJ', '59-56:NN', '1211:CD', 'remain:NN']
+
+['Indiana:NNP', 'lost:VBD', 'freaking:VBG', 'Wake:NNP', 'Forest?:NNP', 'PUKE:NNP']
+
+['Indiana:NNP', 'lost:VBD', 'Wake:VB', 'Forest:NNP', 'first:JJ', 'round:NN', "can't:VBP", 'make:VB', 'stuff:NN', 'Good:JJ', 'work:NN', 'Tom:NNP', 'Crean:NNP']
+
+['Wake:NNP', 'forest:JJS', 'see:VBP']
+
+['Danny:NNP', "Manning's:NNP", 'Wake:NNP', 'Forest:NNP', 'team:NN', 'upsets:NNS', 'Indiana:NNP', 'Maui:NNP']
+
+['wake:NN', 'forest:NN', 'win:NN']
+
+['Wake:NNP', 'Forest:NNP', 'moving:VBG', 'yes:NNS']
+
+['Wow:NNP', 'Wake:NNP', 'Forest:NNP', 'takes:VBZ', 'Indiana:NNP']
+
+['Good:JJ', 'win:NNS', 'Wake:VBP', 'Forest:JJS']
+
+['IU:NNP', 'falls:VBZ', 'Wake:VB', 'Forest:NNP', 'hoops:NNS']
+
+['Wake:NNP', 'Forest:NNP', 'hits:VBZ', 'game:NN', 'winner:NN', '32:CD', 'seconds:NNS', 'left:VBD', 'Maybe:RB', 'ceiling:NN', 'isnt:NN', 'high:JJ', 'IU?:NNP', 'play:VB', 'St:NNP', 'Johns:NNP', 'tomorrow:NN', 'afternoon:NN']
+
+['kansas:NNS', 'fans:NNS', 'sorry:VBP', 'let:VB', 'good:JJ', 'luck:NN', 'beating:VBG', 'wake:NN', 'forest:NN']
+
+['Wake:VB', 'Forest:NNP', 'see:NN', 'March:NNP']
+
+['Wake:NNP', 'forest:JJS', 'location:NN', 'ran:VBD', 'glazed:JJ', 'donuts:NNS']
+
+['Wake:VB', 'Forest:JJS', 'get:VB', 'dub:NN']
+

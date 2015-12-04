@@ -1,0 +1,10 @@
+["After:IN", "horrifying:NN", "tragedy:NN", "Colorado:NNP", "Planned:NNP", "Parenthood,:NNP", "Celebs:NNP", "like:IN", "Kerry:NNP", "Washington:NNP", "take:VB", "Twitter:NNP", "express:VB", "condolences:NNS", "victims:NNS", "shooting.:NN"]
+
+["A:DT", "man:NN", "accused:VBN", "killing:VBG", "three,:NN", "including:VBG", "police:NN", "officer,:NN", "attacked:VBD", "Planned:VBN", "Parenthood:NNP", "clinic:NN", "Colorado:NNP", "Springs,:NNP", "Colo.:NNP", "arrested:VBN", "tense:JJ", "five-hour:JJ", "standoff:NN", "police:NNS", "Friday.:NNP"]
+
+["Chrissy:NNP", "Teigen:NNP", "caught:VBN", "social-media:JJ", "heat:NN", "expressing:VBG", "support:NN", "Planned:VBN", "Parenthood:NN", "deadly:JJ", "shooting:NN", "Colorado:NNP", "left:VBD", "three:CD", "dead.:NN", "Model:NNP", "Lip:NNP", "Sync:NNP", "Battle:NNP", "co-host:NN", "Teigen:NNP", "drawn:VBN", "wrath:NN", "Twitterati:NNP", "saying:VBG", "husband:VB", "John:NNP", "Legend:NNP", "donating:VBG", "organization:NN", "shooting:NN", "Planned:VBN", "Parenthood:NNP", "clinic.:NN"]
+
+["UCCS:IN", "officers:NNS", "sworn,:JJ", "state-certified:JJ", "police:NN", "officers.:JJ", "Officer:NNP", "Swasey:NNP", "duty:NN", "campus:NN", "responded:VBD", "support:NN", "Colorado:NNP", "Springs:NNP", "Police.:NNP"]
+
+["Days:NNS", "later,:VBP", "photos:NNS", "Robert:NNP", "Lewis:NNP", "Dear,:NNP", "handcuffed:NN", "calm,:NN", "emerged:VBD", "57-year-old:JJ", "stormed:VBD", "Planned:VBN", "Parenthood:NNP", "clinic:NN", "Colorado:NNP", "Springs,:NNP", "Colo.,:NNP", "killing:VBG", "three:CD", "people,:NN", "including:VBG", "police:NN", "officer.:NN"]
+

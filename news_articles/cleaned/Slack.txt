@@ -1,0 +1,9 @@
+Momentary freak-outs over service disruptions are nothing new, but Slack's outage is significant for more than the pithy reactions it inspired.
+
+At about 4:40 p.m., Slack posted on Twitter that it was Still looking into the connectivity issues and working hard to get you back to work.
+
+This was followed by a deluge of responses from the team's customer service representatives on Twitter - complete with prayer hand and tool emojis - to illustrate that the IT team had all hands on deck repairing a troubled web host.
+
+Even Slack Status page is down, returns nothing but This webpage is not available, ERR CONNECTION TIMED OUT.
+
+Many users who were attempting to use Slack on Monday afternoon were shown the following message: The Slack service appears to be unavailable. Please check status.slack.com. We'll automatically try to connect again momentarily. Slack's status website also appeared to be down.

@@ -1,0 +1,10 @@
+["Anticipation:NN", "building:VBG", "Small:NNP", "Business:NNP", "Saturday.From:NNP", "million:CD", "$14.3:NNP", "billion:CD", "last:JJ", "year:NN", "spent:VBD", "small:JJ", "businesses,:NN", "shops:NNS", "getting:VBG", "smart,:NN", "getting:VBG", "social.:NN"]
+
+["American:NNP", "Express:NNP", "started:VBD", "locally-focused:JJ", "holiday:NN", "shopping:NN", "season:NN", "kickoff:NN", "2010,:CD", "Delaware's:NNP", "deputy:NN", "Small:NNP", "Business:NNP", "Administration:NNP", "director:NN", "John:NNP", "Banks:NNP", "says:VBZ", "it's:VB", "grown:JJ", "every:DT", "year.:NN"]
+
+["Small:JJ", "Business:NNP", "Saturday:NNP", "first:JJ", "Saturday:NNP", "following:VBG", "\"Black:NN", "Friday.\":NNP", "Black:NNP", "Friday:NNP", "Cyber:NNP", "Monday:NNP", "focuses:VBZ", "big:JJ", "box:NN", "retailers:NNS", "ecommerce:VB", "sites:NNS", "Small:NNP", "Business:NNP", "Saturday:NNP", "encourages:VBZ", "shoppers:NNS", "visit:VB", "local:JJ", "brick:NN", "mortar:VB", "small:JJ", "businesses.:NN"]
+
+["November:NNP", "28,:CD", "2015:CD", "12:17:03:CD", "PM.:NNP", "Small:NNP", "Business:NNP", "Saturday,:NNP", "celebrated:VBD", "South:NNP", "Pasadena:NNP", "Nov.:NNP", "28,:CD", "American:JJ", "shopping:NN", "holiday:NN", "held:VBD", "Saturday:NNP", "Thanksgiving:VBG", "one:CD", "busiest:JJS", "shopping:NN", "periods:NNS", "year.:NN"]
+
+["Find:VB", "participate:VB", "Small:NNP", "Business:NNP", "Association;:NNP", "share:NN", "Small:NNP", "Business:NNP", "Saturday:NNP", "story:NN", "social:JJ", "media:NNS", "using:VBG", "#SmallBizSaturday:JJ", "#ShopSmall,:JJ", "check:VB", "White:NNP", "House:NNP", "Obama:NNP", "administration:NN", "celebrating:VBG", "below!:NN"]
+

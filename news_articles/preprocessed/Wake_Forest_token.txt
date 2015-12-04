@@ -1,0 +1,10 @@
+["LAHAINA,:NNP", "Hawaii:NNP", "-::", "Bryant:NNP", "Crawford's:NNP", "driving:VBG", "layup:NN", "3.2:CD", "seconds:NNS", "play:VB", "gave:VBD", "Wake:NNP", "Forest:NNP", "lead:NN", "Demon:NNP", "Deacons:NNP", "beat:VBD", "No.:NN", "13:CD", "Indiana:NNP", "82-78:CD", "Monday:NNP", "opening:NN", "round:NN", "Maui:NNP", "Jim:NNP", "Maui:NNP", "Invitational.:NNP"]
+
+["Wake:NNP", "Forest:NNP", "least:JJS", "plus-10:JJ", "rebound:NN", "advantage:NN", "first:JJ", "four:CD", "games,:NN", "first:JJ", "time:NN", "done:VBN", "since:IN", "first:JJ", "six:CD", "games:NNS", "1997-98:JJ", "Tim:NNP", "Duncan:NNP", "center.:NN"]
+
+["Wake:NNP", "Forest:NNP", "play:VB", "final:JJ", "game:NN", "Maui:NNP", "Third:NNP", "Place:NNP", "game:NN", "tomorrow:NN", "night:NN", "7:30,:CD", "taking:VBG", "loser:NN", "Kansas-UCLA:NNP", "game.:NN"]
+
+["Wade:NNP", "Baldwin:NNP", "IV:NNP", "added:VBD", "17:CD", "points:NNS", "heady:JJ", "play:NN", "point:NN", "guard,:NN", "Jeff:NNP", "Roberson:NNP", "came:VBD", "bench:NN", "chip:NN", "12:CD", "points:NNS", "own.:NN"]
+
+["A:DT", "7-0:JJ", "Wake:NNP", "run:NN", "leading:JJ", "scorer:NN", "Devin:NNP", "Thomas:NNP", "bench:NN", "trimmed:VBD", "Commodores':NNP", "advantage:NN", "14:CD", "12:CD", "minutes:NNS", "remaining,:VBP", "timely:JJ", "Vanderbilt:NNP", "jump:NN", "shots:NNS", "held:VBD", "Demon:NNP", "Deacons:NNP", "lead:NN", "settled:VBD", "around:IN", "low:JJ", "twenties.:NN"]
+

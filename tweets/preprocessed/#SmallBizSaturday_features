@@ -1,0 +1,826 @@
+['Want:NNP', 'truly:VB', 'support:VB', 'town:NN', 'neighbors?:JJ', 'Buy:NNP', 'local:JJ']
+
+['find:VB', '5:CD', 'ways:NNS', 'support:VBP', 'small:JJ', 'businesses:NNS', 'international:JJ', 'market:NN']
+
+['love:VBP', '&amp;:JJ', 'supporting:VBG', 'small:JJ', 'business:NN']
+
+['Check:VB', 'Candy:NNP', 'Shop:NNP']
+
+['small:JJ', 'business:NN', 'cuz:NN', 'supported:VBD', 'today:NN']
+
+["It's:NNP", '--::', 'support:VB', 'local:JJ', 'businesses:NNS']
+
+["It's:NNP", 'Shop:NNP', 'small:JJ', '&amp;:NNP', 'support:NN', 'startups/local:JJ', 'businesses:NNS', 'today:NN']
+
+['Support:NNP', '&amp;:VBD', 'madre:NN']
+
+["What's:IN", 'go-to:JJ', 'holiday:NN', 'brew?:NN']
+
+['want:VBP', 'Dazzle:NNP', 'shop:NN']
+
+['ticket:NN', 'purchase:NN', 'allows:VBZ', 'us:PRP', 'continue:VB', 'providing:VBG', 'top:JJ', 'level:NN', 'pro:JJ', 'wrestling:VBG', 'action:NN', 'https:NN']
+
+['Support:NNP', 'small:JJ', 'businesses:NNS', 'check:VB', 'Amazing:NNP', 'sustainable:JJ', 'products:NNS', 'handmade:VBN', 'USA:NNP']
+
+["It's:NNP", 'Say:NNP', 'thanks:NNS', 'small:JJ', 'business:NN', 'owners:NNS']
+
+['Sending:VBG', 'Signature:NN', 'Specialty:NNP', 'Stores:NNPS', 'across:IN', 'country:NN']
+
+['Check:VB', 'item:NN', 'Etsy:NNP', 'shop:NN']
+
+['Support:NNP', 'small:JJ', 'businesses:NNS', 'today:NN', '&amp;:VBP', 'every:DT', 'day:NN']
+
+
+
+['Handcrafted:VBN', 'unique:JJ', 'jewellery:NN', '&amp;:NN', 'gifts:NNS']
+
+["It's:NNP", "I'm:NNP", 'sale:NN']
+
+['Small:JJ', 'Business:NNP', 'Saturday:NNP', 'Save:NNP', '$30:NNP', 'Learning:NNP', 'Tower:NNP']
+
+['Shop:NN', 'Sunday:NNP', '&amp;:NNP', 'save:VB']
+
+['10%off:CD']
+
+['Supported:VBN', 'w/:JJ', 'lunch:NN', '&amp;:NNP', 'latte:NN', 'made:VBD', 'small:JJ', 'batches:NNS', 'cold-brew:JJ', 'w/:NN', 'Christmas:NNP', 'music:NN', 'playing:NN']
+
+["America's:NNP", 'first:RB', 'want:VBP', 'ad:NN', 'placed:VBN', 'craft:NN', 'brewer:NN']
+
+["Don't:NNP", 'Miss:NNP', 'sale:NN']
+
+['thriving:VBG', 'Go:NNP', 'check:VB', 'great:JJ', 'shops:NNS', 'neighborhood:NN', 'offer:VB', 'stop:NN', 'drink:NN']
+
+["Here's:NNP", 'celebrate:VBP', 'Keep:VB', 'pursuing:VBG', 'dreams:NNS']
+
+['Celebrating:VBG', '25%:CD', 'entire:JJ', 'store:NN', 'See:VB', 'us:PRP', '1006:CD', 'Fatherland:NNP', 'St:NNP', '37206:CD']
+
+['dropped:VBN', 'NYC:NNP', 'employed:VBN', 'refugees:NNS', 'decades:NNS']
+
+["it's:JJ", 'sure:JJ', 'follow:VB', 'wonderful:JJ', 'Valet:NNP', 'members:NNS', 'twitter:NN', 'and/or:NN', 'facebook:NN']
+
+["can't:VBP", 'afford:RB', 'support:VB', 'small:JJ', 'business:NN']
+
+['Go:VB', 'small:JJ', 'concert:NN', 'venue:NN', 'tonight:NN', 'bring:VB', 'Boomvox:NNP', 'along:IN']
+
+["It's:NNP", 'Shop:NNP', 'small:JJ', 'Shop:NNP', 'indie:NN', 'Shop:NNP', 'local:JJ']
+
+['$100:VB', 'todayChunky:NN', 'Knit:NNP', 'Blanket:NNP', 'sale:NN', 'CashmereBeach:NNP']
+
+['SUPER:NNP', '25%:CD']
+
+['New:NNP', 'quote:NN', 'canvases:NNS', 'shop:NN', 'time:NN']
+
+["Don't:NNP", 'forget:VB', 'stop:VB', 'favorite:JJ', 'small:JJ', 'businesses:NNS', 'today:NN']
+
+['Trending:VBG', 'Canada:NNP', '0424:CD', 'PM:NNP', 'AST:NNP', '1:CD', '2:CD', '3:CD', 'Jamie:NNP', 'Vardy:NNP', '4:CD', '5:CD', '6:CD']
+
+['Special:JJ', 'tumblers:NNS', '$1995:VBP', 'free:JJ', 'small:JJ', 'tin:NN', 'tea:NN', 'tea:NN', 'ball:NN']
+
+['come:VB', 'Great:NNP', 'finds:VBZ', 'Commonwealth:NNP', 'Books:NNP']
+
+['Key:NNP', 'dish:JJ', 'Trinket:NNP', 'dish:NN', 'Clutter:NNP', 'dish:NN', 'Tealight:NNP', 'dish:VB', 'dish?:NN']
+
+['Continuing:VBG', 'tradition:NN']
+
+["We're:NNP", 'proud:JJ', 'supporters:NNS', 'many:JJ', 'great:JJ', 'SMBs:NNP', 'Please:NNP']
+
+['Need:VB', 'hair:NN', 'cut:NN', 'color?:NN', 'covered:VBN']
+
+['spinning:VBG', 'dope:NN', 'tunes:NNS', 'Shirley:NNP']
+
+['Obama:NNP', 'shops:VBZ', 'indie:JJ', 'bookstore:NN', 'Small:NNP', 'Business:NNP', 'Saturday:NNP']
+
+['Living:VBG', 'Love:NNP']
+
+['cozies:NNS', 'pieces:NNS', 'F/W:NNP', "'14:POS", 'collection:NN', 'Shirley:NNP']
+
+['jam:NN']
+
+['Today:NN', 'celebrate:VB']
+
+['Beyond:NN', 'sale:NN', 'Head:NNP']
+
+['Remember:NNP', 'get:VB', 'shop:VB', 'local:JJ', 'today:NN']
+
+["We're:NNP", 'proud:NN', 'returned:JJ', 'Volunteers:NNP', "who've:NN", 'become:NN', 'entrepreneurs:NNS', 'finishing:VBG', 'service:NN']
+
+['support:VB', 'favorite:JJ', 'local:JJ', 'spots:NNS']
+
+['Check:VB', 'awesome:JJ', "'batman':CD", 'design:NN']
+
+['Got:NNP', 'great:JJ', 'items:NNS', 'Bellefonte:NNP']
+
+['20%:CD', 'Use:NNP', 'Code:NNP', 'BLACK:NNP']
+
+["Who's:NNP", 'early:JJ', "We're:NNP", '6a-7a:JJ', '9a-10a:JJ']
+
+['Support:NN', 'South:NNP', 'Africa:NNP']
+
+['Today:NN', "we've:NN", 'got:VBD', 'books:NNS', 'signed:VBN', '&amp;:NN']
+
+['support:NN']
+
+['TODAY:NN', '&amp;:JJ']
+
+['Get:VB', 'support:VB', 'local:JJ', 'business:NN', 'today:NN']
+
+['Promote:VB', 'small:JJ', 'business:NN', 'visit:NN']
+
+['Come:NNP', 'warehouse:NN', '11-420:JJ', 'pm:NN', 'today:NN', '30%:CD', 'everything:NN', 'warehouse:NN']
+
+["I'm:NNP", 'supporting:VBG']
+
+["Lady's:NNP", 'Wager:NNP', 'sweet:JJ', 'Regency:NNP', 'romance:NN', 'novel:NN']
+
+['day:NN', 'support:VB', 'local:JJ', 'small:JJ', 'businesses:NNS', 'Stop:NNP', 'fun:VBP']
+
+['Glad:NNP', 'lots:NNS', 'share:NN', 'silly:JJ', 'sense:NN', 'humour:NN']
+
+['Happy:JJ', 'Starting:VBG', 'today:NN', 'limited:JJ', 'time:NN', 'every:DT', 'Coffeehouse:NNP', 'Five:NNP', 'mug:NNS', 'purchased:VBD']
+
+['Support:NNP', 'local:JJ', 'indie:NN', 'bookstore:NN', 'today:NN']
+
+['know:VB', 'writers:NNS', "aren't:VBP", 'James:NNP', 'Patterson:NNP', 'thing:NN', "Here's:NNP", 'mine:NN']
+
+['would:MD', 'us:PRP', 'Make:NNP', 'sure:NN', 'support:VB', 'small:JJ', 'businesses:NNS', 'area:NN', 'today:NN', "We're:NNP", 'creating:VBG', 'jobs:NNS']
+
+['Support:NNP', 'shop:VBD', 'small:JJ', 'today:NN']
+
+["let's:JJ", 'pay:NN', 'attention:NN', 'small:JJ', 'businesses:NNS', 'well:RB', 'good:JJ', 'Via:NNP']
+
+['4:CD', 'Small:JJ', 'Businesses:NNS', 'Support:VB', 'Today:NNP', 'including:VBG']
+
+['Stop:NN', 'store:NN', 'today:NN', 'pick:VB', 'great:JJ', 'bargains:NNS', '&amp;:JJ', 'footwear:JJ', 'Open:NNP', '3:CD']
+
+['gift:NN', 'guide:NN', 'featuring:VBG', 'brands:NNS', 'like:IN', '&amp;:NN']
+
+['Yeah:RB', 'Great:NNP', 'follow:JJ', 'enjoy:VB', 'local:JJ', 'business:NN']
+
+['Happy:JJ', 'Indy:NNP', 'sure:JJ', 'check:VB', 'exclusive:JJ', 'deals:NNS', 'favorite:JJ', 'local:JJ', 'businesses:NNS', '&gt;:NN']
+
+['Think:NNP', 'big:JJ', 'Shop:NNP', 'small:JJ']
+
+['Sales:NNS', 'Extended:VBD', 'deals:NNS']
+
+['hats:NNS', '$15:JJ', '&amp;:JJ', 'tees:NNS', '$10:JJ', 'High:NNP', 'quality:NN', 'locally:RB', 'made:VBD', 'merch:NN']
+
+["It's:NNP", '&amp;:NNP', 'Gift:NNP', 'Shop:NNP', 'Freak:NNP', 'Bar:NNP', '&amp;:NNP', 'Coney:NNP', 'Island:NNP', 'Museum:NNP', 'open:JJ', 'Noon:NNP', '6pm:CD', '1208:CD', 'Surf:NNP', 'Ave:NNP', 'https:NN']
+
+["don't:VBP", 'leave:VB', 'home:NN', 'shop:VB', '(but:NN', 'suggest:VBP', 'do):VBP']
+
+['honor:NN', '$100:NNP', 'online:JJ', 'orders:NNS', 'made:VBN']
+
+['Video:NNP', 'Honor:NNP', 'Jihad:NNP']
+
+['tab:NN', 'last:JJ', 'night:NN', 'count:NN', 'towards:NNS']
+
+['Support:NNP', 'platforms:NNS', 'Smashwords:NNS']
+
+['today:NN', 'Support:NNP', 'local:JJ', 'economy:NN', 'buy:VBP', 'independent:JJ', 'retailers:NNS', 'artists:NNS', '&amp;:VBP', 'makers:NNS']
+
+['Happy:JJ', 'Use:NNP', 'coupon:NN', 'code:NN', 'VEGANTRAVEL:NNP', '15%:CD']
+
+['Today:NN', "I'm:NNP", 'showing:VBG', 'love:NN', "Faye's:NNP", 'distinctive:JJ', "women's:NN", 'fashion:NN', 'trends:NNS', 'today:NN']
+
+['wanna:VBP', 'shop:NNS', 'want:VBP', 'avoid:VB', 'malls:NNS', 'lots:NNS', 'local:JJ', 'vendors:NNS', 'https:NN']
+
+['Today:NN', 'only--Tacos:JJ', 'tees:NNS', '$15:VBP', 'Pair:NNP', 'gift:NN', 'card:NN', 'give:VB', 'gift:NN', 'great:JJ', 'style:NN', 'taste:NN']
+
+['DYK:NNP', 'Smoothie:NNP', 'King:NNP', 'locations:NNS', 'individually:RB', 'owned:VBN', '&amp;:NNP', 'operated:VBN', '6:CD', 'local:JJ', 'franchisees?:NN']
+
+['please:JJ', 'support:NN', 'businesses:NNS', 'fighting:VBG', 'Econ:NNP', 'justice:NN', 'part:NN', 'solution:NN']
+
+['Cake:NNP', 'Liner:NNP', 'kit:NN', 'one:CD', 'deals:NNS', 'today:NN']
+
+['Ran:NNP', 'Ronald:NNP', 'Reagan:NNP', 'shopping:NN']
+
+['Start:NNP', 'Small:NNP', 'Aim:NNP', 'BIG:NNP', 'chaps:NNS']
+
+['guys:NNS', 'know:VBP', 'right:VB', 'Sounds:VBZ', 'like:IN', 'perfect:JJ', 'recipe:NN', 'chilly:NN', 'Saturday:NNP']
+
+['RT:NNP', 'please:NN', 'share:NN', 'weekend:NN', 'special:JJ']
+
+['30:CD', 'Day:NNP', 'Reset:NNP', 'Brand:NNP', 'Business:NNP', '&amp;:NNP', 'Bottom:NNP', 'Line:NNP', 'Karen:NNP', 'Taylor:NNP', 'Bass:NNP']
+
+['Extended:VBN', 'thru:NN', 'Sunday:NNP', 'Retweet/Favorite:NNP', '4:CD', 'chance:NN', 'win:VB', 'G5:NNP', 'Pro:NNP', 'Glove:NNP', 'https/:NN']
+
+['Drive:NNP', 'street:NN', 'look:VB', 'hard:JJ', 'Right:NNP', 'past:NN', 'Starbucks:NNP', "you'll:NN", 'find:VB', 'little:JJ', 'bakery/coffee:NN', 'shop:NN', 'thank:VB']
+
+['Shop:NNP', 'small:JJ', 'buy:VBP', 'one:CD', 'sandwich:JJ', 'get:VB', 'second:JJ', 'half:NN']
+
+['Found:IN', 'great:JJ', 'Christmas:NNP', 'gifts:NNS', 'Milford:NNP', 'Thanks:NNP', 'ladies:NNS']
+
+['raffles:NNS']
+
+['Top10:NNP', 'Topics:NNP', 'op:NN']
+
+['Support:NN']
+
+["We're:NNP", 'fueling:VBG', 'morning:NN', 'w:NN', 'celebrate:VB', 'join:NNS', 'us:PRP', 'brunch:NN']
+
+
+
+['Buy:VB', 'hand:NN', 'made:VBN', 'Shark:NNP', 'Fin:NNP', 'Pendant:NNP', '&amp;:VBD', '20%:CD', 'proceeds:NNS', 'support:VB', 'ocean:JJ', 'research:NN']
+
+['Shop:NNP', 'local:JJ', '&amp;:NNP', 'show:VBP', '&lt;3:NN', 'today:NN', 'fantastic:JJ', 'small:JJ', 'businesses:NNS']
+
+['Happy:JJ', 'support:NN', 'get:VB', 'EXTRA:NNP', '10%:CD', 'sale:NN', 'code:NN', 'BowsPearlsCurls:NNS']
+
+['Today:NN', 'sure:JJ', 'support:VB', 'small:JJ', 'businesses:NNS', 'Tag:VBP', 'us:PRP', "we'll:VB", 'RT:NNP']
+
+["It's:NNP", 'Come:NNP', 'like/share:NN', 'FB:NNP', 'page:NN']
+
+['shopping:VBG', 'SMALL:NNP', 'today?:VBD', '20%:CD', 'everything:NN', 'salon:NN', '10-4:JJ']
+
+["It's:NNP", 'Small:NNP', 'Business:NNP', 'Saturday:NNP', 'shopping?:JJ']
+
+['Support:NNP', 'Lafayette:NNP', 'shops:NNS', 'today:NN', 'Small:NNP', 'Business:NNP', 'Saturday:NNP']
+
+['Light:JJ', 'tomorrow:NN', 'today-:JJ', 'Elizabeth:NNP', 'Barrett:NNP', 'Browning:NNP']
+
+['Grimeys:NNP', 'Celebrates:NNP', 'Sixth:NNP', 'Annual:NNP', 'Performance:NNP', 'Marcu:NNP']
+
+['2008:CD', 'economy:NN', 'crashed:VBD', "didn't:VBP", 'get:VB', 'bail:NN', 'cut:VBD', 'costs:NNS', 'buckled:VBD', 'went:VBD', 'back:RB', 'work:VB']
+
+['LOCAL:NNP', 'Local:NNP', 'businesses:NNS', 'hopeful:VBP', 'Small:NNP', 'Business:NNP', 'Saturday:NNP']
+
+['love:VBP', 'shopped:VBD', 'local:JJ', 'yesterday:NN', 'encourage:VBP', 'everyone:NN', 'visit:VB', 'favorite:JJ', 'local:JJ', 'boutique:NN', 'today#SupportFriends:NNS']
+
+['Happy:JJ', 'justice:NN', 'seekers:NNS', "Here's:VBP", 'terrific:JJ', 'way:NN', 'shop:VB', 'online:NN', 'give:VB', 'ur:NN', 'great:JJ', 'cause:NN', 'https:NN']
+
+['Taking:VBG', 'part:NN', 'Come:NNP', 'grab:VBP', 'delicious:JJ', 'lunch:NN', "you're:NN"]
+
+['Stop:NN', "Shirk's:NNP", 'Candies:NNP', 'part:NN']
+
+['Support:VB', 'small:JJ', 'BLACK:NNP', 'business:NN', 'today:NN']
+
+["That's:NNP", 'right:VBD', '25%:CD', 'entire:JJ', 'site:NN', 'ends:VBZ', 'midnight:NN']
+
+['Remember:NNP', 'support:VB', 'small:JJ', 'business:NN', 'everybody:NN', 'Small:NNP', 'businesses:NNS', 'important:JJ', 'San:NNP', 'Antonio:NNP', 'show:VBP', 'love:NN']
+
+['100:CD', 'tops:NNS', '40%:CD']
+
+['Radical:JJ', 'deals:NNS', '20%:CD', 'free:JJ', 'S&amp;H:NNP']
+
+['Colors:NNPS', 'Love:NNP', '(Soundtrack:NNP', 'Mix:NNP']
+
+['Help:VB', 'pay:VB', 'dance:NN', 'lessons:NNS', '&amp;:VBP', 'team:NN', 'jerseys:NN', 'kids:NNS', 'Hire:VB', 'produce:VB', 'ur:JJ', 'corporate:JJ', 'video:NN']
+
+['Remember:NNP', 'guys:NNS', 'small:JJ', 'businesses:NNS', 'keeps:VBZ', 'small:JJ', 'towns:NNS', 'like:IN', 'mine:NN', 'going:VBG', 'Support:NNP', 'locals:NNS']
+
+['Happy:JJ', 'justice:NN', 'seekers:NNS', "Here's:VBP", 'terrific:JJ', 'way:NN', 'shop:VB', 'online:NN', 'give:VB', 'ur:NN', 'great:JJ', 'cause:NN']
+
+['Today:NN', 'shop:JJ', 'local:JJ', '&amp;:NNP', 'small:JJ', 'largest:JJS', 'map:NN', 'small:JJ', 'businesses:NNS', 'accepting:VBG', 'htt:NN']
+
+['Support:NN']
+
+["you're:PDT", 'small:JJ', 'business:NN', 'owner:NN', 'know:VBP', 'family:NN', 'extends:VBZ', 'beyond:IN', 'ones:NNS', 'go:VBP', 'home:NN']
+
+['Neither:DT', 'snow:JJ', 'raindespite:JJ', 'bad:JJ', 'weather/roads:NNS', 'OK:NNP', 'mailed:VBD', 'new:JJ', 'blue:JJ', 'cloche:NN', 'yesterday:NN']
+
+['Today:NN', 'might:MD', '&amp;:VB', 'season:NN', 'long:RB', "here's:NN", "I'll:NNP"]
+
+['Sounds:NNS', 'like:IN', 'job:NN', 'forFlat:JJ', 'Track:NNP', 'Furies:NNP', 'Roller:NNP', 'derby:VBZ', 'Awesome:NNP', 'women:NNS']
+
+['support:VB', 'local:JJ', 'small:JJ', 'businesses:NNS', 'today:NN']
+
+['Small:JJ', 'businesses:NNS', 'responsible:JJ', 'defines:VBZ', 'cities:NNS']
+
+['SAVE:NNP', '20%:CD', 'ITEMS:NNP', 'ONLINE:NNP', 'USING:NNP', 'CODE:NNP', 'SMALLBIZ:NNP', 'CHECKOUT:NNP']
+
+['kings:NNS', 'queens:NNS', 'shirts:NNS', '$10:VBP', 'today:NN', 'Contact:NNP']
+
+['Okay:NNP', 'drank:VBD', 'seven:CD', 'small:JJ', 'Guinness:NNP', 'already:RB', 'right?:NN']
+
+['also:RB', 'shop:VB']
+
+["It's:NNP", "It's:NNP", 'important:JJ', 'support:VB', 'communities:NNS', 'working:VBG', 'independently:RB', 'supply:VB']
+
+['Secret:NNP', 'biz:VB', 'HUSTLE:NNP', 'hustle:NN', 'paycheck:NN', 'Know:NNP', 'hustle:NN', 'Know:NNP', 'paycheck:NN']
+
+['Boutique:NNP', 'Milford:NNP']
+
+['sale:NN', 'rolls:NNS', 'TIBA:NNP', 'Putt:NNP', '100%:CD', 'manufactured:JJ', 'Arizona:NNP']
+
+['Small:JJ', 'businesses:NNS', 'heartbeat:NN', 'town:NN', 'foundation:NN', 'community:NN', 'local:JJ', 'economy:NN', 'Shop:NNP', 'small:JJ', 'today:NN']
+
+['Keep:VB', 'money:NN', 'local:JJ', '20%:CD', 'apparel:NN', 'today:NN']
+
+['FREE:JJ', 'gift:NN']
+
+['Happy:JJ', 'Grab:NNP', 'Gift:NNP', 'Certificates:NNPS', 'today:NN']
+
+['Happy:JJ', 'Support:NNP', 'community:NN', 'shopping:VBG', 'local:JJ', 'today:NN']
+
+['7:CD', 'Days:NNPS', 'Holiday:NNP', 'Edition:NNP', 'Stockmarket:NNP']
+
+['Please:VB', 'Support:NN']
+
+['Happy:JJ', 'Save:NNP', '25%:CD', 'Order:NN', 'today:NN', 'Code:NNP', 'SMALLBIZ25:NNP']
+
+['Lots:NNS', 'great:JJ', 'family:NN', 'owned:VBD', 'stores:NNS', 'Brookfield:NNP', 'Shop:NNP', 'town:NN', 'today:NN']
+
+['4:CD', 'tips:NNS', 'show:VB', "brand's:NN", 'values:NNS', 'real:JJ']
+
+['Black:NNP', 'Lab:NNP', 'sale:NN', 'Alchemy:NNP', 'Scrolls:NNP', 'https:NN']
+
+['Happy:JJ', 'Today:NN', 'encourage:VBP', 'support:VB', 'local:JJ', 'small:JJ', 'businesses:NNS']
+
+['build:VB', "Don't:NNP", 'forget:VB', 'backbone:NN', 'countryshop:NN']
+
+["It's:NNP", "Who's:NNP", 'small:JJ', 'business:NN', 'shopping:NN', 'list?:NN', 'Support:NNP']
+
+['Thank:NNP', 'eating:VBG', 'shopping:VBG', 'local:JJ', 'supporting:VBG', 'small:JJ', 'family-owned:JJ', 'businesses:NNS', 'like:IN']
+
+['hey:NN', "that's:VBP", 'us:PRP', "We'd:NNP", 'love:VB', 'tweet:VBP', 'us:PRP', 'fav:JJ', 'stories:NNS']
+
+['Visit:VB', 'us:PRP', 'bike:NN', 'station:NN', 'Selling:VBG', 'DT:NNP', 'gift:NN', 'cards:NNS', '&amp;:VBP', 'giving:VBG', 'away:RP', 'goodies:NNS']
+
+['stop:NN', '&amp;:NNP', 'Cardboard:NNP', 'Connection:NNP']
+
+['qualify:VBP', 'going:VBG', 'global:JJ', 'Get:NNP', 'caught:VBD']
+
+['honor:NN', 'buying:VBG', 'human:JJ', 'brains:NNS', 'guy:NN', 'Sorry:NNP', 'corpor:NN']
+
+['House:NNP', 'STORE:NNP', '227:CD', 'Monee:NNP', 'Road:NNP', 'Park:NNP', 'Forest:NNP', 'IL:NNP', '100-330:CD', 'today:NN']
+
+["We'll:WRB", 'Triple:NNP', 'C:NNP', 'Brewery:NNP', '5:CD', 'Come:NNP', 'check:VB', 'us:PRP']
+
+['Happy:JJ', 'Remember:NNP', "we're:VBD", 'small:JJ', 'business:NN', 'stock:NN', 'many:JJ', 'small:JJ', 'businesses:NNS']
+
+['Ready:JJ', 'sure:JJ', 'shop:VB', 'Radford:NNP', 'Main:NNP', 'St:NNP', 'today-:JJ', 'including:VBG', 'us:PRP', 'dozens:NNS', 'small:JJ', 'businesses:NNS', 'West:NNP', 'East:NNP']
+
+['stocked:VBD', 'Holly:NNP', 'Trolley:NNP']
+
+['Get:NNP', 'makeup:NN', 'brand:NN', 'brown:JJ', 'beauties:NNS', 'Top:JJ', '50:CD', 'list:NN']
+
+['Service:NNP', 'Star:NNP', 'Wall:NNP', 'Banner:NNP']
+
+['HOWEVER:NNP', 'still:RB', 'options:NNS', 'supporting:VBG', 'incredible:JJ', 'sell:NN', "DVD's:NNP"]
+
+['RelaxInFTL:NNP', 'RelaxInFTL:NNP', 'LovetheTitans:NNP', 'RT:NNP', 'everglades:VBZ', 'Support:NNP', 'Come:NNP', 'see:VB', 'gators:NNS']
+
+['RelaxInFTL:NNP', 'RelaxInFTL:NNP', 'everglades:VBZ', 'Support:NNP', 'Come:NNP', 'see:VB', 'gators:NNS']
+
+['Please:VB', 'support:VB', 'local:JJ', 'Arizona:NNP', 'shops:NNS', 'unique:JJ', 'amazing:JJ']
+
+['Today:NN', 'day:NN', 'One:CD', 'favorite:JJ', 'days:NNS', 'promote:VB']
+
+['RT:NNP', "It's:NNP", 'Saturday:NNP', 'time:NN', 'businesses:NNS', "Who's:NNP", 'in?:NN']
+
+['thank:NN', 'Angie:VBP']
+
+['Preorder:VB', 'Poet:NNP', 'Flea:NNP', '(Vol:NNP', '1):CD', 'abt:NN']
+
+["It's:NNP", 'Support:NNP', 'local:JJ', 'running:NN', 'store:NN']
+
+['200:CD', 'Black:NNP', 'Owned:VBN', 'Businesses:NNS', 'Ultimate:NNP', 'Black:NNP', 'Business:NNP', 'Shopping:NNP', 'Guide:NNP', 'shop:VB', 'today:NN']
+
+['celebrate:VB', 'order:NN', 'placed:VBD', 'today:NN', 'gets:VBZ', 'free:JJ', 'gift:NN', 'pack:NN', 'ticket:NN', 'pop:NN', '&amp;:NNP', 'popcorn:NN']
+
+['OrangeThirteen:NN']
+
+['Visit:VB']
+
+['Gold:NNP', 'chrome:NN', 'logos:NN', 'available:JJ', 'Pro:NNP', 'hard:FW', 'finish:NN', 'sale:NN']
+
+['good:JJ', 'work:NN', 'Shelbyville:NNP', 'Rd:NNP', 'Barista:NNP', 'Crew:NNP', 'Support:NNP', 'http:NN']
+
+['Today:NN', 'sure:JJ', 'support:VB', 'small:JJ', 'businesses:NNS', 'across:IN', 'country:NN', "They'll:NNP", 'make:VB', 'Saturday:NNP']
+
+['Proud:JJ', '2:CD', 'one:CD', 'shop:NN', 'owners:NNS']
+
+["We've:NNP", 'got:VBD', 'hawt:JJ', 'cawfee:NN', 'donuts:VBZ', 'chili:NN', 'warming:VBG', 'everything:NN', '10%:CD']
+
+['gorgeous:JJ', 'day:NN', 'Come:NNP', 'eat:NN', 'sip:NN', 'jam:NN', '&amp;:CD', 'support:NN']
+
+['Water:NNP', 'Life:NNP', 'beaded:VBD', 'earrings:NNS', '$5:JJ', 'Donation:NNP', 'Honor:VB', 'Earth:NN']
+
+['Support:VB', 'mom:NN', '&amp;:JJ', 'pop:NN', 'shops:NNS', 'indie:JJ', 'businesses:NNS', 'tagged:VBD', 'favorites:NNS', 'yours?:JJ', 'htt:NN']
+
+['Please:NNP', 'support:VB', 'local:JJ', 'businesses:NNS', 'today:NN']
+
+['&amp;:JJ', 'support:VB', 'favorite:JJ', 'local:JJ', "s'pots:NNS"]
+
+["It's:NNP", 'Make:NNP', 'sure:NN', 'go:VBP', 'support:VB', 'small:JJ', 'businesses:NNS', 'community:NN', 'today:NN', 'every:DT', 'day:NN', 'year:NN']
+
+['Season:NNP', 'Love:NNP', 'Laughter:NNP']
+
+['Find:IN', 'holiday:NN', 'spirit(s):NN', 'Tamworth:NNP', 'Distilling:NNP', 'Visit:NNP', 'us:PRP', '12PM-5PM:CD']
+
+["It's:NNP", 'might:MD', 'b:VB', 'd:NN', 'chance:NN', '2:CD', 'buy:VB', 'book:NN']
+
+["Don't:NNP", 'forget:VB', 'support:VB', 'favorite:NN', 'Buy:NNP', 'books:NNS', 'leave:VBP', 'reviews:NNS', 'share:NN', 'others:NNS']
+
+['Today:NN', 'support:VB', 'local:JJ', 'mom:NN', '&amp;:NNP', 'pop:NN']
+
+['Participate:VB', 'stick:VB', 'big:JJ', 'box:NN', 'stores:NNS']
+
+['Shop:NNP', 'get:VBP', '10%:CD', 'purchase:NN', 'Visitor:NNP', 'Center:NNP', '1st:CD', '100:CD', 'purchases:NNS', 'receives:VBZ', 'F:NN']
+
+["It's:NNP", "we've:NN", 'got:VBD', 'special:JJ', "RYDE's:NNP", 'Sale:NNP', 'ends:NNS', 'Sunday:NNP', 'night:NN', 'Midnight;:NNP', "who's:NN", 'in?:NN']
+
+['Happy:JJ', "you're:RB", 'getting:VBG', 'go:VB', 'shopping:JJ', 'visit:NN']
+
+['Support:NN', 'owners:NNS', 'like:IN']
+
+["It's:NNP", "That's:NNP"]
+
+['Happy:JJ', 'Come:NNP', 'today:NN', 'entered:VBN', 'drawing:NN', 'one:CD', 'baskets:NNS', 'perfect:JJ', 'gift:NN', 'holidays:NNS']
+
+['Happy:JJ', 'favorite:JJ', 'NYC:NNP', 'start-up:NN', 'piece:NN', 'nailed:VBD', 'feel:VBP', 'dad:NN', 'Facebook:NNP']
+
+['Happy:JJ', 'Visit:NNP']
+
+['Lot:NNP', 'amazing:VBG', 'comic:JJ', 'book:NN', 'shops:VBZ', 'Visit:NNP', '12:CD', '5:CD', 'today:NN', 'show:VB', 'love:NN']
+
+['Fiftief:NN', 'Baltimore:NNP', 'fanksgiving:VBG']
+
+['50%:CD', 'Cyber:NNP', 'Sale:NNP', 'Wire:NNP', 'Wrapped:NNP', 'Copper:NNP']
+
+['Come:NNP', 'get:VBP', 'books:NNS', 'signed:VBN']
+
+['Radical:JJ', 'deals:NNS', '20%:CD', 'free:JJ', 'shipping:NN']
+
+['push:NN', 'spend:VB', 'local:JJ', 'stores:NNS', 'holiday:NN', 'season:NN']
+
+['Support:NNP', 'BDF:NNP', 'today:NN']
+
+['10%:CD']
+
+['Everything:NN', '10%:CD', 'today:NN', 'Today:NNP', 'in-store:CD']
+
+['Nashvillians:NNS', "don't:VBP", 'forget:VB', 'today:NN', 'book-loving:JJ', 'family:NN', 'members:NNS', 'thank:VB']
+
+['Support:NNP', 'https/:NN']
+
+['Happy:JJ', 'Thank:NNP', 'supporting:VBG', 'local:JJ', 'businesses:NNS']
+
+['Every:DT', 'indie:NN', 'movie:NN', 'small:JJ', 'business:NN', 'get:VB', 'shopping:VBG', 'done:VBN', 'curl:VB']
+
+['Come:VBN', 'favorite:JJ', 'small:JJ', 'business:NN', 'today:NN']
+
+['support:VB', 'ones:NNS', 'need:VBP']
+
+['gift:NN', 'cards:NNS', '15%:CD', 'today:NN', 'honor:NN', 'https:NN']
+
+['One:CD', 'best:JJS', 'investments:NNS', 'make:VB', 'community:NN', 'supporting:VBG', 'local:JJ', 'businesses:NNS']
+
+['Getting:VBG', 'ready:JJ', '30%:CD', 'entire:JJ', 'purchase:NN', '3240:CD', 'N:NNP', 'Clark:NNP', 'Street:NNP', '12:CD', 'pm-12:NN', 'best:JJS', 'boutique:NN', 'shop:NN']
+
+['Turkey:NNP', 'coma?:NN', 'Stay:NNP', 'home:NN', 'today:NN', '&amp;:NNP', 'shop:NN', 'w/:VBD', 'us:PRP', 'online:VB']
+
+['2day:CD', 'sure:JJ', '2:CD', 'support:NN', 'contribute:VBP', '&amp;:JJ', 'help:NN', 'sustain:VB', 'https:NN']
+
+['store-wide:JJ', 'sales:NNS', 'even:RB', 'Loki:NNP', 'God:NNP', 'Mischief:NNP']
+
+['Happy:JJ', "We're:NNP", 'shopping:NN', 'REAL:NNP', 'small:JJ', 'today:NN', 'heading:VBG', 'town:NN', '88:CD', 'people:NNS', 'check:VB', 'local:JJ', 'goods:NNS']
+
+['Shop:NNP', 'small:JJ', 'today:NN']
+
+['Happy:JJ']
+
+['Help:NNP', 'support:NN', 'shop:NN', 'KISSUE:NNP', 'Guys:NNP', "it's:VBZ", 'perfect:JJ', 'spot:NN', 'shop:VB', 'lady:NN', 'Christmas:NNP']
+
+['Since:IN', 'small:JJ', 'businesses:NNS', 'non-unionized:JJ', "I'm:NNP", 'happy:JJ', 'support:VB']
+
+["Don't:NNP", 'miss:VBD', '10%:CD', 'First:JJ', 'order:NN']
+
+['Small:NNP', 'Businesses:NNP', "you're:NN", 'asking:VBG', 'us:PRP', 'support:VB', 'today:NN', 'LLCs?:NNP', "Shouldn't:NNP", 'supporting:VBG', 'KS?:NNP']
+
+["They're:NNP", 'cozier:NN', 'friendlier:NN', 'local:JJ', '6:CD', 'Hotspots:NNS']
+
+["I'm:NNP", 'Creve:NNP', 'Couer:NNP', 'Camera:NNP', 'Bizcard:NNP', 'Xpress:NNP', 'til:NN', 'Noon:NNP', "It's:NNP", 'Small:NNP', 'Business:NNP', 'Saturday:NNP', 'shop:VBD', 'local:JJ']
+
+['supporting:VBG']
+
+["Don't:NNP", 'forget:VB', 'today:NN', 'Small:NNP', 'Business:NNP', 'Saturday:NNP', 'Buying:NNP', 'Small:NNP', 'Businesses:NNP', 'help:NN', 'make:VB', 'America:NNP', 'Great:NNP']
+
+['Proud:NN', 'part:NN', 'Help:NNP', 'support:VB', 'local:JJ', 'businesses:NNS', 'shopping:VBG', 'small:JJ', 'today:NN']
+
+['thanks:NNS', 'support:NN', 'gotta:VBP', 'take:VB', 'care:NN']
+
+['40%:CD', 'Wunder:NNP', 'Hoof:NNP', 'Purchase:NNP']
+
+['Video:NNP', 'recs:NN', 'celebrate:VB']
+
+["TODAY'S:VB", 'DAY:NNP', 'Shop:NNP', 'http:NN']
+
+['RT:NNP', 'Attended:NNP', 'Kwanza:NNP', 'Plaza:NNP', 'yesterday:NN', 'S/O:NNP', '&amp;:NNP', 'ETC:NNP']
+
+['Santa:NNP', 'Claus:NNP', 'parade:NN', 'visit:NN', 'forks:NNS', 'sounds:VBZ', 'like:IN', 'great:JJ', 'plan:NN']
+
+['Detroit:NNP', '1:CD', '2:CD', '3:CD', 'Game:NNP', 'Day:NNP', '4:CD', 'Big:NNP', 'House:NNP', '5:CD', '6:CD']
+
+['Supporting:VBG', 'local:JJ', 'businesses:NNS']
+
+['Support:VB', 'town:NN', 'shop:NN', 'small:JJ', 'today:NN']
+
+['Multi:NNP', 'strand:NN', 'Zulu:NNP', 'beaded:VBD', 'necklace:NN']
+
+["Winona's:NNP", 'Gift:NNP', 'Shop:NNP', 'Spotted:NNP', 'Horse:NNP', 'Press:NNP', 'Winona:NNP', 'LaDuke:NNP']
+
+['great:JJ', 'excuse:NN', 'support:VB', 'local:JJ', 'gun:NN', 'store:NN', "I'd:NNP", 'choose:VB', 'new:JJ', 'firearm:NN', 'diamonds:NNS', 'Christmas:NNP', 'day:NN']
+
+['Get:VB', 'support:VB', 'small:JJ', 'local:JJ', 'businesses:NNS', 'today:NN']
+
+["It's:VB", 'day:NN', 'go:VB', 'Small:NNP', 'Business:NNP', 'Saturday:NNP']
+
+["Let's:NNP", 'keep:VB', 'dollars:NNS', 'local:JJ', 'communities:NNS']
+
+['Another:DT', 'great:JJ', 'artisan:NN']
+
+['Shoutout:NN', 'fav:JJ', 'local:JJ', 'businesses:NNS', 'make:VBP', 'vibrant:NN']
+
+['Use:NNP', 'code:NN', 'THANKS:NNP', '20%:CD', 'code:NN', 'GIVING:NN', 'free:JJ', 'shipping:NN', '$75:NN']
+
+['Excited:VBN', 'participle:VB', 'first:JJ', 'ever:RB', 'Grand:NNP', 'opening:VBG', 'sale:NN', 'weekend:NN']
+
+['Today:NN', "I'm:NNP", 'showing:VBG', 'love:NN', 'Downtown:NNP', 'Produce:NNP', 'Downtown:NNP', 'Cupcakes:NNP', 'today?:VB']
+
+['Small:JJ', 'Business:NNP', 'Saturday:NNP', 'shopping:VBG', 'today?:JJ']
+
+['Today:NN', 'Support:NNP', 'businesses:NNS', 'shopping:VBG', 'local:JJ']
+
+["America's:NNP", 'economy:NN', 'powered:VBN', '28:CD', 'million:CD', 'Show:NNP', 'support:NN', 'https:NN']
+
+['TODAY:NN', 'H:NNP', 'St:NNP', 'Passport:NNP', 'program:NN', 'Come:NNP']
+
+['Please:VB', 'support:VB', 'local:JJ', 'small:JJ', 'businesses:NNS', 'today:NN', 'everyday:NN']
+
+['custom:NN', '&amp;:VBZ', '1ofakind:CD']
+
+['SALE:NNP', 'Save:NNP', 'additional:JJ', '10%:CD', 'discounted:JJ', 'prices:NNS', 'https/:NN']
+
+['Getting:VBG', 'ready:JJ', 'shopping:NN', 'favorite:JJ', 'local:JJ', 'places:NNS', 'town:NN']
+
+['Compared:VBN', 'Alabama:NNP', 'could:MD', 'consider:VB', 'Temple:NNP', 'Football:NNP', 'part:NN', 'buy:VB', 'ticket:NN', 'watch:VB', 'football:NN']
+
+['EmpwrmntSolar:NN', 'help:NN', 'launch:NN', 'EmpwrmntSolar:NNP', 'bringing:VBG', 'energy:NN', 'Middle:NNP', 'East:NNP', 'sustai:NN']
+
+['Amethyst:NNP', 'Druzy:NNP', 'Bracelet:NNP', 'http:NN']
+
+["It's:NNP", 'Join:NNP', 'supporting:VBG', 'Montana:NNP', 'small:JJ', 'businesses:NNS', 'today:NN', 'every:DT', 'day:NN']
+
+['Go:VB', 'support:VB', 'small:JJ', 'businesses:NNS', 'today:NN']
+
+['Today:NN', '&amp;:JJ', "I'm:NNP", 'showing:VBG', 'love:NN', 'things:NNS', 'vinyl:VBN', 'shopping:VBG']
+
+['head:NN', 'Local:JJ', 'Comics:NNPS', 'Shop:NNP', '&amp;:NNP', 'pick:VBZ']
+
+["Don't:NNP", 'forget:VB', 'shop:VB', 'Small:NNP', 'Business:NNP', 'today:NN', 'ur:JJ', 'favorite:JJ', 'game:NN']
+
+['Shop:NNP', 'Local:NNP', 'Today:NNP', 'Small:NNP', 'Business:NNP', 'Saturday:NNP']
+
+["Today's:VB", 'day:NN', 'go:VB', 'shop:VB', 'local:JJ', 'businesses:NNS']
+
+["Today's:NNP", 'day:NN', 'yr:NN']
+
+['Happy:JJ', 'businesses:NNS', 'supporting:VBG', 'today?:NNS']
+
+['2:CD', '3:CD', 'new:JJ', 'jobs:NNS', 'created:VBN', 'remember:VB', 'show:VB', 'support:NN']
+
+["Don't:NNP", 'forget:VB', 'Make:NNP', 'good:JJ', 'one:CD', 'know:VBP', "I'll:RB", 'hitting:VBG', 'get:VB', 'shopping:NN', 'done:VBN', 'Tis:NNP', 'season:NN']
+
+['S/O:NNP', 'everyone:NN', 'running:VBG', 'small:JJ', 'businesses:NNS', "it's:VBP", 'easy:VB', "we'll:RB", 'make:VB', 'wor:VB']
+
+['many:JJ', 'businesses:NNS', 'supporting:VBG', 'cities:NNS', 'happy:JJ']
+
+['many:JJ', 'ways:NNS', 'show:VB', 'support:NN', 'going:VBG']
+
+['TONIGHT:NN', 'Pease:NNP', 'join:VB', 'us:PRP', 'historic:JJ', 'downtown:NN', 'evening:NN', 'world:NN', 'dance:NN', 'music:NN', '7:CD']
+
+['today:NN', 'Grab:NNP', 'records:NNS', 'coffee:NN', 'come:VB', 'listen:NN', 'jams:NNS', 'us:PRP', 'https:VBP']
+
+['join:VB', 'mailing:VBG', 'list:NN', '20%:CD', 'yarn:NN', 'shop:NN']
+
+["you're:JJ", 'one:CD', 'authors:NNS', 'give:VBP', 'special:JJ', 'discount:NN', 'EVERY:NNP', 'day:NN', 'book:NN']
+
+['$1:NN', 'shipping:NN']
+
+['Celebrating:VBG', "We're:NNP", 'small:JJ', 'business:NN', "it's:NN", 'Saturday:NNP', 'Give:NNP', 'us:PRP', 'call:JJ', '(720):NN', '431-9115:JJ']
+
+['Looking:VBG', 'forward:RB', '3pm:CD']
+
+['--::', 'remember:VB', 'support:VB', 'local:JJ', 'business:NN', 'today:NN']
+
+['Track:NNP', 'small:JJ', 'business:NN', 'today:NN', 'buy:VB', 'something:NN']
+
+["It's:NNP", 'support:JJ', 'businesses:NNS', 'present:JJ', 'buying:NN', 'coffee:NN', 'need:VBP', 'g:VB']
+
+['TONIGHT:NN', 'Pease:NNP', 'join:VB', 'us:PRP', 'historic:JJ', 'downtown:NN', 'evening:NN', 'world:NN', 'dance:NN', 'music:NN', '7:CD', 'pm:NN']
+
+['later:RB', 'today:NN', 'supporting:VBG', 'keep:JJ', 'dollars:NNS', 'community:NN']
+
+['Free:JJ', 'parking:NN', 'fun:NN', 'entertainment:NN']
+
+['Shop:NNP', 'local:JJ', 'today:NN']
+
+["It's:NNP", 'eat:NN', '&amp;:NNP', 'shop:NN', 'local:JJ', 'Visit:NNP']
+
+["It's:NNP", 'Visit:NNP', '60+:CD', 'small:JJ', 'local:JJ', 'businesses:NNS', 'one:CD', 'trip:NN', 'Open:NNP', '10-2:JJ']
+
+['today:NN', 'pick:VB', 'family:NN', 'owned:VBN', 'deli:JJ', 'food:NN', 'truck:NN', 'restaurant:NN', 'lunch:NN']
+
+['Shop:NNP', 'Small:NNP', 'today:NN', 'encourages:VBZ', 'consumers:NNS', 'support:VB']
+
+['Shop:NNP', '&amp;:NNP', 'support:VB', 'main:JJ', 'street:NN', 'economy:NN', 'instead:RB', 'Wall:NNP', 'Street:NNP', 'vultures:NNS', 'Support:NNP', 'neighbors:NNS', '&amp;:VBP', 'buy:VB', 'American:JJ']
+
+['Get:VB', 'brand:NN', 'head:NN']
+
+['gift:NN', 'cards:NNS', '15%:CD', 'today:NN', 'honor:NN']
+
+['Featuring:VBG', 'New:NNP', 'small:JJ', 'biz:NN']
+
+["don't:VBP", 'know:VB', 'clients:NNS', 'support:VBP', 'many:JJ', '32000:CD', 'small:JJ', 'businesses:NNS', 'Detroit:NNP']
+
+['Proudly:RB', 'supporting:VBG', 'Lake:NNP', 'City:NNP', 'economy:NN']
+
+['Please:NNP', 'consider:VB', 'shopping:NN']
+
+["Don't:NNP", 'forget:VB', 'support:VB', 'great:JJ', 'NY:NNP', 'businesses:NNS', 'today:NN']
+
+["It's:NNP", 'Visit:NNP', 'us:PRP', 'great:JJ', 'offers:NNS', 'huge:JJ', 'selection:NN', 'vehicles:NNS', '&amp;:IN', 'may:MD', 'walk:VB', 'away:RB', '40:CD', 'inch:JJ', 'TV:NN', '$50:JJ', 'gift:NN', 'card:NN']
+
+['NETWORK:NNP', 'Use:NNP', 'followers:NNS', 'way:NN', 'helps:VBZ', 'better:JJR', 'future:NN']
+
+['Waiting:VBG', 'husband:NN', 'put:VB', 'shoes:NNS', 'go:VB', 'buy:VB', 'BOOKS:NNP']
+
+["Y'all:DT", "it's:NN", 'go:JJ', 'ahead:RB', 'shop:VB', 'local:JJ', 'Better:NNP', 'yet:RB']
+
+['Fa-la-la-Fatherland:NNP', '(A:NNP', 'Small:NNP', 'Business:NNP', 'Saturday:NNP', 'Celebration):NNP']
+
+['Went:NN', 'run:NN', 'supported:VBD', 'way:NN', 'back:RB', 'Thanks:NNP']
+
+['50%:CD', 'Cyber:NNP', 'Sale:NNP', 'Quartz:NNP', 'Crystal:NNP', 'Point:NNP']
+
+['Shop:NNP', 'small:JJ', 'business:NN', 'Give:NNP', 'get:VB', 'gift:NN', 'fitness:NN']
+
+['See:VB', 'soon:RB']
+
+['1st:CD', 'World:NNP', 'Class:NN']
+
+['Sick:NNP', 'turkey:NN', '&amp;:NNP', 'dressing?:NN', 'Get:NNP', '&amp;:NNP']
+
+["It's:NNP", 'sure:JJ', 'support:VB', 'local:JJ', 'stores:NNS', 'Look:VBP', 'items:NNS', 'everyone:NN', 'list:NN', 'ht:NN']
+
+["Don't:NNP", 'forget:VB', 'today:NN', 'small:JJ', 'business:NN', 'Saturday:NNP', 'hope:VBP', 'see:VB']
+
+['CRBC:NNP', 'exists:VBZ', 'protect:VB', 'interests:NNS', 'small:JJ', 'business:NN', 'Colorado:NNP', 'Show:NNP', 'support:NN', 'shop:VB', 'small:JJ']
+
+['Happy:JJ', 'thank:NN', 'small:JJ', 'business:NN', 'donors:NNS', 'like:IN', 'make:VBP', 'work:NN', 'possible:JJ']
+
+['Advertise:NN']
+
+['2day:CD', 'sure:JJ', '2:CD', 'support:NN', 'contribute:VBP', '&amp;:JJ', 'help:NN', 'sustain:VB']
+
+["What's:IN", 'ideal:NN', 'songs?:JJ', 'Retweet:NNP', '&amp;:NNP', 'reply:NN', 'w:NN']
+
+["We're:NNP", 'loving:VBG', 'everything:NN', 'Co-op:NNP', 'Pop-up:NNP', 'Shop:NNP', '&amp;:NNP', 'ChrisTobarArt:NNP']
+
+['Deals-10%:NNP', 'FREE:NNP', 'shipping:VBG', '&amp;:JJ', 'Bonus:NNP']
+
+['Supporting:VBG', "DeLand's:NNP", 'organic:JJ', 'spot:NN']
+
+['Yay:NNP', 'open:JJ']
+
+['Made:VBN', 'Killer:NNP', 'Page:NN', 'Conversion:NNP', 'ProsOnly:NNP', '$1:NNP', 'Try:VB']
+
+['FREE:JJ', 'REPORT:NNP', 'save:VB', 'money:NN', 'buy:VBP', 'sell:VBP', 'house:NN']
+
+['delicious:JJ', 'drink:NN']
+
+['5:CD', 'ways:NNS', '&amp;:VBP', 'Profile:NNP']
+
+['Happy:JJ', 'grow:NN', 'marketing:NN', 'local:JJ', 'businesses:NNS', '100:CD', 'leads:NNS', 'available:JJ']
+
+['Great:NNP', 'gifts:NNS', 'terrific:JJ', 'restaurants:NNS', 'Great:NNP', 'day:NN', 'Get:NNP', '&amp;:NNP', 'sho:NN']
+
+['go:VB', 'see:VB', 'local:JJ', 'brewery:NN']
+
+['Support:NN', 'Rivers:NNPS', 'Gear:NNP', 'Tickets:NNS']
+
+['support:VB', 'neighborhood:NN', 'businesses:NNS']
+
+["don't:VBZ", 'forget:VB', 'support:VB', 'favorite:JJ', 'local:JJ']
+
+['&amp;:NNS', 'today:NN', 'drive:VBP', 'local:JJ', '&amp;:NNP', 'support:NN', 'neighbors:NNS']
+
+['near:IN', 'retailers:NNS', 'shop:VBP']
+
+['Today:NN', 'National:NNP', 'skip:NN', 'big:JJ', 'box:NN', 'stores:NNS', 'support:VB', 'mom:NN', '&amp;:NNP', 'pop:NN', 'shops:NNS', 'http:NN']
+
+['honor:NN', 'sign:VBP', 'w/:NN']
+
+['40%:CD', 'callina:NN']
+
+['friends:NNS', 'Join:VBP', 'us:PRP']
+
+['works:NNS', 'online:VBP']
+
+['plan:VBP', 'spending:NN', 'arguing:VBG', 'people:NNS', 'considered:VBN', 'small:JJ', 'business:NN']
+
+['Kittens:NNS', 'everyone:NN']
+
+['want:VBP', 'one:CD', 'Black:NNP', 'Wall:NNP', 'Street:NNP', 'Movie:NNP', 'T-shirt:NNP', 'available:JJ']
+
+['Last:JJ', 'year:NN', 'Amex:NNP', 'issued:VBD', 'statement:NN', 'credits:NNS', 'payback:NN', 'year:NN', 'warm:JJ', '&amp;:NN', 'fuzzies:NNS']
+
+['250:CD', 'A5:NNP', 'folded:VBD', '130gsm:CD', 'Leaflets65:NNP', 'Design60:NNP', 'unlimited:VBD', 'changes:NNS']
+
+['San:NNP', 'Diego/North:NNP', 'County:NNP', 'go:VB', 'shop:NN', 'Asylum:NNP', 'skate/surf:NN', 'shop:NN', 'Sky:NNP', 'High:NNP', 'Comics:NNPS', 'Spin:NNP', 'Records:NNPS', 'Support:NNP']
+
+["It's:NNP", 'Awesome:NNP', 'happen:VB']
+
+['FREE:JJ', 'STUFF:NNP', 'ALERT:NNP', "It's:NNP", 'go:VB', 'support:VB', 'local:JJ', 'PEI:NNP', 'business:NN', "Here's:NNP", 'mission:NN']
+
+['THANK:NNP', 'U:NNP', 'shopping:VBG', 'small:JJ', 'w/:NN', 'today:NN']
+
+['Get:VB', 'album:NN', 'CD:NNP', '$10:NNP', '(w:NNP', 'free:JJ', 'digital):NN', '$5:NN', 'digital:NN', 'unreal:JJ', 'low:JJ', 'price:NN']
+
+['Small:JJ', 'Saturday:NNP', "Farmers':NNP", 'Market:NNP']
+
+['eBooks:VBZ', 'sale:NN', '$5:NN', 'less:JJR', '//:NNS']
+
+["Don't:NNP", 'forget:VB', 'Come:NNP', 'drinks:NNS', 'sweets:NNS', 'stay:VB', 'savings:NNS']
+
+["It's:NNP", 'Shop:NNP', 'today:NN', 'comfort:NN', 'device:NN', 'enjoy:VB', '50%:CD', 'jewelry:NN', '&amp;:NN']
+
+['RT&gt;@SalonVerve:NN', 'Picking:VBG', 'lunch:NN', 'Verve:NNP', 'Girls:NNP', '&lt;:NN']
+
+['would:MD', 'like:VB', "it's:NN", 'right:NN']
+
+['checked:VBN', 'Holiday:NNP', 'Shopping:NNP', 'Guide:NNP', 'yet?:NNP', "It's:NNP", 'Take:VB', 'peek:NN']
+
+['RT^@sblstudioMN:JJ', 'time:NN', 'Solar:NNP', 'building:NN', '3rd:CD', 'floor:NN', 'htt:NN']
+
+["It's:NNP", 'Come:NNP', 'support:VB', 'local:JJ', 'businesses:NNS', 'get:VB', 'great:JJ', 'deal:NN', 'store:NN', '25%:CD', 'everything:NN']
+
+['deals:NNS', 'available:JJ', 'Invest:NNP', 'business:NN', 'Shop:NNP', 'online:NN', '&gt;:NN']
+
+['Shop:NNP', 'small:JJ', 'buy:VB', '3D:CD', 'printed:VBN', 'Corgi:NNP', 'shop:NN']
+
+['Today:NN', "I'm:NNP", 'showing:VBG', 'love:NN', 'Fireplace:NNP', 'Restaurant:NNP', 'Western:NNP', 'Reserve:NNP', 'Road:NNP']
+
+['Autism:NNP', 'awareness:NN', 'bracelet:NN']
+
+['Support:NNP', 'local:JJ', 'business:NN', 'today:NN', 'every:DT', 'day:NN']
+
+["you're:PDT", 'suggest:VBP', 'supporting:VBG', 'local:JJ', 'artisans:NNS']
+
+['Amethyst:NNP', 'Druzy:NNP', 'Bracelet:NNP']
+
+['Happy:JJ', 'Check:VB', 'site:NN', 'holiday:NN', 'ideas:NNS']
+
+['lot:NN', 'items:NNS', 'holiday:NN', 'gift:NN', 'guide:NN', 'great:JJ', 'buys:NNS']
+
+['Good:JJ', 'morning:NN', 'Realize:VB', 'dreams:NNS', 'help:VB', 'someone:NN', 'else:RB', 'realize:VB', 'theres:NNS', 'shopping:VBG']
+
+["It's:NNP", 'today:NN', 'really:RB', 'need:VBP', 'excuse:NN', 'plan:VB', 'lunch:NN']
+
+['set:VBD', '&amp;:JJ', 'ready:NN', 'Cyclorama:NNP', 'Boston:NNP', 'today:NN']
+
+["It's:NNP", '&amp;:NNP', "we're:VBD", 'hosting:VBG', 'nonprofit:JJ', "We're:NNP", 'donating:VBG', '$1:RB', 'pint:NN', 'sold:VBN', '12-4:JJ', '&amp;:NN', 'fr:NN']
+
+['seems:VBZ', 'wrong:JJ', 'Support:NNP', 'learn:VB', 'year:NN', 'long:RB', 'one:CD', 'day:NN', 'one:CD', 'month:NN']
+
+['Good:JJ', 'morning:NN', 'Realize:VB', 'dreams:NNS', 'help:VB', 'someone:NN', 'else:RB', 'realize:VB', "there's:NN", 'shopping:VBG']
+
+['get:VB', 'get:VB', 'one:CD', 'CDs:NNS', '(or:NNP', 'u:RB', 'know:VBP', 'something:NN']
+
+['Check:VB', 'local:JJ', 'comic:JJ', 'shop:NN', 'today:NN', 'might:MD', 'sales:NNS', 'like:IN', 'mine:NN']
+
+['Questions:NNS']
+
+['Support:NNP', 'middle:JJ', 'class:NN']
+
+['Use:NNP', 'promo:NN', 'code:NN', 'SMALLBIZSAT:NNP', 'get:VB', '30%:CD']
+
+['Happy:JJ', 'help:VBP', 'boost:VB', 'sales:NNS', 'local:JJ', 'independently-owned:JJ', 'business:NN', 'backbo:NN']
+
+['businesses:NNS', 'make:VBP', 'LITTLE:JJ', '(#herschelStratego:NN', 'example):NN', "they're:VBZ", 'nonprofits:NNS']
+
+['S/O:NNP', 'everyone:NN', 'running:VBG', 'small:JJ', 'businesses:NNS', "it's:VBP", 'easy:VB', "we'll:RB", 'make:VB', 'worth:IN']
+
+['Blessed:VBN', '2day:CD', 'love:VBP', 'Thankful:JJ', '4:CD', 'loyal:JJ', "customersIt's:NN", 'Pls:NNP', 'go:VBP', '&amp;:JJ', 'support:NN', 'small:JJ', 'businesses:NNS']
+
+['weekend:NN', 'full:JJ', 'deals:NNS', "it's:VBP", 'great:JJ']
+
+['One:CD', 'small:JJ', 'purchase:NN', 'today:NN', 'make:VB', 'big:JJ', 'difference:NN', 'get:NN', 'support:NN', 'local:JJ', 'business:NN', 'today:NN']
+
+['Hawaiian:JJ', 'Shell:NNP', 'Earrings:NNS']
+
+['Support:NNP', 'local:JJ', 'economy:NN']
+
+['spirit:NN', 'refill:VB', 'glaucoma:NN', 'meds:NNS', 'guy:NN', 'street:NN', 'instead:RB', 'government-sanctioned:JJ', 'dealer:NN']
+
+
+
+['join:NN', 'thanking:VBG', 'small:JJ', 'business:NN', 'owners:NNS', 'Kansas:NNP']
+
+['sale:NN', 'extended:VBN', 'throughout:IN', 'today-:JJ', 'Promo:NNP', 'code:NN', 'FRI2015:NNP']
+
+['8:CD', 'Crazy:NNP', 'Days:NNPS', 'Giveaways:NNP', "it's:NN", 'X-Cube:JJ', 'frm:NN']
+
+['Happy:JJ', 'Little:NNP', 'Switzerland:NNP', 'Books:NNP', '&amp;:NNP', 'Beans:NNP', 'Bookstore:NNP']
+

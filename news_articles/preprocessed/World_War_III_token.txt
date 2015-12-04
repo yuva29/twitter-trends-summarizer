@@ -1,0 +1,10 @@
+["The:DT", "Korean:NNP", "War:NNP", "proxy:JJ", "battle:NN", "rival:JJ", "superpowers:NNS", "involving:VBG", "U.S.:NNP", "ground:NN", "troops:NNS", "left:VBD", "2:CD", "million:CD", "dead.:NN", "The:DT", "second:JJ", "Congo:NNP", "war:NN", "late:JJ", "1990s:NNS", "early:JJ", "2000s,:CD", "may:MD", "killed:VBN", "many:JJ", "3:CD", "million:CD", "people:NNS", "involved:VBN", "intervention:NN", "half:PDT", "dozen:NN", "countries,:NN", "sometimes:RB", "called:VBN", "Africa's:NNP", "World:NNP", "War.:NNP"]
+
+["A:DT", "protester:NN", "holds:VBZ", "placard:NN", "reading:VBG", "'Killer:NNP", "Russia!:NNP", "Get:NNP", "Syria':NNP", "shouts:VBZ", "slogans:NNS", "front:NN", "Russian:JJ", "Istanbul:NNP", "consulate:NN", "demonstration:NN", "Russia's:NNP", "Syria:NNP", "policy:NN", "November:NNP", "24,:CD", "2015:CD", "Istanbul.:NNP"]
+
+["The:DT", "shooting:VBG", "Russian:NNP", "plane:NN", "escalation:NN", "leaves:VBZ", "open:VBP", "possibility:NN", "open:JJ", "clash:NN", "Nato:NNP", "member:NN", "state:NN", "Russia,:NNP", "whose:WP$", "intervention:NN", "shows:VBZ", "increasing:VBG", "assertiveness:NN", "international:JJ", "affairs.:NN"]
+
+["The:DT", "Turkish:NNP", "foreign:JJ", "ministry:NN", "said:VBD", "diplomatic:JJ", "missions:NNS", "Turkish:JJ", "business:NN", "interests:NNS", "Russia:NNP", "come:VBN", "attack:NN", "said:VBD", "Russia's:NNP", "ambassador:NN", "Ankara:NNP", "summoned:VBN", "protest.:NN"]
+
+["Pope:NNP", "Francis:NNP", "warned:VBN", "Piecemeal:NNP", "World:NNP", "War:NNP", "Three:NNP", "several:JJ", "occasions:NNS", "dating:VBG", "back:RB", "last:JJ", "year.:NN"]
+

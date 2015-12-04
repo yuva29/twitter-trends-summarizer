@@ -1,0 +1,10 @@
+["The:DT", "State:NNP", "Department:NNP", "released:VBN", "worldwide:JJ", "travel:NN", "alert:NN", "Americans,:NNP", "citing:VBG", "increased:JJ", "terrorism:NN", "threats:NNS", "worldwide:VBP", "advising:VBG", "U.S.:NNP", "citizens:NNS", "Avoid:VB", "large:JJ", "crowds:NN", "crowed:VBN", "places,:JJ", "especially:RB", "holiday:NN", "season.:NN"]
+
+["U.S.:NNP", "citizens:NNS", "monitor:VB", "media:NNS", "local:JJ", "information:NN", "sources:NNS", "factor:NN", "updated:JJ", "information:NN", "personal:JJ", "travel:NN", "plans:NNS", "activities.:NN"]
+
+["The:DT", "travel:NN", "alert:NN", "issued:VBN", "day:NN", "Belgium's:NNP", "prime:JJ", "minister:NN", "announced:VBD", "Brussels:NNP", "would:MD", "remain:VB", "highest:JJS", "alert:JJ", "level:NN", "least:JJS", "another:DT", "week.:NN"]
+
+["Americans:NNPS", "alert:JJ", "possible:JJ", "travel:NN", "risks,:NN", "especially:RB", "holidays,:NN", "following:VBG", "increased:JJ", "terrorist:JJ", "threats:NNS", "around:IN", "world,:NN", "State:NNP", "Department:NNP", "warned:VBD", "Monday.:NNP"]
+
+["On:IN", "Monday,:NNP", "U.S.:NNP", "State:NNP", "Department:NNP", "issued:VBD", "worldwide:JJ", "travel:NN", "alert:NN", "American:JJ", "citizens:NNS", "stating::JJ", "Current:NNP", "information:NN", "suggests:VBZ", "[ISIS],:JJ", "al-Qaida,:JJ", "Boko:NNP", "Haram,:NNP", "terrorist:JJ", "groups:NNS", "continue:VBP", "plan:VB", "terrorist:JJ", "attacks:NNS", "multiple:JJ", "regions.:NN"]
+

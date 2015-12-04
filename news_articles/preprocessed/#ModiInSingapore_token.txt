@@ -1,0 +1,10 @@
+["India's:NNP", "Prime:NNP", "Minister:NNP", "Narendra:NNP", "Modi:NNP", "make:VB", "official:JJ", "visit:NN", "Singapore:NNP", "invitation:NN", "Prime:NNP", "Minister:NNP", "Lee:NNP", "Hsien:NNP", "Loong,:NNP", "said:VBD", "Ministry:NNP", "Foreign:NNP", "Affairs:NNPS", "statement:NN", "today,:NN", "Nov:NNP", "22:CD"]
+
+["When:WRB", "Singapore's:NNP", "founding:VBG", "prime:JJ", "minister:NN", "Lee:NNP", "Kuan:NNP", "Yew:NNP", "died:VBD", "March,:NNP", "Modi:NNP", "ordered:VBD", "flags:NNS", "India:NNP", "flown:VBN", "half-mast:NN", "mark:NN", "respect:NN", "Mr:NNP", "Lee.:NNP"]
+
+["Indian:JJ", "Prime:NNP", "Minister:NNP", "Narendra:NNP", "Modi:NNP", "arrive:VB", "Singapore:NNP", "tomorrow:NN", "two-day:JJ", "official:JJ", "visit:NN", "invitation:NN", "Prime:NNP", "Minister:NNP", "Lee:NNP", "Hsien:NNP", "Loong,:NNP", "countries:NNS", "elevate:VB", "ties:NNS", "Strategic:NNP", "Partnership.:NNP"]
+
+["Singapore's:NNP", "success:NN", "indeed:RB", "noteworthy.:JJ", "Their:PRP$", "achievements:NNS", "urban:JJ", "development,:JJ", "urban:JJ", "transport,:NN", "waste:NN", "management,:NN", "development:NN", "ports:NNS", "skill:NN", "development:NN", "well:RB", "known.:VB", "My:NNP", "visit:NN", "Singapore:NNP", "focus:VB", "key:JJ", "areas:NNS", "India-Singapore:NNP", "cooperation.:NN"]
+
+["In:IN", "2013,:CD", "foreign:JJ", "direct:JJ", "investment:NN", "India:NNP", "Singapore:NNP", "S$23.7:NNP", "billion,:VBD", "nearly:RB", "twice:RB", "Singapore's:NNP", "direct:JJ", "investment:NN", "India:NNP", "S$12.1:NNP", "billion.:NN"]
+

@@ -1,0 +1,742 @@
+['HBO:NNP', 'put:VBD', 'Jon:NNP', 'Snow:NNP', "'Game:NN", "Thrones':NNP", 'teaser:FW', 'MEAN?????:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'lives:VBZ', 'first:JJ', 'promo:NN', 'image:NN', 'Season:NNP', '6:CD']
+
+['bring:VB', 'back:RP', 'Jon:NNP', 'Snow:NNP', 'Eddard:NNP', 'Stark?:NNP', 'even:RB', 'rightful:JJ', 'heir:NN', 'throne:NN', 'King:NNP', 'Joffrey?:NNP']
+
+['fake-out:JJ', 'character:NN', 'deaths:NNS', 'tv:NN', 'shows:NNS', 'tired:VBN', 'Jon:NNP', 'Snow:NNP', 'really:RB', 'still:RB', 'alive:JJ', 'none:NN', 'counts:VBZ', 'Glenn:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'bout:IN', 'ride:VB', 'Winterfell:NNP', 'Melisandre:NNP', 'passenger:NN', 'bumping:VBG', 'Hit:NNP', 'Em:NNP']
+
+['New:NNP', '&amp;amp;amp;#39;Game:NN', 'Thrones&amp;amp;amp;#39;:NNP', 'Promo:NNP', 'Hints:NNP', 'Jon:NNP', 'Snow&amp;amp;amp;#39;s:NNP', 'Fate:NNP']
+
+['lot:NN', 'happened:VBN', 'since:IN', 'piece:NN', 'written:VBN']
+
+['Top:JJ', 'Trends:VBZ', '7:CD', 'Mianwali:NNP', '8:CD', 'Arsenal:NNP', '9:CD', 'Jon:NNP', 'Snow:NNP', '25/11/150825:CD', 'PST:NNP']
+
+['Top:JJ', 'Trends:VBZ', '7:CD', 'Mianwali:NNP', '8:CD', 'Arsenal:NNP', '9:CD', 'Jon:NNP', 'Snow:NNP', '25/11/150818:CD', 'PST:NNP']
+
+["HBO's:NNP", 'even:RB', 'pretending:VBG', 'Jon:NNP', 'Snow:NNP', 'dead:JJ', 'anymore:RB']
+
+['Jon:NNP', 'Snow:NNP', 'ULAB:NNP', 'today:NN']
+
+['Natalie:NNP', 'Dormer:NNP', 'Fate:NNP', 'Men:NNP', 'Named:NNP', "'Snow':POS"]
+
+['Even:RB', 'HBO:NNP', 'Longer:NNP', 'Pretending:NNP', 'Jon:NNP', 'Snow:NNP', 'Really:RB', 'Dead:JJ']
+
+['&amp;amp;#39;Game:NN', 'Thrones&amp;amp;#39;:NNP', 'Season:NNP', '6:CD', 'Spoilers:NNP', 'Jon:NNP', 'Snow:NNP', 'Rumored:VBN']
+
+['Since:IN', 'HBO:NNP', 'put:VBD', 'billboard:NN', 'guess:VBP', 'share:NN', 'pic:NN', 'London:NNP', 'lunch:NN', 'w:VBD', 'Kit:NNP', 'Harington:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['Game:NN', 'Thrones:NNP', 'Teases:NNP', 'Return:NNP', 'Jon:NNP', 'Snow:NNP', 'New:NNP', 'Poster:NNP']
+
+["can't:VBP", 'wait:VB']
+
+['Check:VB', 'GoT:NNP', 'Poster:NNP', 'Mean:NNP', 'Jon:NNP', 'Snow:NNP', 'Alive?:NNP']
+
+['Everyone:NN', 'seeing:VBG', 'Jon:NNP', 'Snow:NNP', 'teaser:NN', 'poster:NN']
+
+['Game:NN', 'Thrones:NNP', 'Season:NNP', '6:CD', 'Billboard:NNP', 'poster:NN', 'suggests:VBZ', 'Jon:NNP', 'Snow:NNP', 'alive:JJ', '&amp;infin;:$', '72:CD']
+
+['HBO:NNP', 'Releases:NNP', "'Game:NNP", "Thrones':NNP", 'Season:NNP', '6:CD', 'Poster:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['yet:RB', 'released:VBD', 'season:NN', '6:CD', 'poster:NN', 'Jon:NNP', 'snow:NN']
+
+['New:NNP', "'Game:CD", "Thrones':NNP", 'Promo:NNP', 'Hints:NNP', 'Jon:NNP', "Snow's:NNP", 'Fate:NNP']
+
+['Whaddya:NNP', 'know:VBP', 'Jon:NNP', 'Snow?:NNP', '&amp;amp;#39;Game:NN', 'Thrones&amp;amp;#39;:NNP', 'revives:NNS', 'character:NN']
+
+['Jon:NNP', 'Snow:NNP', 'return:VB', "'Game:CD", "Thrones':NNP"]
+
+["It's:NNP", 'catchy:NN', 'say:VBP', 'know:VBP', 'things:NNS', 'Jon:NNP', 'Snow:NNP']
+
+['social:JJ', 'media:NNS', 'raging:VBG', 'today?:NN']
+
+['Game:NN', 'Thrones:NNP', 'tweet:NN', 'teases:NNS', 'Jon:NNP', 'Snow:NNP', 'return:NN']
+
+['new:JJ', "'Game:NN", "Thrones':NNP", 'poster:NN', '2:CD', 'clues:NNS', 'Jon:NNP']
+
+['One:CD', 'mind-boggling:JJ', 'question:NN', 'GoT:NNP', 'fans:NNS', 'Jon:NNP', 'Snow:NNP', 'dead:JJ', 'alive?:JJ']
+
+['Dramatic:JJ', 'Weight:NNP', 'Loss:NNP', "'Game:NN", "Thrones':NNP", 'Poster:NNP', 'Ignites:NNP', 'Jon:NNP', 'Snow:NNP', 'Rumors:NNS']
+
+['Jon:NNP', "Snowcan't:NNP", 'waitman:VBD', 'long:JJ', 'ass:NN', 'wait:NN']
+
+['Jon:NNP', 'Snow:NNP', 'lives:VBZ']
+
+['gory:JJ', 'death:NN', "'Game:NN", "Thrones':NNP", 'revives:VBZ', 'Jon:NNP', 'Snow:NNP']
+
+['Kobe:NNP', 'natural:JJ', 'leader:NN', 'like:IN', 'Jon:NNP', 'Snow:NNP', 'believe:VBP', 'rally:VB', 'men:NNS', 'lake:NN', '&amp;:NN', 'rout:IN', 'Warriors:NNS']
+
+["'Game:NN", "Thrones':NNP", 'Five:NNP', 'Questions:NNS', "Telltale's:NNP", 'Second:NNP']
+
+['6:CD', 'Om:NNP', 'Puri:NNP', '7:CD', 'Turkey:NNP', '8:CD', 'Anupam:NNP', 'Kher:NNP', '9:CD', 'World:NNP', 'War:NNP', 'III:NNP', '10:CD', 'Jon:NNP', 'Snow:NNP', '2015/11/25:CD', '0727:CD', 'IST:NN']
+
+['Game:NN', 'Thrones:NNP', 'Teases:NNP', 'Jon:NNP', 'Snows:NNP', 'Season:NNP', '6:CD', 'Return:NNP']
+
+['bloody:JJ', 'death:NN', "'Game:NN", "Thrones':NNP", 'revives:VBZ', 'Jon:NNP', 'Snow:NNP']
+
+['Whaddya:NNP', 'know:VBP', 'Jon:NNP', 'Snow?:NNP', "'Game:NN", "Thrones':NNP", 'revives:NNS', 'character:NN']
+
+['Game:NN', 'Thrones:NNP', 'Season:NNP', '6:CD', 'Jon:NNP', "Snow's:NNP", 'Fate:NNP', 'Everything:NNP', 'Else:NNP']
+
+['Jon:NNP', 'Snow:NNP', "doesn't:VBZ", 'look:VB', 'dead:JJ', 'new:JJ', 'Game:NNP', 'Thrones:NNP', 'promo:NN']
+
+['Jon:NNP', 'Snow:NNP', 'Lives:VBZ', 'First:NNP', 'Promo:NNP', 'Image:NNP', 'Game:NNP', 'Thrones:NNP', 'Season:NNP', '6:CD']
+
+["I'm:NNP", 'holding:VBG', '101%:CD', 'Jon:NNP', 'Snow:NNP']
+
+['know:VBP', 'nothing:NN', 'Jon:NNP', 'Snow:NNP', "'back:POS", "dead':NN", 'Game:NNP', 'Thrones:NNP', 'teaser:NN']
+
+['good:JJ', 'heart:NN', 'Jon:NNP', 'Snow:NNP', 'get:VB', 'us:PRP', 'killed:VBD']
+
+['Jon:NNP', 'Snow:NNP', 'died:VBD', 'sins:NNS', 'rose:VBD', 'dead:JJ']
+
+['[|:JJ', 'New:NNP', 'Yggy:NNP', 'new:JJ', 'RP:NNP', 'Modern:NNP', 'Jon:NNP', 'Snow:NNP', 'ship:NN', 'RP:NNP', '21+:CD', 'follow:VB', 'help:VB', 'girl:NN', 'out?:NN']
+
+['ok:NN', 'need:VBP', 'jon:NN', 'snow:NN', 'layout:NN']
+
+['gurpurab:NN', "we're:NN", 'sitting:VBG', 'praying:VBG', 'Jon:NNP', 'Snow:NNP']
+
+["'Game:NN", "Thrones':NNP", 'poster:NN', 'fuels:NNS', 'Jon:NNP', 'Snow:NNP', 'debate:NN']
+
+['Jon:NNP', 'Snow:NNP', 'layout:IN', 'RT:NNP', 'want:VBP', 'Must:NNP', 'following:VBG']
+
+['hot:JJ', 'new:JJ', 'youth:NN', 'trend:NN', 'Jon:NNP', 'Snowing:NNP', 'pour:VBP', 'ur:JJ', 'drink:NN', 'snow:JJ', 'lie:NN', '&amp;:NNP', 'HBO:NNP', 'pretends:VBZ', 'ur:JJ', 'dead:JJ', '5:CD', 'months:NNS', 'https:NN']
+
+['clickbait:NN', 'told:VBD', 'nothing:NN', 'know:VBP', 'nothing:NN', 'Jon:NNP', 'Snow:NNP']
+
+['bring:VB', 'back:RP', 'Jon:NNP', 'Snow:NNP', 'Col:NNP', 'Henry:NNP', 'Blake:NNP', 'M*A*S*H?:NNP', "'80s:POS", 'kids:NNS', 'get:VB']
+
+["'Game:NN", "Thrones':NNP", 'season:NN', '6:CD', 'teaser:NN', 'poster:NN', 'shows:VBZ', 'Jon:NNP', 'Snow:NNP']
+
+['spoiler:NN', 'released:VBN', 'teaser:NN', 'poster:NN', 'includes:VBZ']
+
+["'Game:NN", "Thrones':NNP", 'Season:NNP', '6:CD', 'SPOILERS:NNP', 'Poster:NNP', 'Confirms:NNP', 'Kit:NNP']
+
+['know:VBP', 'nothing:NN', 'Jon:NNP', 'Snow:NNP']
+
+['theory:NN', 'Jon:NNP', 'Snow:NNP', 'dead:JJ', 'alive:JJ', 'Dead:NNP', 'sexy:NN', 'alive:JJ', 'heart:NN']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'dad?:NN']
+
+["I'm:NNP", 'guessing:VBG', 'HBO:NNP', 'given:VBN', 'pretence:NN', 'Jon:NNP', 'Snow:NNP', 'dead:JJ', 'dead:NN']
+
+['Jon:NNP', 'Snow:NNP', 'lives:VBZ', 'Game:NNP', 'Thrones:NNP', 'poster:NN', 'least:JJS']
+
+['Game:NN', 'Thrones:NNP', 'announces:NNS', 'season:NN', 'six:CD', 'premiere:NN', 'bloody:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP']
+
+["'Game:NN", "Thrones':NNP", 'Season:NNP', 'Six:NNP', 'Teaser:NNP', 'Poster:NNP', 'Shows:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['6:CD', 'Doomed:NNP', 'Harper:NNP', '7:CD', 'Jon:NNP', 'Snow:NNP', '8:CD', 'Joel:NNP', 'Armia:NNP', '9:CD', 'Prince:NNP', 'Charles:NNP', '10:CD', "Canada's:NNP", 'Syrian:JJ', '2015/11/23:CD', '1019:CD', 'CST:NN']
+
+['First:NNP', "'GAME:CD", "THRONES':NNP", 'Season:NNP', '6:CD', 'Teaser:NNP', 'Art:NNP', 'Features:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['BI_Entertain:VB', 'new:JJ', "'Game:NN", "Thrones':NNP", 'poster:NN', 'going:VBG', 'drive:VB', 'Jon:NNP', 'Snow:NNP', 'fans:NNS', 'crazy:VBP']
+
+['JON:NNP', 'SNOW:NNP', 'OMG:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'Show:NNP', 'coming:VBG', 'back:RB', 'another:DT', 'season:NN']
+
+['Jon:NNP', 'Snow:NNP', 'Lives:VBZ', 'First:NNP', 'Promo:NNP', 'Image:NNP', 'Season:NNP', '6:CD']
+
+['JON:NNP', 'SNOW?????:NNP', 'JOKE??:NNP', "IT'S:NNP", 'OK:NNP', 'PLAY:NNP', 'HEART:NNP', 'LIKE:NNP']
+
+['oh:JJ', 'look:NN', 'jon:NN', 'snow:NN', 'ALIVE?:NNP', 'surprise:NN']
+
+['confirmation:NN', 'Jon:NNP', 'Snow:NNP', 'DEAAADD:NNP', '\\o/:NNP', '\\o/:NNP', '\\o/:NNP', 'APRIL:NNP']
+
+['BGR:NNP', 'Game:NNP', 'Thrones:NNP', 'teases:NNS', 'season:NN', '6:CD', 'picture:NN', 'bloodied:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['Abril:NNP', 'gameofthronespost:NN', 'Jon:NNP', 'Snow:NNP', 'official:JJ', 'Game:NNP', 'Thrones:NNP', 'season:NN', '6:CD', 'poster:NN']
+
+['DISEMBODIED:NNP', 'JON:NNP', 'SNOW:NNP', 'VOICE:NNP', 'Tyrion?:NNP', 'still:RB', 'Mereen:NNP', "Let's:NNP", 'join:NN', '3rd:CD', 'different:JJ', 'type:NN']
+
+['Season:NNP', '6:CD', 'Poster:NNP', 'Jon:NNP', 'Snow:NNP', 'Returns:NNP']
+
+['YES:UH', 'RT:NNP', 'Jon:NNP', 'Snow:NNP', 'came:VBD', 'back:RB', 'quarterback:VB', 'trash:NN', 'NFC:NNP', 'East:NNP', 'team:NN']
+
+['like:IN', 'Jon:NNP', 'Dead:NNP', '&amp;:NNP', 'Cold:NNP', 'Snow:NNP']
+
+['Game:NN', 'Thrones:NNP', 'teases:NNS', 'season:NN', '6:CD', 'picture:NN', 'bloodied:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'dead:JJ', 'ass:NN']
+
+['Jon:NNP', 'Snow:NNP', 'finessed:VBD', 'jig:NN']
+
+['well:RB', 'sure:JJ', 'Jon:NNP', 'SNOW:NNP', 'dead:JJ', 'says:VBZ', 'nothing:NN', 'Jon:NNP', 'S----:NNP', 'Jon:NNP', 'T--------:NNP']
+
+['JON:NNP', 'SNOW:NNP']
+
+['Holy:NNP', '$#*:NNP', 'reveal:VB', 'Jon:NNP', "Snow's:NNP", 'fate:NN', 'poster:NN', '&amp;:NN', 'billboard?:NN']
+
+['Game:NN', 'Thrones:NNP', 'April:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'snow:NN', 'aliveeee:JJ']
+
+['long:RB', 'live:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['new:JJ', "'Game:NN", "Thrones':NNP", 'poster:NN', 'going:VBG', 'drive:VB', 'Jon:NNP', 'Snow:NNP', 'fans:NNS', 'crazy:VBP']
+
+['JON:NNP', 'SNOW:NNP', 'BETTER:NNP', 'ALIVE:NNP']
+
+['Jon:NNP', 'snow:VBP', 'comes:VBZ', 'back:RB', 'one:CD', 'white:JJ', 'walkers:NNS', "I'm:NNP", 'white:JJ', 'Walker:NNP', 'fan:NN']
+
+['LITERALLY:VB', 'START:NNP', 'CRYING:NNP', 'CLASS:NNP', 'JON:NNP', 'SNOW:NNP', 'POSTER:NNP']
+
+['know:VBP', 'nothing:NN', 'jon:NN', 'snow:NN']
+
+['HBO:NNP', 'releases:VBZ', 'bloody:JJ', 'Jon:NNP', 'Snow:NNP', 'promo:NN', 'Season:NNP', '6:CD']
+
+["Glenn's:NNP", 'alive:JJ', 'like:IN', 'Jon:NNP', 'Snow:NNP', 'LOLOLOlolol:NNP', 'pls:NN']
+
+['picture:NN', 'jon:NN', 'snow:VBP', 'tryna:VBP', 'tell:VB', 'me?:FW', 'dude:NN', 'still:RB', 'here?:VBZ', 'BRUHHHHHHHHHHHHHHH:NNP']
+
+['TV:NN', 'idea:NN', 'jon:NN', 'snow:VBP', 'joins:VBZ', 'cast:NN', 'walking:VBG', 'dead:JJ', 'glenn:NN', 'joins:VBZ', 'cast:NN', 'game:NN', 'thrones:NNS']
+
+['know:VBP', 'NOTHING:RB', 'Jon:NNP', 'Snow:NNP']
+
+['DISEMBODIED:NNP', 'JON:NNP', 'SNOW:NNP', 'VOICE:NNP', 'Tyrion?:NNP', 'still:RB', 'Mereen:NNP', "Let's:NNP", 'join:NN', '3rd:CD', 'different:JJ', 'type:NN', 'dance:NN']
+
+['OH:UH', 'GOD:NNP', 'JON:NNP', 'SNOW:NNP', 'FUCKING:CD', 'DYING:NN']
+
+['Jon:NNP', 'Snow:NNP', 'featured:VBD', 'promo:NN', 'new:JJ', 'season:NN', 'Game:NNP', 'Thrones:NNP', 'Let:NNP', 'speculation:NN', 'begin:NN']
+
+['JON:NNP', 'SNOW:NNP', 'BACK:NNP', 'BITCHES:NNP']
+
+['FUCKING:NN', 'YEAH:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['Jon:NNP', 'snow:VBP', 'ta:NN', 'vivo?:NN']
+
+['Game:NN', 'Thrones:NNP', 'Teases:NNP', 'Jon:NNP', 'Snows:NNP', 'Return:NNP', 'Season:NNP', '6:CD', 'Poster:NNP', '(Photo):NN']
+
+['JON:NNP', 'SNOW:NNP', 'ES:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', "I'M:NNP", 'CALLING:NNP']
+
+['People:NNS', 'angry:JJ', 'turns:VBZ', 'Jon:NNP', 'Snow:NNP', 'dumpster:NN', 'RT:NNP', 'Walking:NNP', 'Dead:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'dead:JJ', 'way:NN', 'RT:NNP', 'Waiitttt:NNP', 'Jon:NNP', 'snow:VBP', 'lives????:JJ', 'hollup:NN', 'hollup:NN', 'hollup:NN']
+
+['HELL:NNP', 'JON:NNP', "SNOW'S:NNP", 'ALIVE:NNP', 'BET:NNP', 'GLENN:NNP', 'TWD:NNP', "AIN'T:NNP", 'DEAD:NNP', 'DX&lt;:NNP']
+
+['Might:NNP', 'well:RB', 'tease:IN', 'Jon:NNP', "Snow's:NNP", 'still:RB', 'alive:JJ', 'gotta:NN', 'build:NN', 'buzz:NN']
+
+['Ok:IN', 'definite:JJ', 'proof:NN', 'Jon:NNP', 'Snow:NNP', 'back:RB']
+
+['Jon:NNP', 'Snow:NNP', 'ALIVE:NNP']
+
+['Teases:NNS', 'Jon:NNP', "Snow's:NNP", 'Return:NNP', 'Season:NNP', '6:CD', 'Poster:NNP']
+
+['talked:VBD', 'potential:NN', 'Jon:NNP', 'Snow:NNP', 'resurrected:VBN', 'one:CD', 'earlier:JJR', 'podcasts:NNS']
+
+["Can't:NNP", 'get:VB', 'clearer:JJR', 'Brace:NNP', 'Jon:NNP', 'snow:NN', 'coming:VBG']
+
+['Jon:NNP', 'Snow:NNP', 'official:NN', 'GOT:NNP', 'season:NN', '6:CD', 'poster:NN']
+
+['Well:RB', 'seems:VBZ', 'Jon:NNP', 'Snow:NNP', 'alive:JJ', 'thankful:JJ', 'thanksgiving:NN', 'holiday:NN']
+
+['seriously:RB', 'interesting:JJ', "they'd:NN", 'throw:NN', 'jon:NN', 'snow:VBP', 'poster:NN', 'early:JJ', 'denying:VBG', 'return:NN', 'summer:NN']
+
+['KNOW:VBP', 'JON:NNP', 'SNOW:NNP', 'VALLA:NNP', 'KNOW:NNP']
+
+['OHHHH:NNP', 'DALE:NNP', 'JON:NNP', 'SNOWWW:NNP', 'JON:NNP', 'SNOOW:NNP', 'JON:NNP', 'SNOW:NNP', 'DALE:NNP', 'JON:NNP', 'SNOOOW:NNP']
+
+['GAME:NNP', 'THRONES:NNP', 'BACK:NNP', 'APRIL:NNP']
+
+['FIRST:NNP', 'TEASER:NNP', 'POSTER:NNP', 'JON:NNP', 'SNOW:NNP', 'POSTER:NNP', 'LIVE:VBP']
+
+['JON:NNP', 'SNOW:NNP', "FUCKIN':NNP", 'ALIVE:NNP']
+
+['Still:RB', 'tak:JJ', 'move:NN', 'Jon:NNP', 'Snow:NNP', 'Takkan:NNP', 'move:NN']
+
+['April:NNP', '2016:CD', 'far:RB', 'away:RB', 'least:JJS', 'poster:NN', 'confirms:VBZ', "we'll:NN", 'see:VBP', 'Jon:NNP', 'Snow:NNP']
+
+['Hola:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'snow:NN']
+
+['Glen:NNP', 'alive:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['cried:VBD', 'REALL:NNP', 'tears:NNS', 'stabbed:VBD', 'Jon:NNP', 'snow:NN', 'last:JJ', 'season:NN']
+
+['Jon:NNP', 'Snow:NNP', '))):NN']
+
+['JON:NNP', 'SNOW:NNP', 'JON:NNP', 'SNOW:NNP', 'JON:NNP', 'SNOW:NNP', 'JON:NNP', 'SNOW:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'alive:JJ', 'BITCH:NNP']
+
+['Game:NN', 'Thrones:NNP', 'teases:NNS', 'season:NN', '6:CD', 'picture:NN', 'bloodied:JJ', 'Jon:NNP', 'Snow:NNP', 'Visit:NNP']
+
+['Oh:UH', 'hey:NN', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'alive:JJ']
+
+['People:NNS', 'tweet:NN', 'could:MD', 'refer:VB', 'Jon:NNP', 'Snow:NNP', 'Jeremy:NNP', 'Corbyn:NNP', 'Bruce:NNP', 'Forsyth:NNP']
+
+['Game:NN', 'Thrones:NNP', 'releases:NNS', 'Season:NNP', '6:CD', 'teaser:NN', 'art:NN']
+
+['Jon:NNP', "Snow's:NNP", 'bloody:NN', 'nose:NN']
+
+['Jon:NNP', 'Snow:NNP', 'alive:JJ', 'alive:JJ', 'reservations?:NN']
+
+['WHOA:NNP', 'confirms:VBZ', 'Jon:NNP', 'Snows:NNP', 'return:NN', 'massive:JJ', 'Times:NNP', 'Square:NNP', 'billboard:NN']
+
+['course:NN', 'Jon:NNP', 'Snow:NNP', 'certainly:RB', 'back:RB']
+
+['hoping:VBG', "weren't:VBP", 'going:VBG', 'kill:VB', 'RT:NNP', 'Waiitttt:NNP', 'Jon:NNP', 'snow:VBP', 'lives????:JJ', 'hollup:NN', 'hollup:NN', 'hollup:NN']
+
+['Jon:NNP', 'Snow:NNP', 'Back:NNP']
+
+['first:JJ', 'season:NN', '6:CD', 'poster:NN', 'teases:NNS', 'Jon:NNP', "Snow's:NNP", 'fate:NN']
+
+['oh:UH', 'hey:NN', 'jon:NN', 'snow:NN']
+
+['Spoiler-:JJ', 'Hey:NNP', "Arnold's:NNP", 'parents:NNS', 'Jon:NNP', 'Snow:NNP', 'Glenn:NNP']
+
+['OMG:NNP', "don't:VBP", 'know:VB', 'nothing:NN', 'Jon:NNP', 'Snow:NNP']
+
+['Game:NN', 'Thrones:NNP', 'teases:NNS', 'season:NN', '6:CD', 'picture:NN', 'bloodied:JJ', 'Jon:NNP', 'Snow:NNP', 'Think:NNP', 'Jon:NNP', 'Snow:NNP', 'really:RB', 'dead?:JJ', 'know:VBP']
+
+['LA:NNP', 'CRIATUUUURAAAA:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'tak:VBZ', 'mati:NNS', 'injured:VBN', 'recovered:VBD', 'jadi:JJ', 'Presiden:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'snow:VBP', 'revive:JJ', 'para:NN', 'comandar:NN', 'los:JJ', 'white:JJ', 'walkers:NNS']
+
+['danger:NN', 'Jon:NNP', 'Snow:NNP', 'Game:NNP', 'Thrones:NNP', 'season:NN', '6:CD']
+
+['AAAAAAAAAAAAAAAAAAAAAAA:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP']
+
+['HBO:NNP', 'released:VBN', 'poster:NN', 'online:NN', 'hint:VB', 'Jon:NNP', 'Snow:NNP', 'alive?:JJ', 'Season:NNP', '6:CD']
+
+['Retweeted:VBN', 'Superhero:NNP', 'Feed:NNP', '(@SuperheroFeed):NNP', 'First:NNP', "'GAME:NNP", "THRONES':NNP", 'Season:NNP', '6:CD', 'Teaser:NNP', 'Art:NNP', 'Features:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['reckon:VBP', 'Jon:NNP', 'Snow:NNP', 'shower:NN', 'dream:NN']
+
+['Jon:NNP', 'Snow:NNP', 'cheeky:VBP', 'bastard:RB']
+
+['Long:RB', 'live:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'MOTHERFUCKING:NNP', 'Snow:NNP', 'RT:NNP', 'APRIL:NNP']
+
+['picture:NN', 'gives:VBZ', 'hope:VBP', 'Jon:NNP', 'snow:VBP', "didn't:NN", 'die:NN']
+
+['YAAASSSS:NNP', 'JON:NNP', 'SNOW:NNP', 'LIVES:NNP']
+
+['gotta:VBP', 'use:JJ', 'dead:JJ', 'Jon:NNP', 'Snow:NNP', 'teaser:NN', 'art:NN', 'Monsters:NNS']
+
+['probably:RB', 'see:VB', 'parallels:NNS', 'books:NNS', 'actually:RB', 'storylines:JJ', 'ie-Jon:JJ', 'Snow/Lady:NNP', 'Stoneheart:NNP', 'etc:NN']
+
+["'Game:NN", "Thrones':NNP", 'Giant:NNP', 'Jon:NNP', 'Snow:NNP', 'Billboard:NNP', 'Times:NNP', 'Square:NNP']
+
+['Game:NN', 'Thrones:NNP', 'back:RB', 'April:NNP', 'looks:VBZ', 'like:IN', 'Jon:NNP', 'Snow:NNP']
+
+['Game:NN', 'Thrones:NNP', 'Season:NNP', '6:CD', 'Art:NNP', 'Teases:NNP', 'Jon:NNP', 'Snow:NNP', 'Confirms:NNP', 'April:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'LIVES:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'P:NNP']
+
+['April:NNP', 'Jon:NNP', 'Snow:NNP', 'coming:VBG']
+
+['Jon:NNP', 'Snow:NNP', 'lives?:NN']
+
+['fuck:JJ', 'sake:NN', 'Jon:NNP', 'Snow:NNP', 'plz:VBZ', 'return:NN']
+
+['CSM:NNP', 'Jon:NNP', 'snow:NN']
+
+['Even:RB', 'manliest:JJS', 'men:NNS', "can't:VBP", 'resist:VB', 'Jon:NNP', 'Snow:NNP']
+
+['First:RB', 'Glenn:NNP', '&amp;:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'news?:NN']
+
+['RIP:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'coming:VBG']
+
+['Wait:NNP', 'Jon:NNP', 'Snow:NNP', 'dead?:VB']
+
+['GoT:NNP', 'promo?:NN', 'BASICALLY:NNP', 'JON:NNP', 'SNOW:NNP', 'BACK:NNP', 'JON:NNP', 'SNOW:NNP', 'BACK:NNP', 'AZOR:NNP', 'AZAAAAI:NNP', 'REBORN:NNP']
+
+['Omg:NNP', "can't:NN", 'wait:NN', 'know:VBP', 'everyone:NN', 'likes:NNS', 'Jon:NNP', 'Snow:NNP', "can't:VBP", 'stand:VB', 'better:VBD', 'alive:JJ', 'LOL:NNP']
+
+['Waiitttt:NNP', 'Jon:NNP', 'snow:VBP', 'lives????:JJ', 'hollup:NN', 'hollup:NN', 'hollup:NN']
+
+['SIGN:NN', 'JON:NNP', 'SNOW:NNP']
+
+['Game:NNP', 'Thrones:NNP', 'teaser:NN', 'poster:NN', 'made:VBD', 'literally:RB', 'LOL:NNP', 'Grade-A:NNP', 'trolling:VBG', 'HBO:NNP']
+
+['&amp;:JJ', 'Jon:NNP', 'snow:NN', 'lives:NNS']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'KNOW:VBP']
+
+['POSSIBLE:NNP', 'SPOILER:NNP', 'ALERT:NNP', 'Jon:NNP', 'snow:NN', 'photo:NN', 'Good:NNP', 'news:NN', 'Jon:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'Alive:JJ', 'BITCHES:NNP']
+
+['COULD:NNP', 'SIGN:NNP', 'JON:NNP', 'SNOW:NNP', 'STILL:NNP', 'ALIVE:NNP', 'HUHUHU:NNP', 'OH:NNP', 'GOD:NNP', 'HEEEELP:NNP']
+
+['mean:JJ', 'Jon:NNP', 'Snow:NNP', 'returns?:NN']
+
+['jon:NN', 'snow:NN']
+
+['Jon:NNP', 'Snow:NNP', 'alive:JJ', "It's:NNP", 'LIT:NNP']
+
+['CANT:NNP', 'FUCKING:NNP', 'WAIT:NNP', 'JON:NNP', 'FUCKING:NNP', 'SNOW:NNP', 'PEOPLE:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'ISNT:NNP', 'DEAD:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'MOTHERFUCK:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'LIVES:NNP', 'See:NNP', 'first:JJ', 'poster:NN', 'season:NN', '6:CD']
+
+['Ahhhhh:NNP', 'Jon:NNP', 'Snow:NNP', 'live?:NN']
+
+['Oh:UH', 'Jon:RB', 'Snow:VB']
+
+['shock:NN', 'jon:NN', 'snow:NN']
+
+['JON:NNP', 'SNOW:NNP', 'LIVE:NNP', 'FOREVER:NNP']
+
+['Jon:NNP', 'fucking:VBG', 'Snow:NNP', 'Revival:NNP']
+
+['Snow:NNP', 'coming:VBG', 'yes:RB', 'Jon:NNP', 'Snow:NNP', 'coming:VBG']
+
+['GOT:NNP', 'season6:JJ', 'Promo:NNP', 'seems:VBZ', 'like:IN', 'Jon:NNP', 'Snow:NNP', 'alive:JJ']
+
+['GoT:NNP', 'official:JJ', 'poster:NN', 'Jon:NNP', 'Snow:NNP', 'means:VBZ', 'must:MD', 'alive:JJ', 'right?:NN', 'Right??:NNP', 'better:RB', 'alive:JJ']
+
+['Game:NN', 'Thrones:NNP', 'season:NN', '6:CD', 'poster:NN', 'released:VBN', 'HBO:NNP', 'featuring:VBG', 'Jon:NNP', 'Snow:NNP']
+
+['JON:NNP', 'FUCKING:NNP', 'SNOW:NNP']
+
+['Saying:VBG', "don't:VBP", 'know:VB', 'everything:NN', "you're:NN", 'Jon:NNP', 'Snow:NNP', 'mood:NN']
+
+['April:NNP', 'hurry:VBP', 'game:NN', 'thrones:NNS', 'back:RB', 'cry:VB', 'Jon:NNP', 'snow:VBP']
+
+['Jon:NNP', 'Snow:NNP', 'totallyyyyy:IN', 'one:NN', 'ends:VBZ', 'throne:NN', 'end:NN', 'series:NN', 'doubt:NN']
+
+['Maybe:RB', 'Jon:NNP', 'Snow:NNP', 'crawled:VBD', 'dumpster:NN', '*wink*:JJ']
+
+['JON:NNP', 'SNOW:NNP', 'JON:NNP', 'SNOW:NNP', "HE'S:NNP", "HE'S:NNP", 'ALIVE????:NNP']
+
+['INDIE:NNP', 'GRIND:NNP', 'NEWS:NNP', 'Game:NNP', 'Thrones:NNP', 'New:NNP', 'spoilers:NNS', 'Game:NNP', 'Thrones:NNP', 'suggests:VBZ', 'White:NNP', 'Walkers:NNPS', 'atta:VB']
+
+['GAME:NNP', 'THRONES:NNP', 'SEASON:NNP', '6:CD', 'APRIL---AND:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP']
+
+['nigggga:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'snow:VBP', 'shall:MD', 'never:RB', 'die:VB']
+
+['DISEMBODIED:NNP', 'JON:NNP', 'SNOW:NNP', 'VOICE:NNP', 'Meanwhile:RB', 'Riverrun:NNP', 'different:JJ', 'type:NN', 'dance:NN', 'getting:VBG', 'underway:RB']
+
+['DIGITAL:NNP', 'FASHION:NNP', 'NEWS:NNP', 'Game:NNP', 'Thrones:NNP', 'New:NNP', 'spoilers:NNS', 'Game:NNP', 'Thrones:NNP', 'suggests:VBZ', 'White:NNP', 'Walkers:NNPS']
+
+['cannot:VBP', 'handle:VB', 'Jon:NNP', 'Snow:NNP', 'promo:VBZ', 'right:RB']
+
+['JON:NNP', 'SNOW:NNP', 'AINT:NNP', 'DEAD:NNP', 'NIGGAS:NNP', 'JUS:NNP', 'SCARED:NNP']
+
+["CAN'T:NNP", 'TELL:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'DEAD:NNP', 'HAHAHA:NNP', "ISN'T:NNP", 'FUNNY:NNP', 'KEEP:NNP', 'BREAKING:NNP', 'HEART:NNP', 'GAME:NNP', 'THRONES:NNP']
+
+['hi:NN', 'jon:NN', 'snow:NN']
+
+['Jon:NNP', 'Snow:NNP', 'comes:VBZ', 'back:RB', "I'll:NNP", 'soil:NN']
+
+['Jon:NNP', 'Snow:NNP', "doesn't:VBZ", 'survive:VBP', 'like:IN', 'Glenn:NNP', "I'm:NNP", 'going:VBG', 'pissed:VBN']
+
+['Jon:NNP', 'Snow:NNP', 'turns:VBZ', 'alive/present:JJ', 'show:NN', 'poster:NN', "I'm:NNP", 'going:VBG', 'upset:JJ', 'lolbut:NN', 'actually:RB']
+
+['Jon:NNP', 'Snow:NNP', 'return:VB', 'Game:NNP', 'Thrones:NNP']
+
+['even:RB', 'official:JJ', 'twitter:NN', 'playing:VBG', 'like:IN', 'Jon:NNP', 'Snow:NNP', 'really:RB', 'dead:JJ', 'smh:NN']
+
+['First:RB', 'Poster:NNP', "'Game:NN", "Thrones':NNP", 'Season:NNP', '6:CD', 'Reveals:NNP', 'Jon:NNP', 'Snow:NNP']
+
+['jon:NN', 'snow:NN', 'still:RB', 'season:NN', '6:CD', 'knew:VBD', 'bc:VBZ', 'melisandre:NN', 'something:NN', 'good:NN', 'b:JJ', 'jon:NN', 'became:VBD', 'white:JJ', 'walker:NN']
+
+['Game:NN', 'thrones:NNS', 'posterinde:NNS', 'jon:NN', 'snow:VBP', 'var:NN', 'allahu:NN', 'ekber:NN']
+
+['Game:NNP', 'Thrones:NNP', 'meltdown:NN', 'Jon:NNP', 'Snow:NNP']
+
+['Bring:NNP', 'back:RP', 'Jon:NNP', 'Snow:NNP']
+
+['Hmmmm:NNP', 'would:MD', 'feature:VB', 'Jon:NNP', 'Snow:NNP', 'promotional:JJ', 'material:NN', 'season:NN', '6??:CD']
+
+['glad:JJ', 'Jon:NNP', 'Snow:NNP', 'managed:VBD', 'crawl:VB', 'dumpster:NN']
+
+['jon:NN', 'snow:NN', 'back:RB']
+
+["Can't:NNP", 'wait:NN', 'see:VB', 'boy:NN', 'Jon:NNP', 'Snow:NNP', 'fuck:NN', 'shit:VBD', 'season:NN']
+
+['JON:NNP', 'SNOW:NNP', 'VIVE:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'BABE:NNP']
+
+['OK:NNP', 'totally:RB', 'trolling:JJ', 'us:PRP', 'Jon:NNP', 'Snow:NNP', 'first:JJ', 'season:NN', '6:CD', 'poster:NN', 'right?:NN']
+
+['Jon:NNP', 'Snow:NNP', 'ALIVE:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'JON:NNP', 'SNOW:NNP', 'AL:NNP']
+
+['reminder:NN', 'Jon:NNP', 'Snow:NNP', 'official:JJ', 'poster:NN', 'Game:NNP', 'Thrones:NNP', 'season:NN', '6:CD']
+
+['Game:NN', 'Thrones:NNP', 'drops:VBZ', 'teaser:NN', 'image:NN', 'season:NN', '6:CD', 'andthat:WP', 'guy:NN', 'looks:VBZ', 'pretty:RB', 'alive:JJ']
+
+['Jon:NNP', 'Snow:NNP', 'Lives:VBZ']
+
+['Glenn:NNP', 'alive:JJ', 'fucking:JJ', 'JON:NNP', 'SNOW:NNP']
+
+['jon:NN', 'freaking:VBG', 'snow:NN', 'ready?:VBP']
+
+['Jon:NNP', 'Snow:NNP', 'gonna:VBZ', 'come:VB', 'back:RB', 'one:CD', 'ice:JJ', 'demonic:JJ', 'things:NNS', "it's:VB", 'gonna:NN', 'lit:VBN']
+
+['Yeah:UH', 'bitches:NNS', 'Jon:NNP', 'Snow:NNP', 'lives:VBZ', 'Glenn:NNP', 'lives:VBZ', 'really:RB', 'great:JJ', 'TV:NN', 'week:NN']
+
+['JON:NNP', 'SNOW:NNP', 'official:JJ', 'poster:NN']
+
+['need:VBP', 'Jon:NNP', 'Snow:NNP', 'back:RB', 'Jon:NNP', "doesn't:VBD", 'come:VB', 'back:RB', "I'll:NNP", 'never:RB', 'forgive:VBP']
+
+['Jon:NNP', 'Snowalive?:NNP', "Let's:NNP", 'hope:VBP', 'c/@jeff_maccallum:NN']
+
+['Jon:NNP', 'Snow:NNP', 'promotional:JJ', 'poster:NN']
+
+['Jon:NNP', 'snow:NN', 'alive:JJ']
+
+['OMG:IN', 'PIC:NNP', 'JON:NNP', 'SNOW:NNP', 'BLOOD:NNP', 'FACE:NNP', 'OMG:NNP', 'U:NNP', 'GUYS:NNP', 'SRS:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'ALIIIIIIIIIIIIIIIIIIIIIIIIIIIVE:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'SEASON:NNP', '6:CD', 'PROMO:NNP', 'GAME:NNP', 'THRONES:NNP', 'ALIVE:NNP', 'RIGHT?:NNP']
+
+['betting:VBG', 'Jon:NNP', 'Snow:NNP', 'return:NN', 'also:RB', "'Game:VB", "Thrones':NNP"]
+
+['JON:NNP', 'SNOW:NNP', 'TA:NNP', 'VIVA:NNP', 'AFF:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'POSTER:NNP', 'NXT:NNP', 'SEASON:NNP', 'OMG:NNP', 'NAWALA:NNP', 'PAGOD:NNP', 'KO:NNP', 'OMG:NNP', 'OMG:NNP', 'OMG:NNP', 'OMG:NNP', 'OMG:NNP']
+
+['jon:NN', 'snow:VBP', 'see?????????:NN']
+
+["'Game:NN", "Thrones':NNP", 'Season:NNP', 'Six:NNP', 'Poster:NNP', 'Features:VBZ', 'Character:NN', "'Deader:JJR", "Dead':NNP"]
+
+['also:RB', 'would:MD', 'hboconfirm:VB', 'Jon:NNP', 'Snow:NNP', 'alive:JJ', 'already:RB']
+
+['First:RB', 'Poster:NNP', "'Game:NN", "Thrones':NNP", 'Season:NNP', '6:CD', 'Reveals:NNP', 'Jon:NNP', 'Snow:NNP', 'Uh:NNP', "isn't:VB", 'guy:NN']
+
+['KILL:NNP', 'JON:NNP', 'SNOW:NNP', 'ALREADY:NNP', 'JFC:NNP']
+
+['im:NN', 'assuming:VBG', 'Jon:NNP', 'Snow:NNP', 'resurrected:VBN', 'cause:NN', 'Melisandre:NNP', 'sex:NN', 'corpse?:NN']
+
+['GLENN:NNP', 'JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'BLESSED:NNP', 'MONDAY:NNP']
+
+['Yall:DT', 'aint:NN', 'know:VBP', 'Jon:NNP', 'Snow:NNP', 'coming:VBG', 'back?:NN']
+
+['jon:NN', 'snow:NN', 'crawled:VBN', 'dumpster:NN', 'hahahhaah:JJ']
+
+['JON:NNP', 'SNOW:NNP', 'DEMN:NNP']
+
+['RT:NNP', 'new:JJ', "'Game:NN", "Thrones':NNP", 'poster:NN', 'going:VBG', 'drive:VB', 'Jon:NNP', 'Snow:NNP', 'fans:NNS', 'crazy:VBP']
+
+['JON:NNP', 'SNOW:NNP', '\\o:NNP']
+
+['President:NNP', 'Obama:NNP', 'obsessed:VBN']
+
+["Wouldn't:NNP", 'go:VB', 'crazy:JJ', 'GoT:NNP', 'poster:NN', 'Still:RB', 'decent:JJ', 'chance:NN', 'Jon:NNP', 'Snow:NNP', 'spends:VBZ', 'next:JJ', '3:CD', 'seasons:NNS', 'sort:NN', 'ghost:NN', 'narrator:NN']
+
+['think:VBP', 'HBO:NNP', 'made:VBD', 'official:JJ', 'Jon:NNP', 'Snow:NNP', 'alive:JJ']
+
+['Jon:NNP', 'Snow:NNP', 'ALIVE:NNP', 'God:NNP']
+
+['Hopefully:NNP', 'Jon:NNP', 'Snow:NNP', 'crawled:VBD', 'dumpster:NN']
+
+['fucker:NN', 'jon:NN', 'snow:VBP', 'lives:VBZ', 'mayn:NNS']
+
+['got:RB', 'excited:VBN', 'see:VB', 'jon:NN', 'snow:NNS', 'april:JJ', 'APRIL:NNP', 'APRIL:NNP']
+
+['mean:VB', 'jon:NN', 'snow:NN', 'alive?:JJ']
+
+['FATE:NN', 'JON:NNP', 'SNOW:NNP']
+
+['Game:NN', 'Thrones:NNP', 'Season:NNP', '6:CD', 'Poster:NNP', 'Jon:NNP', 'SnowReturns?:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'got:VBD', 'massacred:VBN', "he's:VBP", 'alive:JJ', 'again?:NN', 'bullshit:NN']
+
+['know:VBP', 'Nothing:VBG', 'Jon:NNP', 'Snow:NNP']
+
+['Wow:NNP', 'know:VBP', 'Jon:NNP', 'Snow:NNP', "isn't:VBZ", 'dead:JJ']
+
+['news:NN', 'SEE:VBP', 'U:JJ', 'JON:NNP', 'SNOW:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'back:RB']
+
+['Okay:NNP', 'guess:VBP', "I'll:NNP", 'watch:NN', 'Season:NNP', '6:CD']
+
+['Jon:NNP', 'Snow?:NNP', 'Alive??:NNP', 'White:NNP', 'walker???:NN']
+
+['HBO:NNP', 'confirming:VBG', 'Jon:NNP', 'Snow:NNP', 'alive:JJ', 'lmao:NN']
+
+['vowed:VBD', "wouldn't:VBP", 'watch:VB', 'show:NN', 'killed:VBD', 'Jon:NNP', 'Snow:NNP', 'Haha:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'SEE:VBP']
+
+['OH:UH', 'GOD:NNP', 'OH:NNP', 'GOD:NNP', 'OH:NNP', 'GOD:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['jon:NN', 'snow:NN', 'dead:JJ', 'rly:RB']
+
+["I've:NNP", 'come:VBP', 'conclusion:NN', 'Glenn:NNP', 'alive:JJ', 'Jon:NNP', 'Snow:NNP']
+
+["I'm:NNP", 'hoping:VBG', 'Jon:NNP', 'Snow:NNP', 'really:RB', 'dead:JJ', 'HBO:NNP', 'getting:VBG', "people's:NNS", 'hopes:VBZ', 'crush:VB', 'Like:IN', 'well:RB', 'Game:NNP', 'Thrones:NNP']
+
+['Glenn:NNP', 'alive:JJ', 'Jon:NNP', 'Snow:NNP', 'alive:JJ']
+
+['Soooo:NNP', 'Jon:NNP', 'snow:NN', 'advert:NN', 'season:NN', '6:CD', 'alive:JJ', 'nah:JJ']
+
+['miss:VBP', 'GoT:NNP', 'discussing:VBG', 'shit:JJ', 'load:NN', 'theories:NNS', 'supporting:VBG', 'Jon:NNP', 'Snow:NNP', 'dead:JJ']
+
+['People:NNS', 'complain:VBP', 'Glenn:NNP', 'walking:NN', 'dead:JJ', 'yet:RB', 'people:NNS', "aren't:VBP", 'blinking:VBG', 'eye:NN', 'Jon:NNP', 'snow:VBP', 'lol:NN']
+
+['Yoooo:NN', 'season:NN', '5:CD', 'jon:NN', 'snow:JJ', 'picture:NN', 'hbo:JJ', 'game:NN', 'thrones:NNS', 'twitter:RB', 'fucking:VBG', 'posted:VBN', 'HYPE:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'dead:JJ']
+
+['Jon:NNP', 'Snow:NNP', 'hide:NN', 'dumpster:NN', 'too?:NN']
+
+['HELLO:NNP', 'JON:NNP', 'SNOW:NNP']
+
+['Bring:VB', 'season-long:JJ', 'Jon:NNP', 'Snow:NNP', 'reincarnate:VB', 'murder:NN', 'rampage:NN']
+
+['Jon:NNP', 'Snow:NNP', 'lives:VBZ', '(I:NNP', 'literally:RB', 'screamed:VBD', 'lungs:NNS', 'saw:VBD', 'itseriouslky:JJ', 'mom:NN', 'thought:VBD']
+
+["didn't:VBP", 'hear:JJ', 'bell:NN', 'Jon:NNP', 'Snow:NNP', '(probably):NN']
+
+['know:VBP', 'everything:NN', 'Jon:NNP', 'Snow:NNP']
+
+['mean:JJ', 'Jon:NNP', 'Snow:NNP', 'crawled:VBD', 'dumpster:NN', 'too?:NN']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE?:NNP', 'WALKER:NNP', 'ALREADY?:NNP', 'KIND:NNP', 'POSTER:NNP', 'RELEASED?:NNP', 'MEANNNN:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'OFFICIALLY:NNP', 'RETURNS:NNP']
+
+['TV:NN', 'dead:NN', 'officially:RB', 'risen:VBN', 'less:JJR', 'days:NNS', 'time:NN', 'said:VBD', 'last:JJ', 'week:NN', "it's:VBD", 'issue:NN']
+
+['JON:NNP', 'SNOW:NNP', 'OMFGH:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'poster:NN']
+
+['ade:JJ', 'hint:NN', 'tu:NN', 'weh:NN', 'ade:VBD', 'jon:NN', 'snow:NN']
+
+['Jon:NNP', 'Snow:NNP', 'survive?:NN', 'zombie?:NN']
+
+['Game:NN', 'Thrones:NNP', 'Teases:NNP', 'Jon:NNP', 'Snows:NNP', 'Season:NNP', '6:CD', 'Return:NNP', 'HBO:NNP', 'revealed:VBD', 'Jon:NNP', 'Snow:NNP', 'alive:JJ', 'Game:NNP', 'Thrones:NNP']
+
+['Whoever:WDT', 'theory:NN', 'Jon:NNP', "Snow's:NNP", 'eyes:VBD', 'season:NN', '6:CD', 'poster:NN', 'back:RP']
+
+['verge:NN', 'Game:NNP', 'Thrones:NNP', 'announces:NNS', 'season:NN', 'six:CD', 'premiere:NN', 'bloody:JJ', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'lives:VBZ', 'omfg:RP', 'omfg:NNS']
+
+['YES:UH', 'JON:NNP', 'SNOW:NNP']
+
+['Yeah:NNS', "that's:VBZ", 'Jon:NNP', 'Snow:NNP', '&gt;&gt;:NN']
+
+['Jon:NNP', 'Snow:NNP', "don't:VBZ", 'play:NN', 'heart:NN', 'like:IN']
+
+['Whoa:NNP', 'Jon:NNP', 'Snow:NNP', 'Revealed:NNP', 'First:NNP', 'Poster:NNP', "'Game:NN", "Thrones':NNP", 'Season:NNP', '6:CD']
+
+['got:VBD', 'Jon:NNP', 'Snow:NNP', 'fuck:NN', 'outta:NN', 'man:NN', 'Shit:NNP', 'broke:VBD', 'heart:NN']
+
+['Pretty:NNP', 'sure:JJ', 'Jon:NNP', 'Snow:NNP', 'crawled:VBD', 'dumpster:NN', 'Hahahaha:NNP']
+
+['New:NNP', 'Game:NNP', 'Thrones:NNP', 'Poster:NNP', 'Jon:NNP', 'Snow:NNP', 'Lives:VBZ']
+
+['Jon:NNP', 'Snow:NNP', 'you??:NN']
+
+['jon:VB', 'snow:JJ', 'back?:VBN', 'way:NN', 'dead:JJ', 'tho:IN']
+
+['promo:NN', 'image:NN', 'already:RB', 'spoilered:VBN', 'Jon:NNP', 'Snow:NNP', 'alive:JJ', 'tell:VBP', 'earth:NN', 'watch:VB', 'Game:NNP', 'Thrones:NNP', 's6:NN']
+
+['hey:NN', 'hey:VBP', "Don't:NNP", 'tease:NN', "aren't:JJ", 'resolving:VBG', 'Jon:NNP', 'Snow:NNP', 'storyline:VB', 'time:NN', 'soon:RB']
+
+['YES:UH', 'JON:NNP', 'SNOW:NNP', 'GONNA:NNP', 'COME:NNP', 'BACK:NNP', 'SLAY:NNP', 'EM:NNP', 'NIGHT:NNP', 'WATCHERS:NNP', 'WHITE:NNP', 'WALKERS:NNP', 'END:NNP', 'SAVING:NNP', 'ERRBODY:NNP']
+
+['Jon:NNP', 'Snow:NNP', "isn't:VBZ", 'dead:JJ', 'knew:VBD']
+
+['Jon:VBP', 'Snow?:VB']
+
+['JON:NNP', 'SNOW:NNP', 'BABY:NNP']
+
+['JON:NNP', 'SNOW:NNP', 'BBY:NNP']
+
+['Poor:NNP', 'jon:NN', 'snow:NN']
+
+['Stay:NNP', 'alive:JJ', 'would:MD', 'enough:JJ']
+
+['WATCH:NNP', 'RT:NNP', 'white:JJ', 'nigga:JJ', 'Jon:NNP', 'Snow:NNP', 'byke?:NN']
+
+['else:RB', 'going:VBG', 'ticked:VBN', 'turns:VBZ', 'Jon:NNP', 'Snow:NNP', 'hiding:VBG', 'underneath:RP', 'dumpster?:NN']
+
+['JON:NNP', 'SNOW:NNP', "ISN'T:NNP", 'DEAD:NNP', 'TOLD:VBD', 'YA:NNP']
+
+['allllaaaaahhhhh:NN', 'Jon:NNP', 'snow:NN', 'coming:VBG']
+
+['JON:NNP', 'SNOW:NNP', 'STILL:NNP', 'GOTS06:NNP', 'OMG:NNP', 'OMG:NNP']
+
+['OOOOOHHH:NNP', 'GODDDDDDDDDDD:NNP', 'JON:NNP', 'SNOW:NNP', 'OFFICAL:NNP', 'POSTER:NNP', 'GAME:NNP', 'THRONES:NNP', 'SEASON:NNP', '6:CD']
+
+['know:VBP', 'something:NN', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'alive:JJ', 'D:NNP']
+
+['Game:NNP', 'Thrones:NNP', 'release:VB', 'official:JJ', 'season:NN', '6:CD', 'poster:NN', 'bloody:JJ', 'Jon:NNP', 'Snow:NNP', 'front?????:NN', 'mean:VB', 'think:VBP', 'means??:VBD']
+
+['Wait:WRB', 'min:NN', 'Jon:NNP', 'Snow:NNP', 'still:RB', 'alive:JJ', 'FOH?:NNP']
+
+['Long:RB', 'Live:NNP', 'Jon:NNP', 'Snow:NNP', 'true:JJ', 'king:NN', 'north:NN']
+
+['Aw:NNP', 'man:NN', 'Game:NNP', 'Thrones:NNP', '--::', 'happy:JJ', "you're:NN", 'finally:RB', 'admitting:VBG', "couldn't:VBP", 'let:VB', 'GLENN:NNP', 'ONE:CD', 'DAY?:NNP']
+
+['Oh:UH', "c'mon:NN", 'Jon:NNP', 'Snow:NNP', 'dead?:JJ', 'Alive?:NNP', 'Zombie?:NNP', 'Playing:VBG', 'hearts?:NN', '&lt;/3:NN']
+
+['1111:CD', 'Jon:NNP', 'snow:NN', 'alive:JJ']
+
+['Jon:NNP', 'Snow:NNP', 'poster????:NN']
+
+['Jon:NNP', 'Snow:NNP', 'beautiful:VBP', 'resurrected:VBN', 'bastard:NN']
+
+['Voy:VB', 'fallecer:NN', 'con:NN', 'ese:JJ', 'poster:NN', 'con:NN', 'Jon:NNP', 'Snow:NNP']
+
+['Jon:NNP', 'Snow:NNP', 'maybe:RB', 'alive:VBP', 'all?:JJ', 'Maybe:NNP', 'watch:VB', 'season:NN', '6:CD', 'Haha:NNP']
+
+['really:RB', 'really:RB', 'wanted:JJ', 'Jon:NNP', 'Snow:NNP', 'dead:JJ', 'tho:NN']
+
+['mean:JJ', 'Jon:NNP', 'Snow:NNP', 'lives?:NN']
+
+['WordRT:NNP', 'Glenn:NNP', 'alive:JJ', 'hope:NN', 'Jon:NNP', 'Snow:NNP']
+
+["I'm:NNP", 'hoping:VBG', 'see:VB', 'Jon:NNP', 'Snow:NNP', 'resurrect:VBP', 'dead:JJ', 'next:JJ', 'season:NN']
+
+['Obviamente:NNP', 'Jon:NNP', 'Snow:NNP', 'dead:JJ']
+
+['told:RB', "y'all:NN", 'jon:NN', 'snow:VBP', "ain't:VBZ", 'dead:JJ']
+
+['HBO:NNP', 'trolling:VBG', 'new:JJ', 'Jon:NNP', 'Snow:NNP', 'teaser:NN', 'timing:NN', 'pretty:JJ', 'convenient:NN']
+
+['Jon:NNP', 'Snow:NNP', 'alive?:JJ']
+
+['Ce:NNP', 'teasing:VBG', 'rien:NN', "qu'a:NN", "l'affiche:NN", 'x):IN', 'know:VBP', 'nothing:NN', 'Jon:NNP', 'Snow:NNP']
+
+['BIEBER:NNP', 'BRADY:NNP', 'JON:NNP', 'SNOW:NNP', 'ONE:NNP', 'DIRECTION?:NNP', 'one:CD', 'week?:NN', "It's:NNP", 'like:IN', 'God:NNP', 'got:VBD', 'months:NNS', 'mixed:VBN', 'thinks:NNS', "it's:VBP", 'Xmas:NN']
+
+['Jon:NNP', 'Snow:NNP', 'also:RB', 'crawled:VBD', 'dumpster:NN']
+
+['JON:NNP', 'SNOW:NNP', 'BACK:NNP', 'RT:NNP', 'APRIL:NNP']
+
+['white:JJ', 'nigga:JJ', 'Jon:NNP', 'Snow:NNP', 'byke?:NN']
+
+['JON:NNP', 'SNOW:NNP', 'ALIVE:NNP', 'PEOPLE:NNP']
+
