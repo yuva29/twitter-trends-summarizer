@@ -1,7 +1,9 @@
+Summaries will greatly help the user in understanding “why the topic is trending”. We have proposed an algorithm which automatically generates summaries for trending topics/hashtags based on tweets and it's related news article.
+
 Requirements: 
 	- pip install tweepy
 	- pip install nltk
-	- 
+	 
 1. TrendingHashtags.py
 	Collect currently trending hashtags. 
 	To run: TrendingHashtags.py > hashtags.txt
